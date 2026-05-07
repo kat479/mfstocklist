@@ -1,0 +1,8 @@
+yfinance>=0.2.36
+pandas>=2.0
+requests>=2.31
+streamlit>=1.35
+plotly>=5.20
+python-dateutil>=2.8
+frozendict>=2.3          # yfinance dependency — explicit pin avoids JSON issues
+numpy>=1.26
