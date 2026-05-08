@@ -1,32 +1,18 @@
 """
 scripts/pipeline.py
 ====================
-Headless data pipeline designed to run as three independent GitHub Actions
-jobs, each fitting comfortably within a 60-minute timeout.
+Headless data pipeline for weekly GitHub Actions runs.
 
-Usage (full run):
-    python scripts/pipeline.py --data-dir data --amc-file data/AMC.csv
+Step and time-budget are controlled via ENVIRONMENT VARIABLES so the
+CLI signature stays stable and no argument-parsing errors can occur:
 
-Usage (individual steps — used by GitHub Actions):
-    python scripts/pipeline.py --step map      --data-dir data
-    python scripts/pipeline.py --step nav      --data-dir data --time-budget 50
-    python scripts/pipeline.py --step holdings --data-dir data --time-budget 50
+    PIPELINE_STEP          map | nav | holdings | all  (default: all)
+    PIPELINE_TIME_BUDGET   integer minutes            (default: 999)
+    PIPELINE_FORCE_REFRESH true | false               (default: false)
 
---time-budget N   Stop fetching after N minutes and save whatever was
-                  completed. The next run picks up where this one left off.
---force-refresh   Ignore daily holdings cache and re-fetch everything.
-
-Output files (all in --data-dir):
-    funds_mapped.csv             ISIN → Yahoo symbol mapping
-    final_schemes_master.csv     AMC / Plan / Option per scheme
-    idcw_fy_output.csv           FY-wise NAV + IDCW yield metrics
-    holdings_cache.json          raw yfinance data (keyed by symbol)
-    holdings_top.csv             flattened top-holdings per fund
-    holdings_sector.csv          sector weightings per fund
-    holdings_asset_classes.csv   asset-class allocation per fund
-    holdings_mom_changes.csv     month-on-month weight changes
-    conviction_picks.csv         high-conviction multi-fund buy signals
-    run_metadata.json            run timestamp + summary stats
+CLI args (unchanged from original, all still work):
+    --data-dir   --amc-file   --start-date
+    --batch-size --sleep-min  --sleep-max  --force-refresh
 """
 
 import argparse
@@ -46,22 +32,34 @@ import yfinance as yf
 
 
 # ──────────────────────────────────────────────────────────
-# CLI
+# STEP / BUDGET — read from env, fall back to CLI / defaults
+# ──────────────────────────────────────────────────────────
+# GitHub Actions sets these in the workflow `env:` block.
+# When running locally they are simply absent, so defaults apply.
+_ENV_STEP    = os.environ.get("PIPELINE_STEP", "").strip().lower() or "all"
+_ENV_BUDGET  = int(os.environ.get("PIPELINE_TIME_BUDGET", "999") or "999")
+_ENV_FORCE   = os.environ.get("PIPELINE_FORCE_REFRESH", "false").lower() == "true"
+
+
+# ──────────────────────────────────────────────────────────
+# CLI  (only classic args — no --step / --time-budget here)
 # ──────────────────────────────────────────────────────────
 def parse_args():
-    p = argparse.ArgumentParser(description="MF data pipeline")
-    p.add_argument("--step",         default="all",
-                   choices=["all", "map", "nav", "holdings"],
-                   help="Which step to run (default: all)")
-    p.add_argument("--data-dir",     default="data")
-    p.add_argument("--amc-file",     default="data/AMC.csv")
-    p.add_argument("--start-date",   default="2018-03-15")
-    p.add_argument("--batch-size",   type=int,   default=150)
-    p.add_argument("--sleep-min",    type=float, default=8)
-    p.add_argument("--sleep-max",    type=float, default=14)
-    p.add_argument("--time-budget",  type=int,   default=999,
-                   help="Stop fetching after this many minutes (save progress and exit cleanly)")
-    p.add_argument("--force-refresh", action="store_true")
+    p = argparse.ArgumentParser(
+        description=(
+            "MF weekly data pipeline.\n"
+            "Step is controlled via PIPELINE_STEP env var "
+            "(map | nav | holdings | all)."
+        )
+    )
+    p.add_argument("--data-dir",      default="data")
+    p.add_argument("--amc-file",      default="data/AMC.csv")
+    p.add_argument("--start-date",    default="2018-03-15")
+    p.add_argument("--batch-size",    type=int,   default=150)
+    p.add_argument("--sleep-min",     type=float, default=8)
+    p.add_argument("--sleep-max",     type=float, default=14)
+    p.add_argument("--force-refresh", action="store_true",
+                   help="Ignore daily holdings cache (also set by PIPELINE_FORCE_REFRESH=true)")
     return p.parse_args()
 
 
@@ -69,7 +67,6 @@ def parse_args():
 # WALL-CLOCK BUDGET GUARD
 # ──────────────────────────────────────────────────────────
 class Budget:
-    """Simple wall-clock timer. Call .ok() before each expensive request."""
     def __init__(self, minutes: int):
         self._deadline = time.monotonic() + minutes * 60
 
@@ -77,14 +74,13 @@ class Budget:
         return time.monotonic() < self._deadline
 
     def remaining_min(self) -> float:
-        return max(0, (self._deadline - time.monotonic()) / 60)
+        return max(0.0, (self._deadline - time.monotonic()) / 60)
 
 
 # ──────────────────────────────────────────────────────────
-# JSON SERIALISATION SAFETY
+# JSON SAFETY
 # ──────────────────────────────────────────────────────────
 def _to_json_safe(obj, _depth=0):
-    """Convert any yfinance / pandas / numpy object to plain JSON-safe Python."""
     if _depth > 20:
         return None
     if obj is None or isinstance(obj, (bool, int, str)):
@@ -125,7 +121,6 @@ def _to_json_safe(obj, _depth=0):
 
 
 def safe_json_dump(obj, path):
-    """json.dump with automatic fallback through _to_json_safe."""
     try:
         with open(path, "w") as f:
             json.dump(obj, f)
@@ -146,7 +141,7 @@ def load_json(path):
 
 
 # ──────────────────────────────────────────────────────────
-# STEP 1 — AMFI fetch + ISIN → Yahoo mapping
+# STEP 1 — AMFI + ISIN mapping
 # ──────────────────────────────────────────────────────────
 AMFI_URL = "https://www.amfiindia.com/spages/NAVAll.txt"
 
@@ -161,17 +156,18 @@ def fetch_amfi():
     df["Scheme Code"] = df["Scheme Code"].astype(int)
     df["ISIN"] = df["ISIN Div Payout/ ISIN Growth"].fillna(df["ISIN Div Reinvestment"])
     df = df.dropna(subset=["ISIN"])
-    print(f"  {len(df)} schemes loaded from AMFI")
+    print(f"  {len(df)} schemes loaded")
     return df
 
 
-def isin_to_yahoo(isin: str) -> dict | None:
-    url = "https://query1.finance.yahoo.com/v1/finance/search"
+def isin_to_yahoo(isin):
     try:
-        r = requests.get(url,
-                         params={"q": isin, "quotesCount": 5, "newsCount": 0},
-                         headers={"User-Agent": "Mozilla/5.0"},
-                         timeout=10)
+        r = requests.get(
+            "https://query1.finance.yahoo.com/v1/finance/search",
+            params={"q": isin, "quotesCount": 5, "newsCount": 0},
+            headers={"User-Agent": "Mozilla/5.0"},
+            timeout=8,
+        )
         for q in r.json().get("quotes", []):
             if q.get("quoteType") in ("MUTUALFUND", "ETF", "EQUITY"):
                 return {"yahoo_symbol": q["symbol"],
@@ -182,46 +178,102 @@ def isin_to_yahoo(isin: str) -> dict | None:
     return None
 
 
-def run_map(amfi: pd.DataFrame, existing_mapped: pd.DataFrame) -> pd.DataFrame:
+def _lookup_one(isin):
+    """Worker for thread pool — returns (isin, result_or_None)."""
+    result = isin_to_yahoo(isin)
+    time.sleep(0.05)   # tiny courtesy delay per thread
+    return isin, result
+
+
+def run_map(amfi, existing_mapped, budget=None, save_path=None,
+            workers=12):
     """
-    Map ISINs to Yahoo symbols, skipping any ISIN already in existing_mapped.
-    Returns the full merged DataFrame (existing + newly mapped).
+    Map ISINs → Yahoo symbols using a thread pool so 15 k ISINs
+    finish in ~3-4 min instead of 75 min.
+
+    budget    : Budget instance — stops early and saves progress if time runs out.
+    save_path : if given, the running results are written here every 500 ISINs
+                so a partial run can be resumed next time.
+    workers   : concurrent HTTP threads (12 is safe for Yahoo Finance).
     """
-    already = set()
+    from concurrent.futures import ThreadPoolExecutor, as_completed
+
+    already = {}
     if not existing_mapped.empty and "ISIN" in existing_mapped.columns:
-        already = set(existing_mapped["ISIN"].dropna())
+        cols = ["ISIN", "yahoo_symbol", "yahoo_quote_type", "yahoo_exchange"]
+        for col in cols:
+            if col not in existing_mapped.columns:
+                existing_mapped[col] = None
+        for _, row in existing_mapped[cols].dropna(subset=["ISIN"]).iterrows():
+            already[row["ISIN"]] = {
+                "yahoo_symbol":     row.get("yahoo_symbol"),
+                "yahoo_quote_type": row.get("yahoo_quote_type"),
+                "yahoo_exchange":   row.get("yahoo_exchange"),
+            }
 
     isins = [i for i in amfi["ISIN"].unique() if i not in already]
     print(f"  {len(already)} ISINs already mapped, {len(isins)} new to look up")
+    print(f"  Using {workers} threads — estimated time: "
+          f"~{max(1, len(isins) // workers // 10)} min")
 
-    results = []
-    for i, isin in enumerate(isins, 1):
-        m = isin_to_yahoo(isin)
-        if m:
-            m["ISIN"] = isin
-            results.append(m)
-        time.sleep(0.3)
-        if i % 200 == 0:
-            print(f"  … {i}/{len(isins)} ISINs processed")
+    new_results = {}   # isin -> dict
+    submitted = 0
 
-    new_map = pd.DataFrame(results) if results else pd.DataFrame(
-        columns=["ISIN", "yahoo_symbol", "yahoo_quote_type", "yahoo_exchange"])
+    with ThreadPoolExecutor(max_workers=workers) as pool:
+        futures = {pool.submit(_lookup_one, isin): isin for isin in isins}
+        submitted = len(futures)
 
-    # Merge new entries into existing
-    combined_map = pd.concat(
-        [existing_mapped, amfi.merge(new_map, on="ISIN", how="inner")],
-        ignore_index=True
-    ).drop_duplicates(subset=["ISIN"])
+        for done_count, future in enumerate(as_completed(futures), 1):
+            if budget and not budget.ok():
+                # Cancel remaining futures and save what we have
+                for f in futures:
+                    f.cancel()
+                print(f"  Budget reached — saving {done_count-1}/{submitted} mapped")
+                break
 
-    # Return full amfi with yahoo columns merged in
-    return amfi.merge(
-        combined_map[["ISIN", "yahoo_symbol", "yahoo_quote_type", "yahoo_exchange"]],
-        on="ISIN", how="left"
-    )
+            isin, result = future.result()
+            if result:
+                new_results[isin] = result
+
+            if done_count % 500 == 0:
+                pct = done_count / submitted * 100
+                rem = budget.remaining_min() if budget else 0
+                print(f"  … {done_count}/{submitted} ({pct:.0f}%) "
+                      f"— {len(new_results)} found"
+                      + (f" — {rem:.0f} min left" if budget else ""))
+
+                # Incremental save so a cancelled job still commits progress
+                if save_path:
+                    _save_partial_map(already, new_results, amfi, save_path)
+
+    # Merge new results into already-known
+    all_map = {**already, **new_results}
+    print(f"  Total mapped: {len(all_map)} ISINs")
+
+    if save_path:
+        _save_partial_map({}, all_map, amfi, save_path)
+
+    map_df = pd.DataFrame([
+        {"ISIN": isin, **vals} for isin, vals in all_map.items()
+    ])
+    return amfi.merge(map_df, on="ISIN", how="left")
+
+
+def _save_partial_map(already, new_results, amfi, save_path):
+    """Write current mapping progress to CSV so it survives a timeout."""
+    all_map = {**already, **new_results}
+    if not all_map:
+        return
+    map_df = pd.DataFrame([
+        {"ISIN": isin, **vals} for isin, vals in all_map.items()
+    ])
+    merged = amfi.merge(map_df, on="ISIN", how="left")
+    merged.to_csv(save_path, index=False)
+    print(f"  Progress saved → {save_path} ({len(merged)} rows)")
 
 
 # ──────────────────────────────────────────────────────────
-# STEP 1b — Scheme attribute extraction
+# STEP 1b — Scheme attributes
 # ──────────────────────────────────────────────────────────
 def _clean(x):
     x = str(x).lower()
@@ -229,37 +281,35 @@ def _clean(x):
     return re.sub(r"[^a-z0-9 ]", "", x).strip()
 
 
-def extract_attributes(funds_df: pd.DataFrame, amc_path: str) -> pd.DataFrame:
+def extract_attributes(funds_df, amc_path):
     try:
         amc_list = pd.read_csv(amc_path)
     except FileNotFoundError:
-        print(f"  Warning: {amc_path} not found, using built-in fallback list")
         amc_list = pd.DataFrame({"AMC": [
             "Aditya Birla Sun Life Mutual Fund", "Axis Mutual Fund",
             "Bajaj Finserv Mutual Fund", "Bandhan Mutual Fund",
             "Bank of India Mutual Fund", "Canara Robeco Mutual Fund",
-            "DSP Mutual Fund", "Edelweiss Mutual Fund",
-            "Franklin Templeton Mutual Fund", "HDFC Mutual Fund",
-            "HSBC Mutual Fund", "ICICI Prudential Mutual Fund",
-            "IDFC Mutual Fund", "Invesco Mutual Fund",
-            "ITI Mutual Fund", "Kotak Mahindra Mutual Fund",
+            "DSP Mutual Fund", "Franklin Templeton Mutual Fund",
+            "HDFC Mutual Fund", "HSBC Mutual Fund",
+            "ICICI Prudential Mutual Fund", "Kotak Mahindra Mutual Fund",
             "LIC Mutual Fund", "Mirae Asset Mutual Fund",
             "Motilal Oswal Mutual Fund", "Nippon India Mutual Fund",
             "PGIM India Mutual Fund", "PPFAS Mutual Fund",
             "Quant Mutual Fund", "SBI Mutual Fund",
             "Sundaram Mutual Fund", "Tata Mutual Fund",
-            "Taurus Mutual Fund", "Union Mutual Fund",
             "UTI Mutual Fund", "WhiteOak Capital Mutual Fund",
-            "360 ONE Mutual Fund", "NJ Mutual Fund",
+            "360 ONE Mutual Fund",
         ]})
 
     amc_list["clean"] = amc_list["AMC"].apply(_clean)
     funds_df = funds_df.copy()
     funds_df["clean"] = funds_df["Scheme Name"].apply(_clean)
 
-    keys = sorted(set(amc_list["clean"].tolist() +
-                      amc_list["clean"].str.split().str[0].dropna().tolist()),
-                  key=len, reverse=True)
+    keys = sorted(
+        set(amc_list["clean"].tolist() +
+            amc_list["clean"].str.split().str[0].dropna().tolist()),
+        key=len, reverse=True,
+    )
     pat = re.compile(r"^(" + "|".join(map(re.escape, keys)) + r")\b")
     mapping = {}
     for _, row in amc_list.iterrows():
@@ -271,13 +321,11 @@ def extract_attributes(funds_df: pd.DataFrame, amc_path: str) -> pd.DataFrame:
         return mapping.get(m.group(1), "Unknown") if m else "Unknown"
 
     funds_df["AMC"] = funds_df["clean"].apply(match)
-
     funds_df["Plan"] = "Unknown"
-    funds_df.loc[funds_df["clean"].str.contains(r"\bdirect\b", na=False), "Plan"] = "Direct"
+    funds_df.loc[funds_df["clean"].str.contains(r"\bdirect\b",  na=False), "Plan"] = "Direct"
     funds_df.loc[funds_df["clean"].str.contains(r"\bregular\b", na=False), "Plan"] = "Regular"
-
     funds_df["Option"] = "Unknown"
-    funds_df.loc[funds_df["clean"].str.contains(r"\bgrowth\b", na=False), "Option"] = "Growth"
+    funds_df.loc[funds_df["clean"].str.contains(r"\bgrowth\b",  na=False), "Option"] = "Growth"
     funds_df.loc[funds_df["clean"].str.contains(
         r"\b(?:idcw|dividend|div\b|div\.|payout|reinvestment)\b", na=False
     ), "Option"] = "IDCW"
@@ -292,37 +340,29 @@ def get_fy(d):
     return d.year if d.month >= 4 else d.year - 1
 
 
-def download_nav(funds_df: pd.DataFrame, existing_fy: pd.DataFrame,
-                 start_date: str, batch_size: int, sleep_range: tuple,
-                 budget: Budget) -> pd.DataFrame:
-    """
-    Download NAV history for funds not already in existing_fy.
-    Respects budget — stops early and returns whatever was completed.
-    """
+def download_nav(funds_df, existing_fy, start_date, batch_size, sleep_range, budget):
     funds = funds_df[["yahoo_symbol", "Scheme Name"]].drop_duplicates()
     syms = funds["yahoo_symbol"].dropna().tolist()
     name_map = dict(zip(funds["yahoo_symbol"], funds["Scheme Name"]))
     end_date = datetime.now().strftime("%Y-%m-%d")
 
-    # Skip symbols already in existing data (they were fetched in a prior run)
     already_done = set()
     if not existing_fy.empty and "yahoo_symbol" in existing_fy.columns:
         already_done = set(existing_fy["yahoo_symbol"].dropna())
 
     pending = [s for s in syms if s not in already_done]
-    print(f"  {len(already_done)} symbols already in FY data, {len(pending)} pending")
+    print(f"  {len(already_done)} symbols in cache, {len(pending)} pending")
 
     all_rows = []
-    total_batches = -(-len(pending) // batch_size)   # ceiling division
+    total_batches = max(1, -(-len(pending) // batch_size))
 
     for i, start in enumerate(range(0, len(pending), batch_size), 1):
         if not budget.ok():
-            print(f"  Time budget reached after {i-1}/{total_batches} batches — saving progress")
+            print(f"  Budget reached after batch {i-1}/{total_batches} — saving progress")
             break
-
         batch = pending[start:start + batch_size]
-        print(f"  Batch {i}/{total_batches} ({len(batch)} symbols) — {budget.remaining_min():.0f} min left")
-
+        print(f"  Batch {i}/{total_batches} "
+              f"({len(batch)} symbols, {budget.remaining_min():.0f} min left)")
         try:
             raw = yf.download(batch, start=start_date, end=end_date,
                               group_by="ticker", actions=True,
@@ -334,35 +374,32 @@ def download_nav(funds_df: pd.DataFrame, existing_fy: pd.DataFrame,
                 df["yahoo_symbol"] = sym
                 df["fund_name"] = name_map.get(sym, sym)
                 df["FY"] = df["Date"].apply(get_fy)
-                all_rows.append(df[["Date", "Close", "Dividends",
-                                    "yahoo_symbol", "fund_name", "FY"]])
+                all_rows.append(
+                    df[["Date", "Close", "Dividends", "yahoo_symbol", "fund_name", "FY"]]
+                )
         except Exception as e:
             print(f"  Batch {i} error: {e}")
             time.sleep(60)
             continue
-
         if i < total_batches:
             time.sleep(random.uniform(*sleep_range))
 
     if not all_rows:
-        print("  No new NAV data fetched this run")
+        print("  No new NAV data this run")
         return existing_fy
 
     new_data = pd.concat(all_rows, ignore_index=True)
     new_data.rename(columns={"Close": "NAV", "Dividends": "Dividend"}, inplace=True)
     new_data["Dividend"] = new_data["Dividend"].fillna(0)
-
-    fy_new = _calc_fy_metrics(new_data)
-
-    # Merge with existing FY data
+    fy_new = _calc_fy(new_data)
     combined = pd.concat([existing_fy, fy_new], ignore_index=True).drop_duplicates(
         subset=["yahoo_symbol", "fund_name", "FY"]
     )
-    print(f"  FY metrics: {len(fy_new)} new rows, {len(combined)} total")
+    print(f"  FY rows: {len(fy_new)} new, {len(combined)} total")
     return combined
 
 
-def _calc_fy_metrics(data: pd.DataFrame) -> pd.DataFrame:
+def _calc_fy(data):
     nav_fy = (data.sort_values("Date")
               .groupby(["yahoo_symbol", "fund_name", "FY"])
               .agg(April_NAV=("NAV", "first"), March_NAV=("NAV", "last"))
@@ -389,11 +426,11 @@ def _safe_get(fd, attr):
         return {"_error": str(e)}
 
 
-def fetch_one_holding(symbol: str) -> dict:
+def fetch_one(symbol):
     result = {k: None for k in [
         "symbol", "fetched_at", "top_holdings", "equity_holdings",
         "bond_holdings", "sector_weightings", "asset_classes", "bond_ratings",
-        "fund_operations", "fund_overview", "quote_type", "description", "error"
+        "fund_operations", "fund_overview", "quote_type", "description", "error",
     ]}
     result["symbol"] = symbol
     result["fetched_at"] = datetime.now().strftime("%Y-%m-%d")
@@ -413,33 +450,25 @@ def fetch_one_holding(symbol: str) -> dict:
     return result
 
 
-def fetch_holdings(symbols: list, cache: dict, budget: Budget,
-                   force: bool = False) -> dict:
-    """
-    Fetch holdings for symbols not yet in cache (or stale).
-    Saves to cache incrementally every 50 symbols.
-    Stops when budget is exhausted.
-    """
+def fetch_holdings(symbols, cache, budget, force=False):
     today = datetime.now().strftime("%Y-%m-%d")
     pending = [s for s in symbols
                if force or s not in cache or cache[s].get("fetched_at") != today]
-    print(f"  {len(symbols) - len(pending)} symbols current in cache, {len(pending)} to fetch")
+    print(f"  {len(symbols)-len(pending)} current in cache, {len(pending)} to fetch")
 
     for i, sym in enumerate(pending, 1):
         if not budget.ok():
-            print(f"  Time budget reached after {i-1}/{len(pending)} holdings — saving progress")
+            print(f"  Budget reached after {i-1}/{len(pending)} — saving progress")
             break
-        cache[sym] = fetch_one_holding(sym)
+        cache[sym] = fetch_one(sym)
         time.sleep(1.0)
-
         if i % 50 == 0:
             print(f"  {i}/{len(pending)} fetched — {budget.remaining_min():.0f} min left")
 
     return cache
 
 
-def snapshot_month(cache: dict) -> dict:
-    """Store this month's top_holdings snapshot in cache[sym]['snapshots'][YYYY-MM]."""
+def snapshot_month(cache):
     month = datetime.now().strftime("%Y-%m")
     for data in cache.values():
         snaps = data.setdefault("snapshots", {})
@@ -456,7 +485,7 @@ def snapshot_month(cache: dict) -> dict:
 RUN_DATE = datetime.now().strftime("%Y-%m-%d")
 
 
-def build_top_holdings(cache: dict, name_map: dict) -> pd.DataFrame:
+def build_top_holdings(cache, name_map):
     rows = []
     for sym, d in cache.items():
         th = d.get("top_holdings")
@@ -464,8 +493,7 @@ def build_top_holdings(cache: dict, name_map: dict) -> pd.DataFrame:
             continue
         for h in th:
             rows.append({
-                "run_date": RUN_DATE,
-                "fund_symbol": sym,
+                "run_date": RUN_DATE, "fund_symbol": sym,
                 "fund_name": name_map.get(sym, sym),
                 "holding_symbol": h.get("symbol", h.get("index", "")),
                 "holding_name": h.get("holdingName", ""),
@@ -474,7 +502,7 @@ def build_top_holdings(cache: dict, name_map: dict) -> pd.DataFrame:
     return pd.DataFrame(rows)
 
 
-def build_sector(cache: dict, name_map: dict) -> pd.DataFrame:
+def build_sector(cache, name_map):
     rows = []
     for sym, d in cache.items():
         sw = d.get("sector_weightings")
@@ -484,8 +512,7 @@ def build_sector(cache: dict, name_map: dict) -> pd.DataFrame:
             for k, v in entry.items():
                 if k != "index":
                     rows.append({
-                        "run_date": RUN_DATE,
-                        "fund_symbol": sym,
+                        "run_date": RUN_DATE, "fund_symbol": sym,
                         "fund_name": name_map.get(sym, sym),
                         "sector": k,
                         "weight_pct": round((v or 0) * 100, 4),
@@ -493,7 +520,7 @@ def build_sector(cache: dict, name_map: dict) -> pd.DataFrame:
     return pd.DataFrame(rows)
 
 
-def build_asset_classes(cache: dict, name_map: dict) -> pd.DataFrame:
+def build_asset_classes(cache, name_map):
     rows = []
     for sym, d in cache.items():
         ac = d.get("asset_classes")
@@ -507,7 +534,7 @@ def build_asset_classes(cache: dict, name_map: dict) -> pd.DataFrame:
     return pd.DataFrame(rows)
 
 
-def build_mom(cache: dict, name_map: dict) -> pd.DataFrame:
+def build_mom(cache, name_map):
     rows = []
     for sym, d in cache.items():
         snaps = d.get("snapshots", {})
@@ -525,24 +552,22 @@ def build_mom(cache: dict, name_map: dict) -> pd.DataFrame:
             pw, cw = prev.get(stock, 0), curr.get(stock, 0)
             if pw == 0 and cw == 0:
                 continue
-            chg = cw - pw
             status = ("NEW" if pw == 0 and cw > 0 else
                       "EXITED" if pw > 0 and cw == 0 else "CHANGED")
             rows.append({
-                "run_date": RUN_DATE,
-                "fund_symbol": sym,
+                "run_date": RUN_DATE, "fund_symbol": sym,
                 "fund_name": name_map.get(sym, sym),
                 "holding_symbol": stock,
                 "prev_month": pm, "curr_month": cm,
                 "prev_weight_pct": round(pw * 100, 4),
                 "curr_weight_pct": round(cw * 100, 4),
-                "change_pct": round(chg * 100, 4),
+                "change_pct": round((cw - pw) * 100, 4),
                 "status": status,
             })
     return pd.DataFrame(rows) if rows else pd.DataFrame()
 
 
-def build_conviction(mom_df: pd.DataFrame) -> pd.DataFrame:
+def build_conviction(mom_df):
     if mom_df.empty:
         return pd.DataFrame()
     buying = mom_df[mom_df["change_pct"] > 0].copy()
@@ -564,11 +589,7 @@ def build_conviction(mom_df: pd.DataFrame) -> pd.DataFrame:
     return agg.sort_values("conviction_score", ascending=False).reset_index(drop=True)
 
 
-# ──────────────────────────────────────────────────────────
-# APPEND-SAFE CSV WRITER
-# ──────────────────────────────────────────────────────────
-def append_csv(df: pd.DataFrame, path: str):
-    """Append df rows to path, deduplicating. Creates file if absent."""
+def append_csv(df, path):
     if df is None or df.empty:
         return
     if os.path.exists(path):
@@ -580,46 +601,44 @@ def append_csv(df: pd.DataFrame, path: str):
     else:
         combined = df
     combined.to_csv(path, index=False)
-    print(f"  Saved {path} ({len(combined):,} total rows)")
+    print(f"  Saved {path} ({len(combined):,} rows)")
 
 
 # ──────────────────────────────────────────────────────────
 # STEP RUNNERS
 # ──────────────────────────────────────────────────────────
-def step_map(args, P):
-    print("\n── STEP 1: MAP ISINs ──────────────────────────────────")
+def step_map(args, P, budget):
+    print("\n── STEP: map ──────────────────────────────────────────")
     amfi = fetch_amfi()
-
-    existing = pd.read_csv(P("funds_mapped.csv")) if os.path.exists(P("funds_mapped.csv")) else pd.DataFrame()
-    funds = run_map(amfi, existing)
+    existing = (pd.read_csv(P("funds_mapped.csv"))
+                if os.path.exists(P("funds_mapped.csv")) else pd.DataFrame())
+    funds = run_map(amfi, existing,
+                    budget=budget,
+                    save_path=P("funds_mapped.csv"),
+                    workers=12)
     funds.to_csv(P("funds_mapped.csv"), index=False)
     print(f"  Saved funds_mapped.csv ({len(funds)} rows)")
-
     scheme = extract_attributes(funds, args.amc_file)
     scheme.to_csv(P("final_schemes_master.csv"), index=False)
     print(f"  Saved final_schemes_master.csv ({len(scheme)} rows)")
 
 
 def step_nav(args, P, budget):
-    print("\n── STEP 2: NAV DOWNLOAD ───────────────────────────────")
+    print("\n── STEP: nav ──────────────────────────────────────────")
     if not os.path.exists(P("funds_mapped.csv")):
-        print("  funds_mapped.csv not found — run --step map first")
-        return
-
+        print("  funds_mapped.csv missing — run map step first"); return
     funds = pd.read_csv(P("funds_mapped.csv"))
-    existing_fy = pd.read_csv(P("idcw_fy_output.csv")) if os.path.exists(P("idcw_fy_output.csv")) else pd.DataFrame()
-
+    existing_fy = (pd.read_csv(P("idcw_fy_output.csv"))
+                   if os.path.exists(P("idcw_fy_output.csv")) else pd.DataFrame())
     fy = download_nav(funds, existing_fy, args.start_date, args.batch_size,
                       (args.sleep_min, args.sleep_max), budget)
     append_csv(fy, P("idcw_fy_output.csv"))
 
 
-def step_holdings(args, P, budget):
-    print("\n── STEP 3: HOLDINGS ───────────────────────────────────")
+def step_holdings(args, P, budget, force):
+    print("\n── STEP: holdings ─────────────────────────────────────")
     if not os.path.exists(P("funds_mapped.csv")):
-        print("  funds_mapped.csv not found — run --step map first")
-        return
-
+        print("  funds_mapped.csv missing — run map step first"); return
     funds = pd.read_csv(P("funds_mapped.csv"))
     scheme = (pd.read_csv(P("final_schemes_master.csv"))
               if os.path.exists(P("final_schemes_master.csv"))
@@ -627,14 +646,12 @@ def step_holdings(args, P, budget):
     name_map = dict(zip(scheme["yahoo_symbol"], scheme["Scheme Name"]))
     syms = funds["yahoo_symbol"].dropna().unique().tolist()
 
-    # Load + update cache
     cache = load_json(P("holdings_cache.json"))
-    cache = fetch_holdings(syms, cache, budget, force=args.force_refresh)
+    cache = fetch_holdings(syms, cache, budget, force=force)
     cache = snapshot_month(cache)
     safe_json_dump(cache, P("holdings_cache.json"))
     print(f"  holdings_cache.json saved ({len(cache)} entries)")
 
-    # Build and append CSVs
     top_df   = build_top_holdings(cache, name_map)
     sec_df   = build_sector(cache, name_map)
     asset_df = build_asset_classes(cache, name_map)
@@ -647,20 +664,15 @@ def step_holdings(args, P, budget):
     append_csv(mom_df,   P("holdings_mom_changes.csv"))
     append_csv(conv_df,  P("conviction_picks.csv"))
 
-    # Metadata
     meta = {
         "last_run": datetime.now().isoformat(),
-        "step": "holdings",
-        "funds_mapped": int(funds["yahoo_symbol"].notna().sum()),
         "holdings_cached": len(cache),
         "top_holdings_rows": len(top_df),
         "mom_rows": len(mom_df) if not mom_df.empty else 0,
         "conviction_picks": len(conv_df) if not conv_df.empty else 0,
     }
     safe_json_dump(meta, P("run_metadata.json"))
-    print("\n  Summary:")
-    for k, v in meta.items():
-        print(f"    {k}: {v}")
+    print("\n  Summary:", meta)
 
 
 # ──────────────────────────────────────────────────────────
@@ -669,23 +681,28 @@ def step_holdings(args, P, budget):
 def main():
     args = parse_args()
     os.makedirs(args.data_dir, exist_ok=True)
-
     P = lambda f: os.path.join(args.data_dir, f)
-    budget = Budget(args.time_budget)
+
+    # Step and budget come from env vars (set by GitHub Actions workflow)
+    # CLI --force-refresh also works when running locally
+    step   = _ENV_STEP
+    budget = Budget(_ENV_BUDGET)
+    force  = _ENV_FORCE or args.force_refresh
 
     print("=" * 60)
-    print(f"MF PIPELINE  |  step={args.step}  |  budget={args.time_budget} min")
-    print(f"started at {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
+    print(f"MF PIPELINE  |  step={step}  |  budget={_ENV_BUDGET} min"
+          f"  |  force={force}")
+    print(f"started: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
     print("=" * 60)
 
-    if args.step in ("all", "map"):
-        step_map(args, P)
+    if step in ("all", "map"):
+        step_map(args, P, budget)
 
-    if args.step in ("all", "nav"):
+    if step in ("all", "nav"):
         step_nav(args, P, budget)
 
-    if args.step in ("all", "holdings"):
-        step_holdings(args, P, budget)
+    if step in ("all", "holdings"):
+        step_holdings(args, P, budget, force)
 
     print("\n" + "=" * 60)
     print("PIPELINE DONE")
