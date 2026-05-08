@@ -5,78 +5,231 @@ on:
     # Every Sunday at 01:00 UTC (06:30 IST)
     - cron: "0 1 * * 0"
   workflow_dispatch:
-    # Also lets you click "Run workflow" manually in GitHub UI
     inputs:
       force_refresh:
-        description: "Force re-fetch all holdings (ignore cache)"
+        description: "Force re-fetch all holdings (ignore daily cache)"
         required: false
         default: "false"
         type: choice
         options: ["false", "true"]
+      step:
+        description: "Run only one step (blank = run all three)"
+        required: false
+        default: ""
+        type: choice
+        options: ["", "map", "nav", "holdings"]
+
+# ── Fix Node.js 20 deprecation warning ───────────────────────
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 permissions:
-  contents: write   # needed to git-push data files back to the repo
+  contents: write   # needed to git-push data files back to repo
 
+# ══════════════════════════════════════════════════════════════
+# JOB 1 — MAP  (≤ 25 min)
+#   Fetch full AMFI scheme list, map every ISIN to a Yahoo Finance
+#   symbol, extract AMC / Plan / Option attributes.
+#   Writes: data/funds_mapped.csv, data/final_schemes_master.csv
+# ══════════════════════════════════════════════════════════════
 jobs:
-  run-pipeline:
+  map-isins:
+    name: "Step 1 · Map ISINs → Yahoo symbols"
     runs-on: ubuntu-latest
-    timeout-minutes: 120   # full run can take ~90 min for large fund universe
+    timeout-minutes: 25
+    if: >
+      github.event.inputs.step == '' ||
+      github.event.inputs.step == 'map'
 
     steps:
-      # ── 1. Checkout ─────────────────────────────────────────────────
-      - name: Checkout repository
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 1
+      - uses: actions/checkout@v4
 
-      # ── 2. Python setup ─────────────────────────────────────────────
-      - name: Set up Python 3.11
-        uses: actions/setup-python@v5
+      - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-          cache: "pip"
+          cache: pip
 
-      # ── 3. Install dependencies ─────────────────────────────────────
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      # ── 4. Restore cached holdings JSON (speeds up weekly runs) ────
+      # Restore previously saved mapping so only new ISINs are looked up
+      - name: Restore ISIN mapping cache
+        uses: actions/cache@v4
+        with:
+          path: data/funds_mapped.csv
+          key: funds-mapped-${{ runner.os }}-${{ hashFiles('data/AMC.csv') }}
+          restore-keys: funds-mapped-${{ runner.os }}-
+
+      - name: Run Step 1 — map ISINs
+        run: |
+          python scripts/pipeline.py \
+            --step map \
+            --data-dir data \
+            --amc-file data/AMC.csv
+
+      - name: Upload mapping artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: step1-mapping
+          path: |
+            data/funds_mapped.csv
+            data/final_schemes_master.csv
+          retention-days: 2
+
+  # ══════════════════════════════════════════════════════════════
+  # JOB 2 — NAV  (≤ 55 min)
+  #   Download historical NAV + dividends for all mapped funds,
+  #   compute FY-wise IDCW yield metrics.
+  #   Uses --time-budget so it saves progress and exits cleanly
+  #   before the GitHub timeout kills it.
+  #   Writes: data/idcw_fy_output.csv
+  # ══════════════════════════════════════════════════════════════
+  download-nav:
+    name: "Step 2 · Download NAV history"
+    runs-on: ubuntu-latest
+    timeout-minutes: 58
+    needs: map-isins
+    if: >
+      always() &&
+      (needs.map-isins.result == 'success' || needs.map-isins.result == 'skipped') &&
+      (github.event.inputs.step == '' || github.event.inputs.step == 'nav')
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Download Step 1 artifacts
+        uses: actions/download-artifact@v4
+        with:
+          name: step1-mapping
+          path: data/
+        continue-on-error: true   # safe when step 1 was skipped
+
+      # Restore previously downloaded NAV so only missing periods are fetched
+      - name: Restore NAV progress cache
+        uses: actions/cache@v4
+        with:
+          path: data/idcw_fy_output.csv
+          key: nav-${{ runner.os }}-${{ github.run_number }}
+          restore-keys: nav-${{ runner.os }}-
+
+      - name: Run Step 2 — download NAV
+        run: |
+          python scripts/pipeline.py \
+            --step nav \
+            --data-dir data \
+            --amc-file data/AMC.csv \
+            --batch-size 150 \
+            --sleep-min 8 \
+            --sleep-max 14 \
+            --time-budget 50
+
+      - name: Upload NAV artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: step2-nav
+          path: data/idcw_fy_output.csv
+          retention-days: 2
+
+  # ══════════════════════════════════════════════════════════════
+  # JOB 3 — HOLDINGS  (≤ 58 min)
+  #   Fetch per-fund holdings via yfinance funds_data.
+  #   Persists a JSON cache so each weekly run only re-fetches
+  #   funds whose cache entry is stale (today's date not present).
+  #   Writes all output CSVs and commits them back to the repo.
+  # ══════════════════════════════════════════════════════════════
+  fetch-holdings:
+    name: "Step 3 · Fetch holdings & commit data"
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    needs: [map-isins, download-nav]
+    if: >
+      always() &&
+      (needs.map-isins.result == 'success' || needs.map-isins.result == 'skipped') &&
+      (github.event.inputs.step == '' || github.event.inputs.step == 'holdings')
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Download Step 1 artifacts
+        uses: actions/download-artifact@v4
+        with:
+          name: step1-mapping
+          path: data/
+        continue-on-error: true
+
+      - name: Download Step 2 artifacts
+        uses: actions/download-artifact@v4
+        with:
+          name: step2-nav
+          path: data/
+        continue-on-error: true
+
+      # The holdings JSON cache is the key to staying within time limits.
+      # Each week it loads last week's entries and only re-fetches stale ones.
       - name: Restore holdings cache
         uses: actions/cache@v4
         with:
           path: data/holdings_cache.json
-          key: holdings-cache-${{ runner.os }}-${{ github.run_id }}
-          restore-keys: |
-            holdings-cache-${{ runner.os }}-
+          key: holdings-${{ runner.os }}-${{ github.run_number }}
+          restore-keys: holdings-${{ runner.os }}-
 
-      # ── 5. Run the data pipeline ────────────────────────────────────
-      - name: Run weekly data pipeline
+      - name: Restore existing output CSVs (for append-mode)
+        uses: actions/cache@v4
+        with:
+          path: |
+            data/holdings_top.csv
+            data/holdings_sector.csv
+            data/holdings_asset_classes.csv
+            data/holdings_mom_changes.csv
+            data/conviction_picks.csv
+          key: output-csvs-${{ runner.os }}-${{ github.run_number }}
+          restore-keys: output-csvs-${{ runner.os }}-
+
+      - name: Run Step 3 — fetch holdings & build CSVs
         env:
           FORCE_REFRESH: ${{ github.event.inputs.force_refresh || 'false' }}
-          PYTHONUNBUFFERED: "1"
         run: |
           python scripts/pipeline.py \
+            --step holdings \
             --data-dir data \
             --amc-file data/AMC.csv \
+            --time-budget 50 \
             $( [ "$FORCE_REFRESH" = "true" ] && echo "--force-refresh" )
 
-      # ── 6. Commit updated data files back to the repo ───────────────
-      - name: Commit & push data files
+      # ── Commit all updated data files back to the repo ─────────────
+      - name: Commit & push data/
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-
           git add data/
-          git diff --cached --quiet && echo "No changes to commit." || (
-            git commit -m "chore: weekly data refresh $(date -u '+%Y-%m-%d')"
-            git push
-          )
+          git diff --cached --quiet \
+            && echo "No changes to commit — data unchanged." \
+            || (
+              git commit -m "data: weekly refresh $(date -u '+%Y-%m-%d')"
+              git push
+            )
 
-      # ── 7. Upload artifacts for easy download ──────────────────────
-      - name: Upload data artifacts
+      # ── Archive full data folder as a downloadable artifact ────────
+      - name: Upload full data artifact
         uses: actions/upload-artifact@v4
         if: always()
         with:
-          name: mf-data-${{ github.run_number }}
+          name: mf-data-week-${{ github.run_number }}
           path: data/
           retention-days: 30
