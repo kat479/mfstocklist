@@ -5977,17 +5977,10 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P0002DNBH.BO,Groww Arbitrage Fund Direct IDCW,Unknown,Direct,IDCW
 0P0002DNBJ.BO,Groww Arbitrage Fund Regular Growth,Unknown,Regular,Growth
 0P0002DNBK.BO,Groww Arbitrage Fund Regular IDCW,Unknown,Regular,IDCW
-0P0000XW6N.BO,HDFC ARBITRAGE FUND - Growth Option - Direct Plan,HDFC Mutual Fund,Direct,Growth
-0P0000XW6O.BO,HDFC ARBITRAGE FUND - Quarterly IDCW Option - Direct Plan,HDFC Mutual Fund,Direct,IDCW
-0P0000AF0B.BO,HDFC ARBITRAGE FUND - Retail Growth Option,HDFC Mutual Fund,Unknown,Growth
-,HDFC ARBITRAGE FUND - Retail IDCW Option,HDFC Mutual Fund,Unknown,IDCW
-0P0000AF0A.BO,HDFC ARBITRAGE FUND - Retail Quarterly IDCW Option,HDFC Mutual Fund,Unknown,IDCW
-0P0000AF09.BO,HDFC ARBITRAGE FUND - Wholesale Growth Option,HDFC Mutual Fund,Unknown,Growth
-0P00012M9B.BO,HDFC ARBITRAGE FUND - Wholesale Growth Option - Direct Plan,HDFC Mutual Fund,Direct,Growth
-0P0000AF07.BO,HDFC ARBITRAGE FUND - Wholesale IDCW Option,HDFC Mutual Fund,Unknown,IDCW
-0P00012M9C.BO,HDFC ARBITRAGE FUND - Wholesale IDCW Option - Direct Plan,HDFC Mutual Fund,Direct,IDCW
-0P00012M9D.BO,HDFC ARBITRAGE FUND - Wholesale Monthly IDCW - Direct Plan,HDFC Mutual Fund,Direct,IDCW
-0P00012M9A.BO,HDFC ARBITRAGE FUND - Wholesale Monthly IDCW Option  ,HDFC Mutual Fund,Unknown,IDCW
+0P00012M9D.BO,HDFC ARBITRAGE FUND - Monthly IDCW - Direct Plan,HDFC Mutual Fund,Direct,IDCW
+0P00012M9A.BO,HDFC ARBITRAGE FUND - Regular Plan - Monthly IDCW Option,HDFC Mutual Fund,Regular,IDCW
+0P0000AF09.BO,HDFC ARBITRAGE FUND - Regular Plan -Growth Option,HDFC Mutual Fund,Regular,Growth
+0P00012M9B.BO,HDFC ARBITRAGE FUND -Direct Plan - Growth Option,HDFC Mutual Fund,Direct,Growth
 0P00020IKW.BO,Helios Arbitrage Fund - Direct Growth,Unknown,Direct,Growth
 0P00020IKX.BO,Helios Arbitrage Fund - Direct IDCW,Unknown,Direct,IDCW
 0P00020IL0.BO,Helios Arbitrage Fund - Regular Growth,Unknown,Regular,Growth
@@ -8333,10 +8326,10 @@ GOLDCASE.NS,Zerodha Gold ETF,Unknown,Unknown,Unknown
 0P0001S9G9.BO,ICICI Prudential Nifty50 Value 20 Index Fund - Direct Plan - IDCW,ICICI Prudential Mutual Fund,Direct,IDCW
 0P0001S9G7.BO,ICICI Prudential Nifty50 Value 20 Index Fund - Growth,ICICI Prudential Mutual Fund,Unknown,Growth
 0P0001S9G6.BO,ICICI Prudential Nifty50 Value 20 Index Fund - IDCW,ICICI Prudential Mutual Fund,Unknown,IDCW
-,Invesco India BSE Sensex Index Fund - Direct Plan - Growth,Unknown,Direct,Growth
-,Invesco India BSE Sensex Index Fund - Regular Plan - Growth,Unknown,Regular,Growth
-,Invesco India Nifty Bank Index Fund - Direct Plan - Growth,Unknown,Direct,Growth
-,Invesco India Nifty Bank Index Fund - Regular Plan - Growth,Unknown,Regular,Growth
+0P0002F1IF.BO,Invesco India BSE Sensex Index Fund - Direct Plan - Growth,Unknown,Direct,Growth
+0P0002F1IG.BO,Invesco India BSE Sensex Index Fund - Regular Plan - Growth,Unknown,Regular,Growth
+0P0002F1IH.BO,Invesco India Nifty Bank Index Fund - Direct Plan - Growth,Unknown,Direct,Growth
+0P0002F1IE.BO,Invesco India Nifty Bank Index Fund - Regular Plan - Growth,Unknown,Regular,Growth
 0P0001QLRS.BO,Invesco India Nifty G-sec Jul 2027 Index Fund - Direct Plan - Growth,Unknown,Direct,Growth
 0P0001QLRT.BO,Invesco India Nifty G-sec Jul 2027 Index Fund - Direct Plan - IDCW Payout,Unknown,Direct,IDCW
 0P0001QLRU.BO,Invesco India Nifty G-sec Jul 2027 Index Fund - Regular Plan - Growth,Unknown,Regular,Growth
@@ -9008,6 +9001,7 @@ MSCIADD.NS,DSP MSCI INDIA ETF,DSP Mutual Fund,Unknown,Unknown
 ,DSP Nifty 50 Equal Weight ETF,DSP Mutual Fund,Unknown,Unknown
 ,DSP Nifty 50 ETF,DSP Mutual Fund,Unknown,Unknown
 BANKADD.NS,DSP Nifty Bank ETF,DSP Mutual Fund,Unknown,Unknown
+FMCGADD.NS,DSP Nifty FMCG ETF,DSP Mutual Fund,Unknown,Unknown
 HEALTHADD.NS,DSP Nifty Healthcare ETF,DSP Mutual Fund,Unknown,Unknown
 ,DSP Nifty IT ETF,DSP Mutual Fund,Unknown,Unknown
 MIDCAPADD.NS,DSP Nifty Midcap 150 ETF,DSP Mutual Fund,Unknown,Unknown
@@ -9030,6 +9024,7 @@ ELIQUID.NS,Edelweiss Nifty 1D Rate Liquid ETF - Growth,Unknown,Unknown,Growth
 ENIFTY.NS,Edelweiss Nifty 50 ETF - Growth,Unknown,Unknown,Growth
 EBANKNIFTY.NS,Edelweiss Nifty Bank ETF - Growth,Unknown,Unknown,Growth
 ELM250.NS,Edelweiss Nifty LargeMidcap 250 ETF - Growth,Unknown,Unknown,Growth
+,Edelweiss Nifty Next 50 ETF,Unknown,Unknown,Unknown
 EMULTIMQ.NS,Edelweiss Nifty500 Multicap Momentum Quality 50 ETF - Growth,Unknown,Unknown,Growth
 ESILVER.NS,Edelweiss Silver ETF,Unknown,Unknown,Unknown
 GROWWHOSPI.NS,Groww BSE Hospitals ETF,Unknown,Unknown,Unknown
@@ -9242,6 +9237,8 @@ SBINMID150.NS,SBI Nifty Midcap 150 ETF,SBI Mutual Fund,Unknown,Unknown
 SBIMIDMOM.NS,SBI Nifty Midcap 150 Momentum 50 ETF,SBI Mutual Fund,Unknown,Unknown
 SETFNN50.NS,SBI Nifty Next 50 ETF,SBI Mutual Fund,Unknown,Unknown
 SBIETFPB.NS,SBI Nifty Private Bank ETF,SBI Mutual Fund,Unknown,Unknown
+,SBI Nifty Smallcap 250 ETF,SBI Mutual Fund,Unknown,Unknown
+,SBI Nifty200 Value 30 ETF,SBI Mutual Fund,Unknown,Unknown
 ,SBI Nifty50 Equal Weight ETF,SBI Mutual Fund,Unknown,Unknown
 SBISILVER.NS,SBI Silver ETF,SBI Mutual Fund,Unknown,Unknown
 ,Shriram Nifty 1D Rate Liquid ETF - Growth,Unknown,Unknown,Growth
