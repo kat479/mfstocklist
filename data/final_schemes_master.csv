@@ -3331,10 +3331,10 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P0000XV5P.BO,Kotak Contra Fund - Direct Plan - IDCW -Payout & Re-investment of Income Distribution cum capital withdrawal option- Direct,Kotak Mahindra Mutual Fund,Direct,IDCW
 0P00005WSS.BO,Kotak Contra Fund - Regular Plan - Growth,Kotak Mahindra Mutual Fund,Regular,Growth
 0P00005WSR.BO,Kotak Contra Fund - Regular Plan - IDCW - Payout & Re-investment of Income Distribution cum capital withdrawal option,Kotak Mahindra Mutual Fund,Regular,IDCW
-,Motilal Oswal Contra Fund - Direct â Growth,Motilal Oswal Mutual Fund,Direct,Growth
-,Motilal Oswal Contra Fund - Regular - IDCW,Motilal Oswal Mutual Fund,Regular,IDCW
-,Motilal Oswal Contra Fund - Regular â Growth,Motilal Oswal Mutual Fund,Regular,Growth
-,Motilal Oswal Contra Fund â Direct â IDCW,Motilal Oswal Mutual Fund,Direct,IDCW
+0P0002EYUO.BO,Motilal Oswal Contra Fund - Direct â Growth,Motilal Oswal Mutual Fund,Direct,Growth
+0P0002EYUS.BO,Motilal Oswal Contra Fund - Regular - IDCW,Motilal Oswal Mutual Fund,Regular,IDCW
+0P0002EYUR.BO,Motilal Oswal Contra Fund - Regular â Growth,Motilal Oswal Mutual Fund,Regular,Growth
+0P0002EYUP.BO,Motilal Oswal Contra Fund â Direct â IDCW,Motilal Oswal Mutual Fund,Direct,IDCW
 0P0000XVJR.BO,SBI CONTRA FUND - DIRECT PLAN - GROWTH,SBI Mutual Fund,Direct,Growth
 0P0000XVJU.BO,SBI Contra Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),SBI Mutual Fund,Direct,IDCW
 0P00005WFE.BO,SBI Contra Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),SBI Mutual Fund,Regular,IDCW
@@ -4015,6 +4015,10 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P0000XVOO.BO,Tata Large & Mid Cap Fund Direct Plan - Payout of IDCW Option,Tata Mutual Fund,Direct,IDCW
 0P00005WGX.BO,Tata Large & Mid Cap Fund Regular Plan - Payout of IDCW Option,Tata Mutual Fund,Regular,IDCW
 0P00005WGY.BO,Tata Large & Mid Cap Fund- Regular Plan - Growth Option,Tata Mutual Fund,Regular,Growth
+,The Wealth Company Large & Mid Cap Fund Direct Growth,Unknown,Direct,Growth
+,The Wealth Company Large & Mid Cap Fund Direct IDCW,Unknown,Direct,IDCW
+,The Wealth Company Large & Mid Cap Fund Regular Growth,Unknown,Regular,Growth
+,The Wealth Company Large & Mid Cap Fund Regular IDCW,Unknown,Regular,IDCW
 0P0001IPOX.BO,Union Large & Midcap Fund - Direct Plan - Growth Option,Unknown,Direct,Growth
 0P0001IPOY.BO,Union Large & Midcap Fund - Direct Plan - IDCW Option,Unknown,Direct,IDCW
 0P0001IPP1.BO,Union Large & Midcap Fund - Regular Plan - Growth Option,Unknown,Regular,Growth
@@ -12533,13 +12537,6 @@ SILVERCASE.NS,Zerodha Silver ETF,Unknown,Unknown,Unknown
 0P0001POI0.BO,Nippon India Fixed Maturity Plan-XLIV-Series 1-Direct Plan-Payout of IDCW,Nippon India Mutual Fund,Unknown,IDCW
 0P0001POI1.BO,Nippon India Fixed Maturity Plan-XLIV-Series 1-Regular Plan-Growth Option,Nippon India Mutual Fund,Unknown,Unknown
 0P0001POI2.BO,Nippon India Fixed Maturity Plan-XLIV-Series 1-Regular Plan-Payout of IDCW,Nippon India Mutual Fund,Unknown,IDCW
-0P0001Q37K.BO,Nippon India Fixed Maturity Plan - XLIV - Series 4-Direct Plan-Growth Option,Nippon India Mutual Fund,Unknown,Unknown
-0P0001Q37N.BO,Nippon India Fixed Maturity Plan - XLIV - Series 4-Regular Plan-Payout of IDCW,Nippon India Mutual Fund,Unknown,IDCW
-0P0001Q37M.BO,Nippon India Fixed Maturity Plan- XLIV - Series 4-Regular Plan-Growth Option,Nippon India Mutual Fund,Unknown,Unknown
-0P0001QOPD.BO,Nippon India Fixed Maturity Plan-XLV-Series 4-Direct Plan-Growth Option,Nippon India Mutual Fund,Unknown,Unknown
-0P0001QOPA.BO,Nippon India Fixed Maturity Plan-XLV-Series 4-Direct Plan-Payout of IDCW,Nippon India Mutual Fund,Unknown,IDCW
-0P0001QOPB.BO,Nippon India Fixed Maturity Plan-XLV-Series 4-Regular Plan-Growth Option,Nippon India Mutual Fund,Unknown,Unknown
-0P0001QOPC.BO,Nippon India Fixed Maturity Plan-XLV-Series 4-Regular Plan-Payout of IDCW,Nippon India Mutual Fund,Unknown,IDCW
 0P0001QPPY.BO,Nippon India Fixed Maturity Plan-XLV-Series 5-Direct Plan-Growth Option,Nippon India Mutual Fund,Unknown,Unknown
 0P0001QPQ0.BO,Nippon India Fixed Maturity Plan-XLV-Series 5-Regular Plan-Growth Option,Nippon India Mutual Fund,Unknown,Unknown
 0P0001QPQ1.BO,Nippon India Fixed Maturity Plan-XLV-Series 5-Regular Plan-Payout of IDCW,Nippon India Mutual Fund,Unknown,IDCW
