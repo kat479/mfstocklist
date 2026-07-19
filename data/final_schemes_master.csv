@@ -71,14 +71,6 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P00012KBM.BO,HDFC Banking and PSU Debt Fund - Growth Option - Direct Plan,HDFC Mutual Fund,Direct,Growth
 0P00012KBN.BO,HDFC Banking and PSU Debt Fund - IDCW Option,HDFC Mutual Fund,Unknown,IDCW
 0P00012KBL.BO,HDFC Banking and PSU Debt Fund - IDCW Option - Direct Plan,HDFC Mutual Fund,Direct,IDCW
-,HSBC Banking and PSU Debt Fund - Direct Daily IDCW,HSBC Mutual Fund,Direct,IDCW
-0P0000XV7P.BO,HSBC Banking and PSU Debt Fund - Direct Growth,HSBC Mutual Fund,Direct,Growth
-0P0000XV7V.BO,HSBC Banking and PSU Debt Fund - Direct Monthly IDCW,HSBC Mutual Fund,Direct,IDCW
-,HSBC Banking and PSU Debt Fund - Direct Weekly IDCW,HSBC Mutual Fund,Direct,IDCW
-,HSBC Banking and PSU Debt Fund - Regular Daily IDCW,HSBC Mutual Fund,Regular,IDCW
-0P0000CNZB.BO,HSBC Banking and PSU Debt Fund - Regular Growth,HSBC Mutual Fund,Regular,Growth
-0P0000CNZM.BO,HSBC Banking and PSU Debt Fund - Regular Monthly IDCW,HSBC Mutual Fund,Regular,IDCW
-,HSBC Banking and PSU Debt Fund - Regular Weekly IDCW,HSBC Mutual Fund,Regular,IDCW
 ,ICICI Prudential Banking and PSU Debt Fund -  Daily IDCW,ICICI Prudential Mutual Fund,Unknown,IDCW
 ,ICICI Prudential Banking and PSU Debt Fund -  Weekly IDCW,ICICI Prudential Mutual Fund,Unknown,IDCW
 ,ICICI Prudential Banking and PSU Debt Fund - Bonus,ICICI Prudential Mutual Fund,Unknown,Unknown
@@ -673,12 +665,6 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P00005WMS.BO,HDFC Dynamic Debt Fund - Quarterly IDCW Option,HDFC Mutual Fund,Unknown,IDCW
 0P0000XW7O.BO,HDFC Dynamic Debt Fund - Yearly IDCW - Direct Plan,HDFC Mutual Fund,Direct,IDCW
 0P00005WMP.BO,HDFC Dynamic Debt Fund - Yearly IDCW Option,HDFC Mutual Fund,Unknown,IDCW
-0P0001AFGH.BO,HSBC Dynamic Bond Fund - Direct Annual IDCW,HSBC Mutual Fund,Direct,IDCW
-0P0000XV6Y.BO,HSBC Dynamic Bond Fund - Direct Growth,HSBC Mutual Fund,Direct,Growth
-0P0000XV6Z.BO,HSBC Dynamic Bond Fund - Direct Monthly IDCW,HSBC Mutual Fund,Direct,IDCW
-0P00017ZJ8.BO,HSBC Dynamic Bond Fund - Regular Annual IDCW,HSBC Mutual Fund,Regular,IDCW
-0P00009N2A.BO,HSBC Dynamic Bond Fund - Regular Growth,HSBC Mutual Fund,Regular,Growth
-0P00009N2B.BO,HSBC Dynamic Bond Fund - Regular Monthly IDCW,HSBC Mutual Fund,Regular,IDCW
 0P0000WEGR.BO,ICICI Prudential All Seasons Bond Fund - Annual IDCW,ICICI Prudential Mutual Fund,Unknown,IDCW
 ,ICICI Prudential All Seasons Bond Fund - Bonus,ICICI Prudential Mutual Fund,Unknown,Unknown
 0P0000XZRR.BO,ICICI Prudential All Seasons Bond Fund - Direct Plan - Annual IDCW,ICICI Prudential Mutual Fund,Direct,IDCW
@@ -695,16 +681,6 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 ,ICICI Prudential All Seasons Bond Fund Retail - Annual Dividend,ICICI Prudential Mutual Fund,Unknown,IDCW
 ,ICICI Prudential All Seasons Bond Fund Retail - Cumulative,ICICI Prudential Mutual Fund,Unknown,Unknown
 ,ICICI Prudential All Seasons Bond Fund Retail - Quarterly Dividend,ICICI Prudential Mutual Fund,Unknown,IDCW
-0P0001MRT7.BO,ITI Dynamic Bond Fund - Direct Plan - Annually IDCW Option,Unknown,Direct,IDCW
-0P0001MRT8.BO,ITI Dynamic Bond Fund - Direct Plan - Growth Option,Unknown,Direct,Growth
-0P0001MRT6.BO,ITI Dynamic Bond Fund - Direct Plan - Half Yearly IDCW Option,Unknown,Direct,IDCW
-0P0001MRT4.BO,ITI Dynamic Bond Fund - Direct Plan - Monthly IDCWOption,Unknown,Direct,Unknown
-0P0001MRT5.BO,ITI Dynamic Bond Fund - Direct Plan - Quarterly IDCW Option,Unknown,Direct,IDCW
-0P0001MRTG.BO,ITI Dynamic Bond Fund - Regular Plan - Annually IDCWOption,Unknown,Regular,Unknown
-0P0001MRTH.BO,ITI Dynamic Bond Fund - Regular Plan - Growth Option,Unknown,Regular,Growth
-0P0001MRTF.BO,ITI Dynamic Bond Fund - Regular Plan - Half Yearly IDCW Option,Unknown,Regular,IDCW
-0P0001MRTD.BO,ITI Dynamic Bond Fund - Regular Plan - Monthly IDCW Option,Unknown,Regular,IDCW
-0P0001MRTE.BO,ITI Dynamic Bond Fund - Regular Plan - Quarterly IDCW Option,Unknown,Regular,IDCW
 ,JM Dynamic Bond Fund (Direct) - Daily IDCW,Unknown,Direct,IDCW
 0P0000XV3Z.BO,JM Dynamic Bond Fund (Direct) - IDCW,Unknown,Direct,IDCW
 0P0001551V.BO,JM Dynamic Bond Fund (Direct) - Monthly IDCW,Unknown,Direct,IDCW
@@ -1109,16 +1085,6 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 ,360 ONE LIQUID FUND REGULAR PLAN  DAILY DIVIDEND REINVESTMENT,360 ONE Mutual Fund,Regular,IDCW
 0P000101S1.BO,360 ONE LIQUID FUND REGULAR PLAN  GROWTH,360 ONE Mutual Fund,Regular,Growth
 0P000101RU.BO,360 ONE LIQUID FUND REGULAR PLAN  WEEKLY DIVIDEND,360 ONE Mutual Fund,Regular,IDCW
-,Abakkus Liquid Fund - Direct Plan - Daily IDCW Reinvestment,Unknown,Direct,IDCW
-0P0001YEMJ.BO,Abakkus Liquid Fund - Direct Plan - Growth,Unknown,Direct,Growth
-,Abakkus Liquid Fund - Direct Plan - Monthly IDCW Reinvestment,Unknown,Direct,IDCW
-,Abakkus Liquid Fund - Direct Plan - Quarterly IDCW Reinvestment,Unknown,Direct,IDCW
-,Abakkus Liquid Fund - Direct Plan - Weekly IDCW Reinvestment,Unknown,Direct,IDCW
-,Abakkus Liquid Fund - Regular Plan - Daily IDCW Reinvestment,Unknown,Regular,IDCW
-0P0001YEMO.BO,Abakkus Liquid Fund - Regular Plan - Growth,Unknown,Regular,Growth
-,Abakkus Liquid Fund - Regular Plan - Monthly IDCW Reinvestment,Unknown,Regular,IDCW
-,Abakkus Liquid Fund - Regular Plan - Quarterly IDCW Reinvestment,Unknown,Regular,IDCW
-,Abakkus Liquid Fund - Regular Plan - Weekly IDCW Reinvestment,Unknown,Regular,IDCW
 0P00005V43.BO,Aditya Birla Sun Life Liquid Fund - Growth,Aditya Birla Sun Life Mutual Fund,Unknown,Growth
 0P0000XVVY.BO,Aditya Birla Sun Life Liquid Fund - Growth - Direct Plan,Aditya Birla Sun Life Mutual Fund,Direct,Growth
 0P00005V41.BO,Aditya Birla Sun Life Liquid Fund -Daily IDCW,Aditya Birla Sun Life Mutual Fund,Unknown,IDCW
@@ -3104,18 +3070,6 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P0000RZA1.BO,Invesco India Ultra Short Duration Fund - Regular Plan - Monthly IDCW (Payout / Reinvestment),Unknown,Regular,IDCW
 0P0000RZA2.BO,Invesco India Ultra Short Duration Fund - Regular Plan - Quarterly IDCW (Payout / Reinvestment),Unknown,Regular,IDCW
 0P00035ZZD.BO,Invesco India Ultra Short Duration Fund - Regular Plan - Weekly IDCW (Payout / Reinvestment),Unknown,Regular,IDCW
-0P0001M4E5.BO,ITI Ultra Short Duration Fund - Direct Plan - Annually IDCW Option,Unknown,Direct,IDCW
-,ITI Ultra Short Duration Fund - Direct Plan - Daily IDCW,Unknown,Direct,IDCW
-0P0001M4E3.BO,ITI Ultra Short Duration Fund - Direct Plan - Fortnightly IDCW Option,Unknown,Direct,IDCW
-0P0001M4E2.BO,ITI Ultra Short Duration Fund - Direct Plan - Growth Option,Unknown,Direct,Growth
-0P0001M4E4.BO,ITI Ultra Short Duration Fund - Direct Plan - Monthly IDCW Option,Unknown,Direct,IDCW
-,ITI Ultra Short Duration Fund - Direct Plan - Weekly IDCW Option,Unknown,Direct,IDCW
-0P0001M4EE.BO,ITI Ultra Short Duration Fund - Regular Plan - Annually IDCW Option,Unknown,Regular,IDCW
-,ITI Ultra Short Duration Fund - Regular Plan - Daily IDCW Option,Unknown,Regular,IDCW
-0P0001M4EC.BO,ITI Ultra Short Duration Fund - Regular Plan - Fortnightly IDCW Option,Unknown,Regular,IDCW
-0P0001M4EB.BO,ITI Ultra Short Duration Fund - Regular Plan - Growth Option,Unknown,Regular,Growth
-0P0001M4ED.BO,ITI Ultra Short Duration Fund - Regular Plan - Monthly IDCW Option,Unknown,Regular,IDCW
-,ITI Ultra Short Duration Fund - Regular Plan - Weekly IDCW Option,Unknown,Regular,IDCW
 ,JM Ultra Short Duration Fund (Direct) - Bonus Option - Principal Units,Unknown,Direct,Unknown
 ,JM Ultra Short Duration Fund (Direct) - Fortnightly Dividend Option,Unknown,Direct,IDCW
 ,JM Ultra Short Duration Fund - (Direct) - Growth Option,Unknown,Direct,Growth
@@ -5000,22 +4954,6 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P0001W3J5.BO,Mahindra Manulife Banking & Financial Services Fund - Direct - IDCW,Unknown,Direct,IDCW
 0P0001W3J7.BO,Mahindra Manulife Banking & Financial Services Fund - Regular - Growth,Unknown,Regular,Growth
 0P0001W3J8.BO,Mahindra Manulife Banking & Financial Services Fund - Regular - IDCW,Unknown,Regular,IDCW
-0P0001L5SG.BO,Mirae Asset Banking and Financial Services Fund Direct  IDCW,Mirae Asset Mutual Fund,Direct,IDCW
-0P0001L5SF.BO,Mirae Asset Banking and Financial Services Fund Direct Growth,Mirae Asset Mutual Fund,Direct,Growth
-0P0001L5SI.BO,Mirae Asset Banking and Financial Services Fund Regular Growth,Mirae Asset Mutual Fund,Regular,Growth
-0P0001L5SJ.BO,Mirae Asset Banking and Financial Services Fund Regular IDCW,Mirae Asset Mutual Fund,Regular,IDCW
-0P0000XV9Y.BO,Mirae Asset Great Consumer Fund - Direct Plan - Growth,Mirae Asset Mutual Fund,Direct,Growth
-0P0000TFYJ.BO,Mirae Asset Great Consumer Fund - Regular Plan - Growth option,Mirae Asset Mutual Fund,Regular,Growth
-0P0000XV9Z.BO,Mirae Asset Great Consumer Fund Direct IDCW,Mirae Asset Mutual Fund,Direct,IDCW
-0P0000TFYK.BO,Mirae Asset Great Consumer Fund Regular IDCW,Mirae Asset Mutual Fund,Regular,IDCW
-0P0001DHEU.BO,Mirae Asset Healthcare Fund -Regular Growth,Mirae Asset Mutual Fund,Regular,Growth
-0P0001DHEX.BO,Mirae Asset Healthcare Fund Direct Growth,Mirae Asset Mutual Fund,Direct,Growth
-0P0001DHEY.BO,Mirae Asset Healthcare Fund Direct IDCW,Mirae Asset Mutual Fund,Direct,IDCW
-0P0001DHEV.BO,Mirae Asset Healthcare Fund Regular IDCW,Mirae Asset Mutual Fund,Regular,IDCW
-0P0001Y7SE.BO,Mirae Asset Infrastructure Fund - Direct Plan - Growth,Mirae Asset Mutual Fund,Direct,Growth
-0P0001Y7SF.BO,Mirae Asset Infrastructure Fund - Direct Plan - IDCW,Mirae Asset Mutual Fund,Direct,IDCW
-0P0001Y7SH.BO,Mirae Asset Infrastructure Fund - Regular Plan - Growth,Mirae Asset Mutual Fund,Regular,Growth
-0P0001Y7SI.BO,Mirae Asset Infrastructure Fund - Regular Plan - IDCW,Mirae Asset Mutual Fund,Regular,IDCW
 0P0001URGA.BO,Motilal Oswal Active Momentum Fund - Regular- IDCW,Motilal Oswal Mutual Fund,Regular,IDCW
 0P0001URG6.BO,Motilal Oswal Active Momentum Fund- Direct-Growth,Motilal Oswal Mutual Fund,Unknown,Unknown
 0P0001URG8.BO,Motilal Oswal Active Momentum Fund- Direct-IDCW,Motilal Oswal Mutual Fund,Unknown,Unknown
@@ -5650,6 +5588,22 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P0000XVU0.BO,UTI Value Fund - Direct Plan - IDCW,UTI Mutual Fund,Direct,IDCW
 0P00005UZO.BO,UTI Value Fund - Regular Plan - Growth Option,UTI Mutual Fund,Regular,Growth
 0P00005UZP.BO,UTI Value Fund - Regular Plan - IDCW,UTI Mutual Fund,Regular,IDCW
+0P0001L5SG.BO,Mirae Asset Banking and Financial Services Fund Direct  IDCW,Mirae Asset Mutual Fund,Direct,IDCW
+0P0001L5SF.BO,Mirae Asset Banking and Financial Services Fund Direct Growth,Mirae Asset Mutual Fund,Direct,Growth
+0P0001L5SI.BO,Mirae Asset Banking and Financial Services Fund Regular Growth,Mirae Asset Mutual Fund,Regular,Growth
+0P0001L5SJ.BO,Mirae Asset Banking and Financial Services Fund Regular IDCW,Mirae Asset Mutual Fund,Regular,IDCW
+0P0000XV9Y.BO,Mirae Asset Great Consumer Fund - Direct Plan - Growth,Mirae Asset Mutual Fund,Direct,Growth
+0P0000TFYJ.BO,Mirae Asset Great Consumer Fund - Regular Plan - Growth option,Mirae Asset Mutual Fund,Regular,Growth
+0P0000XV9Z.BO,Mirae Asset Great Consumer Fund Direct IDCW,Mirae Asset Mutual Fund,Direct,IDCW
+0P0000TFYK.BO,Mirae Asset Great Consumer Fund Regular IDCW,Mirae Asset Mutual Fund,Regular,IDCW
+0P0001DHEU.BO,Mirae Asset Healthcare Fund -Regular Growth,Mirae Asset Mutual Fund,Regular,Growth
+0P0001DHEX.BO,Mirae Asset Healthcare Fund Direct Growth,Mirae Asset Mutual Fund,Direct,Growth
+0P0001DHEY.BO,Mirae Asset Healthcare Fund Direct IDCW,Mirae Asset Mutual Fund,Direct,IDCW
+0P0001DHEV.BO,Mirae Asset Healthcare Fund Regular IDCW,Mirae Asset Mutual Fund,Regular,IDCW
+0P0001Y7SE.BO,Mirae Asset Infrastructure Fund - Direct Plan - Growth,Mirae Asset Mutual Fund,Direct,Growth
+0P0001Y7SF.BO,Mirae Asset Infrastructure Fund - Direct Plan - IDCW,Mirae Asset Mutual Fund,Direct,IDCW
+0P0001Y7SH.BO,Mirae Asset Infrastructure Fund - Regular Plan - Growth,Mirae Asset Mutual Fund,Regular,Growth
+0P0001Y7SI.BO,Mirae Asset Infrastructure Fund - Regular Plan - IDCW,Mirae Asset Mutual Fund,Regular,IDCW
 ABSLLIQUID.NS,Aditya Birla Sun Life CRISIL Liquid Overnight ETF - IDCW Daily Reinvestment with Weekly Payout,Aditya Birla Sun Life Mutual Fund,Unknown,IDCW
 ,Aditya Birla Sun Life BSE Sensex ETF,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
 ABSL10BANK.NS,Aditya Birla Sun Life BSE Top 10 Banks ETF,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
@@ -5664,6 +5618,7 @@ TECH.NS,Aditya Birla Sun Life Nifty IT ETF,Aditya Birla Sun Life Mutual Fund,Unk
 ABSLPSE.NS,Aditya Birla Sun Life Nifty PSE ETF,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
 SILVER.NS,Aditya Birla Sun Life Silver ETF,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
 PSUBANK.NS,Kotak Nifty PSU Bank ETF,Kotak Mahindra Mutual Fund,Unknown,Unknown
+,Mirae Asset BSE Midcap 150 Momentum 30 ETF,Mirae Asset Mutual Fund,Unknown,Unknown
 0P0001O9H3.BO,Aditya Birla Sun Life Silver ETF FOF-Direct Growth,Aditya Birla Sun Life Mutual Fund,Unknown,Growth
 0P0001O9H1.BO,Aditya Birla Sun Life Silver ETF FOF-Direct IDCW,Aditya Birla Sun Life Mutual Fund,Unknown,IDCW
 0P0001O9H6.BO,Aditya Birla Sun Life Silver ETF FOF-Regular Growth,Aditya Birla Sun Life Mutual Fund,Unknown,Growth
@@ -6675,6 +6630,8 @@ PSUBANK.NS,Kotak Nifty PSU Bank ETF,Kotak Mahindra Mutual Fund,Unknown,Unknown
 0P0000IQ4U.BO,UTI Multi Asset Allocation Fund - Regular Plan - IDCW,UTI Mutual Fund,Regular,IDCW
 0P0001QXIS.BO,WhiteOak Capital Multi Asset Allocation Fund Direct Plan Growth,WhiteOak Capital Mutual Fund,Direct,Growth
 0P0001QXIT.BO,WhiteOak Capital Multi Asset Allocation Fund Regular Plan Growth,WhiteOak Capital Mutual Fund,Regular,Growth
+,Zerodha Life Cycle Fund 2036 - Direct - Growth,Unknown,Direct,Growth
+,Zerodha Life Cycle Fund 2041 - Direct - Growth,Unknown,Direct,Growth
 0P00035HDK.BO,WhiteOak Capital Aggressive Hybrid Fund Direct Plan Growth,WhiteOak Capital Mutual Fund,Direct,Growth
 0P00035HDL.BO,WhiteOak Capital Aggressive Hybrid Fund Regular Plan Growth,WhiteOak Capital Mutual Fund,Regular,Growth
 0P0001SIX8.BO,Helios Balanced Advantage Fund- Direct Plan- Growth Option,Unknown,Direct,Growth
@@ -6854,6 +6811,14 @@ PSUBANK.NS,Kotak Nifty PSU Bank ETF,Kotak Mahindra Mutual Fund,Unknown,Unknown
 ,Reliance Yearly Interval Fund - Series 9 - Direct Plan - Growth Plan - Growth Option,Unknown,Direct,Growth
 ,Reliance Yearly Interval Fund - Series 9 - Dividend Plan - Dividend Option,Unknown,Unknown,IDCW
 ,Reliance Yearly Interval Fund - Series 9 - Growth Plan - Growth Option,Unknown,Unknown,Growth
+,HSBC Banking and PSU Debt Fund - Direct Daily IDCW,HSBC Mutual Fund,Direct,IDCW
+0P0000XV7P.BO,HSBC Banking and PSU Debt Fund - Direct Growth,HSBC Mutual Fund,Direct,Growth
+0P0000XV7V.BO,HSBC Banking and PSU Debt Fund - Direct Monthly IDCW,HSBC Mutual Fund,Direct,IDCW
+,HSBC Banking and PSU Debt Fund - Direct Weekly IDCW,HSBC Mutual Fund,Direct,IDCW
+,HSBC Banking and PSU Debt Fund - Regular Daily IDCW,HSBC Mutual Fund,Regular,IDCW
+0P0000CNZB.BO,HSBC Banking and PSU Debt Fund - Regular Growth,HSBC Mutual Fund,Regular,Growth
+0P0000CNZM.BO,HSBC Banking and PSU Debt Fund - Regular Monthly IDCW,HSBC Mutual Fund,Regular,IDCW
+,HSBC Banking and PSU Debt Fund - Regular Weekly IDCW,HSBC Mutual Fund,Regular,IDCW
 ,Kotak Coporate Bond Fund- Retail Plan-Growth Option,Kotak Mahindra Mutual Fund,Unknown,Unknown
 0P0000XY00.BO,Kotak Corporate Bond Fund- Direct Plan- Growth Option,Kotak Mahindra Mutual Fund,Direct,Growth
 0P0001BJFB.BO,Kotak Corporate Bond Fund- Direct Plan- Monthly Payout of Income Distribution cum capital withdrawal option,Kotak Mahindra Mutual Fund,Direct,IDCW
@@ -6866,6 +6831,32 @@ PSUBANK.NS,Kotak Nifty PSU Bank ETF,Kotak Mahindra Mutual Fund,Unknown,Unknown
 ,Kotak Corporate Bond Fund- Retail Plan-Daily Dividend Option,Kotak Mahindra Mutual Fund,Unknown,IDCW
 ,Kotak Corporate Bond Fund- Standard Plan-Daily Dividend Option,Kotak Mahindra Mutual Fund,Unknown,IDCW
 ,Kotak Corporate Bond Fund- Standard Plan-Weekly Dividend Option,Kotak Mahindra Mutual Fund,Unknown,IDCW
+0P0001AFGH.BO,HSBC Dynamic Bond Fund - Direct Annual IDCW,HSBC Mutual Fund,Direct,IDCW
+0P0000XV6Y.BO,HSBC Dynamic Bond Fund - Direct Growth,HSBC Mutual Fund,Direct,Growth
+0P0000XV6Z.BO,HSBC Dynamic Bond Fund - Direct Monthly IDCW,HSBC Mutual Fund,Direct,IDCW
+0P00017ZJ8.BO,HSBC Dynamic Bond Fund - Regular Annual IDCW,HSBC Mutual Fund,Regular,IDCW
+0P00009N2A.BO,HSBC Dynamic Bond Fund - Regular Growth,HSBC Mutual Fund,Regular,Growth
+0P00009N2B.BO,HSBC Dynamic Bond Fund - Regular Monthly IDCW,HSBC Mutual Fund,Regular,IDCW
+0P0001MRT7.BO,ITI Dynamic Term Fund - Direct Plan - Annually IDCW Option,Unknown,Direct,IDCW
+0P0001MRT8.BO,ITI Dynamic Term Fund - Direct Plan - Growth Option,Unknown,Direct,Growth
+0P0001MRT6.BO,ITI Dynamic Term Fund - Direct Plan - Half Yearly IDCW Option,Unknown,Direct,IDCW
+0P0001MRT4.BO,ITI Dynamic Term Fund - Direct Plan - Monthly IDCWOption,Unknown,Direct,Unknown
+0P0001MRT5.BO,ITI Dynamic Term Fund - Direct Plan - Quarterly IDCW Option,Unknown,Direct,IDCW
+0P0001MRTG.BO,ITI Dynamic Term Fund - Regular Plan - Annually IDCWOption,Unknown,Regular,Unknown
+0P0001MRTH.BO,ITI Dynamic Term Fund - Regular Plan - Growth Option,Unknown,Regular,Growth
+0P0001MRTF.BO,ITI Dynamic Term Fund - Regular Plan - Half Yearly IDCW Option,Unknown,Regular,IDCW
+0P0001MRTD.BO,ITI Dynamic Term Fund - Regular Plan - Monthly IDCW Option,Unknown,Regular,IDCW
+0P0001MRTE.BO,ITI Dynamic Term Fund - Regular Plan - Quarterly IDCW Option,Unknown,Regular,IDCW
+,Abakkus Liquid Fund - Direct Plan - Daily IDCW Reinvestment,Unknown,Direct,IDCW
+0P0001YEMJ.BO,Abakkus Liquid Fund - Direct Plan - Growth,Unknown,Direct,Growth
+,Abakkus Liquid Fund - Direct Plan - Monthly IDCW Reinvestment,Unknown,Direct,IDCW
+,Abakkus Liquid Fund - Direct Plan - Quarterly IDCW Reinvestment,Unknown,Direct,IDCW
+,Abakkus Liquid Fund - Direct Plan - Weekly IDCW Reinvestment,Unknown,Direct,IDCW
+,Abakkus Liquid Fund - Regular Plan - Daily IDCW Reinvestment,Unknown,Regular,IDCW
+0P0001YEMO.BO,Abakkus Liquid Fund - Regular Plan - Growth,Unknown,Regular,Growth
+,Abakkus Liquid Fund - Regular Plan - Monthly IDCW Reinvestment,Unknown,Regular,IDCW
+,Abakkus Liquid Fund - Regular Plan - Quarterly IDCW Reinvestment,Unknown,Regular,IDCW
+,Abakkus Liquid Fund - Regular Plan - Weekly IDCW Reinvestment,Unknown,Regular,IDCW
 0P00015OOF.BO,UTI Liquid Fund - Direct Plan - Annual IDCW,UTI Mutual Fund,Direct,IDCW
 ,UTI Liquid Fund - Direct Plan - Daily IDCW (Reinvestment),UTI Mutual Fund,Direct,IDCW
 0P0001BI1G.BO,UTI Liquid Fund - Direct Plan - Flexi IDCW,UTI Mutual Fund,Direct,IDCW
@@ -6891,19 +6882,33 @@ PSUBANK.NS,Kotak Nifty PSU Bank ETF,Kotak Mahindra Mutual Fund,Unknown,Unknown
 0P0000XV62.BO,Kotak Money Market Fund - (Growth) - Direct,Kotak Mahindra Mutual Fund,Direct,Growth
 0P00005WT6.BO,Kotak Money market Fund - (Monthly Payout of Income Distribution cum capital withdrawal option),Kotak Mahindra Mutual Fund,Unknown,IDCW
 0P0000XV65.BO,Kotak Money Market Fund - (Monthly Payout of Income Distribution cum capital withdrawal option) - Direct,Kotak Mahindra Mutual Fund,Direct,IDCW
+,Kotak Money Market Fund - Direct - IDCW Weekly,Kotak Mahindra Mutual Fund,Direct,IDCW
 ,Choice Overnight Fund - Daily IDCW Option - Direct Plan,Unknown,Direct,IDCW
 ,Choice Overnight Fund - Daily IDCW Option - Regular Plan,Unknown,Regular,IDCW
-,Choice Overnight Fund - Growth Option - Direct Plan,Unknown,Direct,Growth
-,Choice Overnight Fund - Growth Option - Regular Plan,Unknown,Regular,Growth
+0P00035T1Q.BO,Choice Overnight Fund - Growth Option - Direct Plan,Unknown,Direct,Growth
+0P00035T1S.BO,Choice Overnight Fund - Growth Option - Regular Plan,Unknown,Regular,Growth
 0P0001RQS3.BO,Helios Overnight Fund - Direct Plan - Daily IDCW Option,Unknown,Direct,IDCW
 0P0001RQS2.BO,Helios Overnight Fund - Direct Plan - Growth Option,Unknown,Direct,Growth
 0P0001RQS5.BO,Helios Overnight Fund - Regular Plan - Daily IDCW Option,Unknown,Regular,IDCW
 0P0001RQS4.BO,Helios Overnight Fund - Regular Plan - Growth Option,Unknown,Regular,Growth
+,Kotak Bond Short Term Fund - Direct - IDCW Weekly,Kotak Mahindra Mutual Fund,Direct,IDCW
 0P0001D6KM.BO,Kotak Bond Short Term Plan - Direct - Standard Income Distribution cum capital withdrawal option,Kotak Mahindra Mutual Fund,Direct,Unknown
 0P0001NDGS.BO,Kotak Bond Short Term Plan - Regular Plan - Normal Dividend,Kotak Mahindra Mutual Fund,Regular,IDCW
 0P00005WSN.BO,Kotak Bond Short Term Plan-(Growth),Kotak Mahindra Mutual Fund,Unknown,Unknown
 0P0000XV5M.BO,Kotak Bond Short Term Plan-(Growth) - Direct,Kotak Mahindra Mutual Fund,Direct,Unknown
 ,Kotak Bond Short Term Plan-(Payout of Income Distribution cum capital withdrawal option),Kotak Mahindra Mutual Fund,Unknown,Unknown
+,ITI Ultra Short Duration Fund - Direct Plan - Daily IDCW,Unknown,Direct,IDCW
+0P0001M4E5.BO,ITI Ultra Short Term Fund - Direct Plan - Annually IDCW Option,Unknown,Direct,IDCW
+0P0001M4E3.BO,ITI Ultra Short Term Fund - Direct Plan - Fortnightly IDCW Option,Unknown,Direct,IDCW
+0P0001M4E2.BO,ITI Ultra Short Term Fund - Direct Plan - Growth Option,Unknown,Direct,Growth
+0P0001M4E4.BO,ITI Ultra Short Term Fund - Direct Plan - Monthly IDCW Option,Unknown,Direct,IDCW
+,ITI Ultra Short Term Fund - Direct Plan - Weekly IDCW Option,Unknown,Direct,IDCW
+0P0001M4EE.BO,ITI Ultra Short Term Fund - Regular Plan - Annually IDCW Option,Unknown,Regular,IDCW
+,ITI Ultra Short Term Fund - Regular Plan - Daily IDCW Option,Unknown,Regular,IDCW
+0P0001M4EC.BO,ITI Ultra Short Term Fund - Regular Plan - Fortnightly IDCW Option,Unknown,Regular,IDCW
+0P0001M4EB.BO,ITI Ultra Short Term Fund - Regular Plan - Growth Option,Unknown,Regular,Growth
+0P0001M4ED.BO,ITI Ultra Short Term Fund - Regular Plan - Monthly IDCW Option,Unknown,Regular,IDCW
+,ITI Ultra Short Term Fund - Regular Plan - Weekly IDCW Option,Unknown,Regular,IDCW
 0P00005WT3.BO,Kotak Savings Fund -Growth,Kotak Mahindra Mutual Fund,Unknown,Growth
 0P0001BAU7.BO,Kotak Savings Fund -Monthly Payout of Income Distribution cum capital withdrawal option,Kotak Mahindra Mutual Fund,Unknown,IDCW
 0P0000XV5Z.BO,Kotak Savings Fund-Growth - Direct,Kotak Mahindra Mutual Fund,Direct,Unknown
@@ -7436,6 +7441,12 @@ PSUBANK.NS,Kotak Nifty PSU Bank ETF,Kotak Mahindra Mutual Fund,Unknown,Unknown
 0P0001V74L.BO,Tata Income Plus Arbitrage Active FOF - Regular Plan Growth Option,Tata Mutual Fund,Regular,Growth
 0P0001V74N.BO,Tata Income Plus Arbitrage Active FOF - Regular Plan IDCW Payout Option,Tata Mutual Fund,Regular,IDCW
 ,Tata Income Plus Arbitrage Active FOF - Regular Plan IDCW Reinvestment Option,Tata Mutual Fund,Regular,IDCW
+,Tata Multi Sector Passive FOF Direct Plan Growth Option,Tata Mutual Fund,Direct,Growth
+,Tata Multi Sector Passive FOF Direct Plan IDCW Payout Option,Tata Mutual Fund,Direct,IDCW
+,Tata Multi Sector Passive FOF Direct Plan IDCW Reinvestment Option,Tata Mutual Fund,Direct,IDCW
+,Tata Multi Sector Passive FOF Regular Plan Growth Option,Tata Mutual Fund,Regular,Growth
+,Tata Multi Sector Passive FOF Regular Plan IDCW Payout Option,Tata Mutual Fund,Regular,IDCW
+,Tata Multi Sector Passive FOF Regular Plan IDCW Reinvestment Option,Tata Mutual Fund,Regular,IDCW
 0P0001OQ1Z.BO,Tata Nifty India Digital ETF Fund of Fund -Regular Plan-Growth,Tata Mutual Fund,Regular,Unknown
 ,Tata Nifty India Digital ETF Fund of Fund-Direct Plan- IDCW Reinvestment,Tata Mutual Fund,Unknown,IDCW
 0P0001OQ1W.BO,Tata Nifty India Digital ETF Fund of Fund-Direct Plan-Growth,Tata Mutual Fund,Unknown,Unknown
@@ -8158,8 +8169,8 @@ GOLDCASE.NS,Zerodha Gold ETF,Unknown,Unknown,Unknown
 0P0001OF03.BO,HDFC NIFTY 100 Index Fund - Growth Option,HDFC Mutual Fund,Unknown,Growth
 0P0000XW7T.BO,HDFC Nifty 50 Index Fund - Direct Plan,HDFC Mutual Fund,Direct,Unknown
 0P00005WMV.BO,HDFC Nifty 50 Index Fund - Growth Plan,HDFC Mutual Fund,Unknown,Growth
-,HDFC Nifty Auto Index Fund- Direct Plan- Growth Option,HDFC Mutual Fund,Direct,Growth
-,HDFC Nifty Auto Index Fund- Growth Option,HDFC Mutual Fund,Unknown,Growth
+0P00035VVX.BO,HDFC Nifty Auto Index Fund- Direct Plan- Growth Option,HDFC Mutual Fund,Direct,Growth
+0P00035VVY.BO,HDFC Nifty Auto Index Fund- Growth Option,HDFC Mutual Fund,Unknown,Growth
 0P0001QJQX.BO,HDFC Nifty G-Sec Apr 2029 Index Fund - Growth Option,HDFC Mutual Fund,Unknown,Growth
 0P0001QJQW.BO,HDFC Nifty G-Sec Apr 2029 Index Fund - Growth Option - Direct Plan,HDFC Mutual Fund,Direct,Growth
 0P0001PYIN.BO,HDFC Nifty G-Sec Dec 2026 Index Fund - Growth Option,HDFC Mutual Fund,Unknown,Growth
