@@ -86,12 +86,6 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 ,ICICI Prudential Banking and PSU Debt Fund Retail Daily Dividend,ICICI Prudential Mutual Fund,Unknown,IDCW
 ,ICICI Prudential Banking and PSU Debt Fund Retail Growth,ICICI Prudential Mutual Fund,Unknown,Growth
 ,ICICI Prudential Banking and PSU Debt Fund Retail Weekly Dividend,ICICI Prudential Mutual Fund,Unknown,IDCW
-0P0000XWAW.BO,Invesco India Banking and PSU Fund - Direct Plan -  Growth Option,Unknown,Direct,Growth
-,Invesco India Banking and PSU Fund - Direct Plan - Daily IDCW (Reinvestment),Unknown,Direct,IDCW
-0P0000XVGL.BO,Invesco India Banking and PSU Fund - Direct Plan - Monthly IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
-,Invesco India Banking and PSU Fund - Regular Plan - Daily IDCW (Reinvestment),Unknown,Regular,IDCW
-0P0000XUCZ.BO,Invesco India Banking and PSU Fund - Regular Plan - Growth Option,Unknown,Regular,Growth
-0P0000XUM6.BO,Invesco India Banking and PSU Fund - Regular Plan - Monthly IDCW (Payout / Reinvestment),Unknown,Regular,IDCW
 0P0001KSS8.BO,ITI Banking & PSU Debt Fund - Direct Plan - Growth Option,Unknown,Direct,Growth
 0P0001KSS9.BO,ITI Banking & PSU Debt Fund - Direct Plan - IDCW Option,Unknown,Direct,IDCW
 0P0001KSSB.BO,ITI Banking & PSU Debt Fund - Regular Plan - Growth Option,Unknown,Regular,Growth
@@ -268,16 +262,6 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 ,ICICI Prudential Corporate Bond Fund Retail Monthly Dividend,ICICI Prudential Mutual Fund,Unknown,IDCW
 ,ICICI Prudential Corporate Bond Fund Retail Quarterly Dividend,ICICI Prudential Mutual Fund,Unknown,IDCW
 ,ICICI Prudential Corporate Bond Fund Retail Weekly Dividend,ICICI Prudential Mutual Fund,Unknown,IDCW
-0P0000XVGB.BO,Invesco India Corporate Bond Fund - Direct Plan - Annual IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
-0P0000XVG8.BO,Invesco India Corporate Bond Fund - Direct Plan - Discretionary IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
-0P0000XVGC.BO,Invesco India Corporate Bond Fund - Direct Plan - Growth,Unknown,Direct,Growth
-0P0000XVG9.BO,Invesco India Corporate Bond Fund - Direct Plan - Monthly IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
-0P0000XVGE.BO,Invesco India Corporate Bond Fund - Direct Plan - Quarterly IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
-0P00009QDJ.BO,Invesco India Corporate Bond Fund - Regular Plan - Annual IDCW (Payout / Reinvestment),Unknown,Regular,IDCW
-0P0000VL21.BO,Invesco India Corporate Bond Fund - Regular Plan - Discretionary IDCW (Payout / Reinvestment),Unknown,Regular,IDCW
-0P00009QDH.BO,Invesco India Corporate Bond Fund - Regular Plan - Growth,Unknown,Regular,Growth
-0P00009QCZ.BO,Invesco India Corporate Bond Fund - Regular Plan - Monthly IDCW (Payout / Reinvestment),Unknown,Regular,IDCW
-0P00009QDK.BO,Invesco India Corporate Bond Fund - Regular Plan - Quarterly IDCW (Payout / Reinvestment),Unknown,Regular,IDCW
 0P0001LT5T.BO,Mirae Asset Corporate Bond Fund Direct Growth Plan,Mirae Asset Mutual Fund,Direct,Growth
 0P0001LT5U.BO,Mirae Asset Corporate Bond Fund Direct IDCW,Mirae Asset Mutual Fund,Direct,IDCW
 0P0001LT5W.BO,Mirae Asset Corporate Bond Fund Regular Growth,Mirae Asset Mutual Fund,Regular,Growth
@@ -471,12 +455,6 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P0000RT81.BO,ICICI Prudential Credit Risk Fund - Growth,ICICI Prudential Mutual Fund,Unknown,Growth
 ,ICICI Prudential Credit Risk Fund - Half Yearly IDCW,ICICI Prudential Mutual Fund,Unknown,IDCW
 0P0000RT82.BO,ICICI Prudential Credit Risk Fund - Quarterly IDCW,ICICI Prudential Mutual Fund,Unknown,IDCW
-0P0001EPA7.BO,Invesco India Credit Risk Fund - Direct Plan - Discretionary IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
-0P000147EK.BO,Invesco India Credit Risk Fund - Direct Plan - Growth,Unknown,Direct,Growth
-0P000147EL.BO,Invesco India Credit Risk Fund - Direct Plan - Monthly IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
-0P000147EM.BO,Invesco India Credit Risk Fund - Regular Plan - Discretionary IDCW (Payout / Reinvestment),Unknown,Regular,IDCW
-0P000147EI.BO,Invesco India Credit Risk Fund - Regular Plan - Growth,Unknown,Regular,Growth
-0P000147EJ.BO,Invesco India Credit Risk Fund - Regular Plan - Monthly IDCW (Payout / Reinvestment),Unknown,Regular,IDCW
 0P00012JRN.BO,Kotak Credit Risk Fund - Direct Plan - Standard Income Distribution cum capital withdrawal option,Kotak Mahindra Mutual Fund,Direct,Unknown
 0P0000NOLQ.BO,Kotak Credit Risk Fund - Growth,Kotak Mahindra Mutual Fund,Unknown,Growth
 0P0000XV6D.BO,Kotak Credit Risk Fund - Growth - Direct,Kotak Mahindra Mutual Fund,Direct,Growth
@@ -963,14 +941,6 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 ,ICICI Prudential Short Term Gilt Fund - Dividend,ICICI Prudential Mutual Fund,Unknown,IDCW
 ,ICICI Prudential Short Term Gilt Fund - Growth,ICICI Prudential Mutual Fund,Unknown,Growth
 ,ICICI Prudential Short Term Gilt Fund - Half Yearly Dividend,ICICI Prudential Mutual Fund,Unknown,IDCW
-0P0000XVGW.BO,Invesco India Gilt Fund - Direct  Plan - Growth,Unknown,Direct,Growth
-0P0000XVH3.BO,Invesco India Gilt Fund - Direct Plan - Annual IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
-,Invesco India Gilt Fund - Direct Plan - Monthly IDCW (Reinvestment),Unknown,Direct,IDCW
-0P0000XVGY.BO,Invesco India Gilt Fund - Direct Plan - Quarterly IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
-0P0000CN6X.BO,Invesco India Gilt Fund - Regular Plan - Annual IDCW (Payout / Reinvestment),Unknown,Regular,IDCW
-0P0000CN6Q.BO,Invesco India Gilt Fund - Regular Plan - Growth,Unknown,Regular,Growth
-,Invesco India Gilt Fund - Regular Plan - Monthly IDCW (Reinvestment),Unknown,Regular,IDCW
-0P0000CN6G.BO,Invesco India Gilt Fund - Regular Plan - Quarterly IDCW (Payout / Reinvestment),Unknown,Regular,IDCW
 0P00005WTZ.BO,Kotak Gilt-Investment  Provident Fund and Trust-Growth,Kotak Mahindra Mutual Fund,Unknown,Unknown
 0P0000XYEB.BO,Kotak Gilt-Investment  Provident Fund and Trust-Growth - Direct,Kotak Mahindra Mutual Fund,Direct,Unknown
 0P0001BATA.BO,Kotak Gilt-Investment  Provident Fund and Trust-Payout of Income Distribution cum capital withdrawal option,Kotak Mahindra Mutual Fund,Unknown,Unknown
@@ -1277,20 +1247,6 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 ,ICICI Prudential Liquid Fund Retail Monthly Dividend,ICICI Prudential Mutual Fund,Unknown,IDCW
 ,ICICI Prudential Liquid Fund Retail Weekly Dividend,ICICI Prudential Mutual Fund,Unknown,IDCW
 ,ICICI Prudential Liquid Institutional Fund - Growth,ICICI Prudential Mutual Fund,Unknown,Growth
-,Invesco India Liquid Fund - Daily IDCW (Reinvestment),Unknown,Unknown,IDCW
-0P0000XVHA.BO,Invesco India Liquid Fund - Direct Plan - Growth,Unknown,Direct,Growth
-0P0000XVHB.BO,Invesco India Liquid Fund - Direct Plan - Monthly IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
-0P0001YLJA.BO,Invesco India Liquid Fund - Direct Plan - Weekly IDCW (Reinvestment),Unknown,Direct,IDCW
-,Invesco India Liquid Fund - Direct Plan- Daily IDCW (Reinvestment),Unknown,Direct,IDCW
-0P0000N8UZ.BO,Invesco India Liquid Fund - Growth,Unknown,Unknown,Growth
-0P0000N8V1.BO,Invesco India Liquid Fund - Monthly IDCW (Payout / Reinvestment),Unknown,Unknown,IDCW
-0P00009JEE.BO,Invesco India Liquid Fund - Regular - Growth,Unknown,Regular,Growth
-,Invesco India Liquid Fund - Regular - Weekly IDCW (Reinvestment),Unknown,Regular,IDCW
-,Invesco India Liquid Fund - Unclaimed Dividend Plan - Above 3 Years,Unknown,Unknown,IDCW
-,Invesco India Liquid Fund - Unclaimed Dividend Plan - Below 3 Years,Unknown,Unknown,IDCW
-,Invesco India Liquid Fund - Unclaimed Redemption Plan - Above 3 Years,Unknown,Unknown,Unknown
-,Invesco India Liquid Fund - Unclaimed Redemption Plan - Below 3 years,Unknown,Unknown,Unknown
-0P0001YLJ9.BO,Invesco India Liquid Fund - Weekly IDCW (Reinvestment),Unknown,Unknown,IDCW
 0P0001HCBN.BO,ITI Liquid Fund - Direct Plan - Annually IDCW Option,Unknown,Direct,IDCW
 ,ITI Liquid Fund - Direct Plan - Daily IDCW Option,Unknown,Direct,IDCW
 0P0001HCBL.BO,ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option,Unknown,Direct,IDCW
@@ -1737,20 +1693,6 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 ,ICICI Prudential Savings Fund Retail Daily Dividend,ICICI Prudential Mutual Fund,Unknown,IDCW
 ,ICICI Prudential Savings Fund Retail Growth,ICICI Prudential Mutual Fund,Unknown,Growth
 ,ICICI Prudential Savings Fund Retail Weekly Dividend,ICICI Prudential Mutual Fund,Unknown,IDCW
-,Invesco India Low Duration Fund - Daily IDCW (Reinvestment),Unknown,Unknown,IDCW
-0P0000XVI8.BO,Invesco India Low Duration Fund - Direct Plan - Discretionary IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
-0P0000XVI0.BO,Invesco India Low Duration Fund - Direct Plan - Growth,Unknown,Direct,Growth
-0P0000XVI5.BO,Invesco India Low Duration Fund - Direct Plan - Monthly IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
-0P0000XVI1.BO,Invesco India Low Duration Fund - Direct Plan - Weekly IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
-,Invesco India Low Duration Fund - Direct Plan -Daily IDCW (Reinvestment),Unknown,Direct,IDCW
-0P00015BI4.BO,Invesco India Low Duration Fund - Discretionary IDCW (Payout / Reinvestment),Unknown,Unknown,IDCW
-0P00009JEF.BO,Invesco India Low Duration Fund - Growth,Unknown,Unknown,Growth
-0P00009JEG.BO,Invesco India Low Duration Fund - Monthly IDCW (Payout / Reinvestment),Unknown,Unknown,IDCW
-0P00009JEN.BO,Invesco India Low Duration Fund - Regular - Growth,Unknown,Regular,Growth
-,Invesco India Low Duration Fund - Regular - Monthly IDCW (Reinvestment),Unknown,Regular,IDCW
-,Invesco India Low Duration Fund - Regular - Weekly IDCW (Reinvestment),Unknown,Regular,IDCW
-,Invesco India Low Duration Fund - Regular Daily IDCW (Reinvestment),Unknown,Regular,IDCW
-0P00009JEI.BO,Invesco India Low Duration Fund - Weekly IDCW (Payout / Reinvestment),Unknown,Unknown,IDCW
 0P0001YHZE.BO,JioBlackRock Low Duration Fund - Direct Plan - Growth Option,Unknown,Direct,Growth
 0P0000YK4A.BO,JM Low Duration Fund (Direct) - Bonus Option - Principal Units,Unknown,Direct,Unknown
 ,JM Low Duration Fund (Direct) - Daily IDCW,Unknown,Direct,IDCW
@@ -1954,12 +1896,6 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 ,ICICI Prudential Medium Term Bond Fund Plan B - Quarterly Dividend,ICICI Prudential Mutual Fund,Unknown,IDCW
 ,ICICI Prudential Medium Term Bond Fund Plan C - Quarterly Dividend,ICICI Prudential Mutual Fund,Unknown,IDCW
 ,ICICI Prudential Medium Term Bond Fund-Plan B-Growth,ICICI Prudential Mutual Fund,Unknown,Unknown
-0P0001MS8X.BO,Invesco India Medium Duration Fund - Direct Plan - Discretionary IDCW (Payout/Reinvestment),Unknown,Direct,IDCW
-0P0001MS8Y.BO,Invesco India Medium Duration Fund - Direct Plan - Growth,Unknown,Direct,Growth
-0P0001MS8W.BO,Invesco India Medium Duration Fund - Direct Plan - Quarterly IDCW (Payout / Reinvestment)),Unknown,Direct,IDCW
-0P0001MS92.BO,Invesco India Medium Duration Fund - Regular Plan - Discretionary IDCW(Payout / Reinvestment)),Unknown,Regular,IDCW
-0P0001MS93.BO,Invesco India Medium Duration Fund - Regular Plan - Growth,Unknown,Regular,Growth
-0P0001MS91.BO,Invesco India Medium Duration Fund - Regular Plan - Quarterly IDCW (Payout / Reinvestment),Unknown,Regular,IDCW
 0P00012K1C.BO,Kotak Medium Term Fund - Direct - Standard Income Distribution cum capital withdrawal option,Kotak Mahindra Mutual Fund,Direct,Unknown
 0P00012K1B.BO,Kotak Medium Term Fund - Direct Growth,Kotak Mahindra Mutual Fund,Direct,Growth
 0P00012K18.BO,Kotak Medium Term Fund - Growth,Kotak Mahindra Mutual Fund,Unknown,Growth
@@ -2279,19 +2215,6 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 ,ICICI Prudential Money Market Fund Option - Monthly IDCW,ICICI Prudential Mutual Fund,Unknown,IDCW
 0P00005WD5.BO,ICICI Prudential Money Market Fund Option - Weekly IDCW,ICICI Prudential Mutual Fund,Unknown,IDCW
 ,ICICI Prudential Money Market Fund Option -Fortnightly IDCW,ICICI Prudential Mutual Fund,Unknown,IDCW
-,Invesco India Money Market Fund - Daily IDCW (Reinvestment),Unknown,Unknown,IDCW
-,Invesco India Money Market Fund - Direct Plan - Daily IDCW (Reinvestment),Unknown,Direct,IDCW
-0P0000XVGO.BO,Invesco India Money Market Fund - Direct Plan - Discretionary IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
-0P0000XVGV.BO,Invesco India Money Market Fund - Direct Plan - Growth,Unknown,Direct,Growth
-0P0000XVGT.BO,Invesco India Money Market Fund - Direct Plan - Monthly IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
-,Invesco India Money Market Fund - Direct Plan - Weekly IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
-0P0000VABA.BO,Invesco India Money Market Fund - Discretionary IDCW (Payout / Reinvestment),Unknown,Unknown,IDCW
-0P0000L164.BO,Invesco India Money Market Fund - Growth,Unknown,Unknown,Growth
-0P0000L163.BO,Invesco India Money Market Fund - Monthly IDCW (Payout / Reinvestment),Unknown,Unknown,IDCW
-0P0000KYO8.BO,Invesco India Money Market Fund - Regular - Growth,Unknown,Regular,Growth
-0P0000L162.BO,Invesco India Money Market Fund - Regular - Monthly IDCW (Payout / Reinvestment),Unknown,Regular,IDCW
-,Invesco India Money Market Fund - Regular Plan - Daily IDCW (Reinvestment),Unknown,Regular,IDCW
-0P0001TP3K.BO,Invesco India Money Market Fund - Weekly IDCW (Payout / Reinvestment),Unknown,Unknown,IDCW
 0P0001W3JF.BO,JioBlackRock Money Market Fund - Direct Plan - Growth Option,Unknown,Direct,Growth
 ,JM Money Market Fund (Direct) - Fortnightly Dividend Option,Unknown,Direct,IDCW
 ,JM Money Market Fund (Direct) - Growth,Unknown,Direct,Growth
@@ -2557,14 +2480,6 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 ,ICICI Prudential Overnight Fund - Monthly IDCW,ICICI Prudential Mutual Fund,Unknown,IDCW
 ,ICICI Prudential Overnight Fund - Quarterly IDCW,ICICI Prudential Mutual Fund,Unknown,IDCW
 0P0001F2JG.BO,ICICI Prudential Overnight Fund - Weekly IDCW,ICICI Prudential Mutual Fund,Unknown,IDCW
-,Invesco India Overnight Fund - Direct Plan - Daily IDCW (Reinvestment),Unknown,Direct,IDCW
-0P0001J1BM.BO,Invesco India Overnight Fund - Direct Plan - Growth,Unknown,Direct,Growth
-0P0001J1BN.BO,Invesco India Overnight Fund - Direct Plan - Monthly IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
-,Invesco India Overnight Fund - Direct Plan - Weekly IDCW (Reinvestment),Unknown,Direct,IDCW
-,Invesco India Overnight Fund - Regular Plan - Daily IDCW (Reinvestment),Unknown,Regular,IDCW
-0P0001J1BR.BO,Invesco India Overnight Fund - Regular Plan - Growth,Unknown,Regular,Growth
-0P0001J1BS.BO,Invesco India Overnight Fund - Regular Plan - Monthly IDCW (Payout / Reinvestment),Unknown,Regular,IDCW
-,Invesco India Overnight Fund - Regular Plan - Weekly IDCW (Reinvestment),Unknown,Regular,IDCW
 0P0001IK1F.BO,ITI Overnight Fund - Direct Plan - Annual IDCW Option,Unknown,Direct,IDCW
 ,ITI Overnight Fund - Direct Plan - Daily IDCW Option,Unknown,Direct,IDCW
 0P0001IK1D.BO,ITI Overnight Fund - Direct Plan - Fortnightly IDCW Option,Unknown,Direct,IDCW
@@ -2677,6 +2592,7 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P0001O9O2.BO,TRUST MF OVERNIGHT FUND-DIRECT PLAN-GROWTH,Unknown,Unknown,Unknown
 ,TRUST MF OVERNIGHT FUND-REGULAR PLAN-DAILY IDCW REINVESTMENT,Unknown,Unknown,IDCW
 0P0001O9O4.BO,TRUST MF OVERNIGHT FUND-REGULAR-GROWTH,Unknown,Unknown,Unknown
+,TRUSTMF OVERNIGHT FUND - UNCLAIMED REDEMPTION PLAN GROWTH,Unknown,Unknown,Growth
 ,Union Overnight Fund - Direct Plan - Daily IDCW Option,Unknown,Direct,IDCW
 0P0001H5BB.BO,Union Overnight Fund - Direct Plan - Growth Option,Unknown,Direct,Growth
 0P0001H5BC.BO,Union Overnight Fund - Direct Plan - Monthly IDCW Option,Unknown,Direct,IDCW
@@ -2829,19 +2745,6 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 ,ICICI Prudential Short Term Fund - Institutional Plan - Dividend Monthly,ICICI Prudential Mutual Fund,Unknown,IDCW
 ,ICICI Prudential Short Term Fund-Institutional Growth,ICICI Prudential Mutual Fund,Unknown,Growth
 ,ICICI Prudential Short Term Fund-Institutional Plan-Dividend Fortnightly,ICICI Prudential Mutual Fund,Unknown,Unknown
-,Invesco India Short Duration Fund - Direct Plan - Daily IDCW (Reinvestment),Unknown,Direct,IDCW
-0P0000XVHV.BO,Invesco India Short Duration Fund - Direct Plan - Growth,Unknown,Direct,Growth
-0P0000XVHS.BO,Invesco India Short Duration Fund - Direct Plan - Monthly IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
-0P0000XVHU.BO,Invesco India Short Duration Fund - Direct Plan -Discretionary IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
-,Invesco India Short Duration Fund - Direct Plan -Weekly IDCW (Reinvestment),Unknown,Direct,IDCW
-0P00009N0A.BO,Invesco India Short Duration Fund - Plan B - Growth,Unknown,Unknown,Growth
-0P00009N0G.BO,Invesco India Short Duration Fund - Plan B - Monthly IDCW (Payout / Reinvestment),Unknown,Unknown,IDCW
-,Invesco India Short Duration Fund - Plan B - Weekly IDCW (Reinvestment),Unknown,Unknown,IDCW
-,Invesco India Short Duration Fund - Regular Plan - Daily IDCW (Reinvestment),Unknown,Regular,IDCW
-0P00009N0F.BO,Invesco India Short Duration Fund - Regular Plan - Growth,Unknown,Regular,Growth
-0P00009N0H.BO,Invesco India Short Duration Fund - Regular Plan - Monthly IDCW (Payout / Reinvestment),Unknown,Regular,IDCW
-,Invesco India Short Duration Fund - Regular Plan - Weekly IDCW (Reinvestment),Unknown,Regular,IDCW
-0P0000X7XL.BO,Invesco India Short Duration Fund- Regular Plan - Discretionary IDCW (Payout / Reinvestment),Unknown,Regular,IDCW
 0P0001YHZD.BO,JioBlackRock Short Duration Fund - Direct Plan - Growth Option,Unknown,Direct,Growth
 0P0001PJOF.BO,JM Short Duration Fund (Direct) - Growth,Unknown,Direct,Growth
 0P0001PJOG.BO,JM Short Duration Fund (Direct) - IDCW,Unknown,Direct,IDCW
@@ -3059,17 +2962,6 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P0000TFXY.BO,ICICI Prudential Ultra Short Term Fund - Monthly IDCW,ICICI Prudential Mutual Fund,Unknown,IDCW
 0P0000TFXZ.BO,ICICI Prudential Ultra Short Term Fund - Quarterly IDCW,ICICI Prudential Mutual Fund,Unknown,IDCW
 0P0001EWPY.BO,ICICI Prudential Ultra Short Term Fund - Weekly IDCW,ICICI Prudential Mutual Fund,Unknown,IDCW
-0P0000XVHM.BO,Invesco India Ultra Short Duration Fund - Direct Plan - Annual IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
-,Invesco India Ultra Short Duration Fund - Direct Plan - Daily IDCW (Reinvestment),Unknown,Direct,IDCW
-0P0000XVHN.BO,Invesco India Ultra Short Duration Fund - Direct Plan - Growth,Unknown,Direct,Growth
-0P0000XVHK.BO,Invesco India Ultra Short Duration Fund - Direct Plan - Monthly IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
-0P0000XVHP.BO,Invesco India Ultra Short Duration Fund - Direct Plan - Quarterly IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
-0P0000RZA3.BO,Invesco India Ultra Short Duration Fund - Regular Plan - Annual IDCW (Payout / Reinvestment),Unknown,Regular,IDCW
-,Invesco India Ultra Short Duration Fund - Regular Plan - Daily IDCW (Reinvestment),Unknown,Regular,IDCW
-0P0000RZA0.BO,Invesco India Ultra Short Duration Fund - Regular Plan - Growth,Unknown,Regular,Growth
-0P0000RZA1.BO,Invesco India Ultra Short Duration Fund - Regular Plan - Monthly IDCW (Payout / Reinvestment),Unknown,Regular,IDCW
-0P0000RZA2.BO,Invesco India Ultra Short Duration Fund - Regular Plan - Quarterly IDCW (Payout / Reinvestment),Unknown,Regular,IDCW
-0P00035ZZD.BO,Invesco India Ultra Short Duration Fund - Regular Plan - Weekly IDCW (Payout / Reinvestment),Unknown,Regular,IDCW
 ,JM Ultra Short Duration Fund (Direct) - Bonus Option - Principal Units,Unknown,Direct,Unknown
 ,JM Ultra Short Duration Fund (Direct) - Fortnightly Dividend Option,Unknown,Direct,IDCW
 ,JM Ultra Short Duration Fund - (Direct) - Growth Option,Unknown,Direct,Growth
@@ -3215,10 +3107,6 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P0001HNIZ.BO,WhiteOak Capital Ultra Short Duration Fund- Regular plan-Growth Option,WhiteOak Capital Mutual Fund,Regular,Unknown
 0P0001HNJ2.BO,WhiteOak Capital Ultra Short Duration Fund- Regular plan-Monthly Payout/ Reinvestment of Income Distribution cum capital withdrawal option (IDCW),WhiteOak Capital Mutual Fund,Regular,IDCW
 0P0001HNJ0.BO,WhiteOak Capital Ultra Short Duration Fund- Regular plan-Weekly Payout/ Reinvestment of Income Distribution cum capital withdrawal option (IDCW),WhiteOak Capital Mutual Fund,Regular,IDCW
-0P0000XVGR.BO,Invesco India Contra Fund - Direct Plan - Growth,Unknown,Direct,Growth
-0P0000XVGM.BO,Invesco India Contra Fund - Direct Plan - IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
-0P000093TB.BO,Invesco India Contra Fund - Regular Plan - Growth,Unknown,Regular,Growth
-0P000093SU.BO,Invesco India Contra Fund - Regular Plan - IDCW (Payout / Reinvestment),Unknown,Regular,IDCW
 0P0000XV5Q.BO,Kotak Contra Fund - Direct Plan - Growth,Kotak Mahindra Mutual Fund,Direct,Growth
 0P0000XV5P.BO,Kotak Contra Fund - Direct Plan - IDCW -Payout & Re-investment of Income Distribution cum capital withdrawal option- Direct,Kotak Mahindra Mutual Fund,Direct,IDCW
 0P00005WSS.BO,Kotak Contra Fund - Regular Plan - Growth,Kotak Mahindra Mutual Fund,Regular,Growth
@@ -3343,10 +3231,6 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P0000XUZ3.BO,ICICI Prudential ELSS Tax Saver Fund - Direct Plan - IDCW,ICICI Prudential Mutual Fund,Direct,IDCW
 0P00005WD7.BO,ICICI Prudential ELSS Tax Saver Fund - Growth,ICICI Prudential Mutual Fund,Unknown,Growth
 0P00005WD6.BO,ICICI Prudential ELSS Tax Saver Fund - IDCW,ICICI Prudential Mutual Fund,Unknown,IDCW
-0P0000XVI2.BO,Invesco India ELSS Tax Saver Fund - Direct Plan - Growth,Unknown,Direct,Growth
-0P0000XVHW.BO,Invesco India ELSS Tax Saver Fund - Direct Plan - IDCW Payout,Unknown,Direct,IDCW
-0P000093T8.BO,Invesco India ELSS Tax Saver Fund - Regular Plan - Growth,Unknown,Regular,Growth
-0P000093KY.BO,Invesco India ELSS Tax Saver Fund - Regular Plan - IDCW Payout,Unknown,Regular,IDCW
 0P0001I1NF.BO,ITI ELSS Tax Saver Fund - Direct Plan - Growth Option,Unknown,Direct,Growth
 0P0001I1NG.BO,ITI ELSS Tax Saver Fund - Direct Plan - IDCW Option,Unknown,Direct,IDCW
 0P0001I1NH.BO,ITI ELSS Tax Saver Fund - Regular Plan - Growth Option,Unknown,Regular,Growth
@@ -3696,10 +3580,6 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P0000XUZ2.BO,ICICI Prudential Focused Equity Fund - Direct Plan - IDCW,ICICI Prudential Mutual Fund,Direct,IDCW
 0P0000K9VO.BO,ICICI Prudential Focused Equity Fund - Growth,ICICI Prudential Mutual Fund,Unknown,Growth
 0P0000K9VN.BO,ICICI Prudential Focused Equity Fund - IDCW,ICICI Prudential Mutual Fund,Unknown,IDCW
-0P0001KMZ7.BO,Invesco India Focused Fund - Direct Plan - Growth,Unknown,Direct,Growth
-0P0001KMZ8.BO,Invesco India Focused Fund - Direct Plan - IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
-0P0001KMZA.BO,Invesco India Focused Fund - Regular Plan - Growth,Unknown,Regular,Growth
-0P0001KMZB.BO,Invesco India Focused Fund - Regular Plan - IDCW (Payout / Reinvestment),Unknown,Regular,IDCW
 0P0001R1ZC.BO,ITI Focused Fund - Direct Plan - Growth,Unknown,Direct,Growth
 0P0001R1ZD.BO,ITI Focused Fund - Direct Plan - IDCW,Unknown,Direct,IDCW
 0P0001R1ZF.BO,ITI Focused Fund - Regular Plan - Growth,Unknown,Regular,Growth
@@ -3822,10 +3702,6 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P0000XUZ7.BO,ICICI Prudential Large & Mid Cap Fund - Direct Plan - IDCW,ICICI Prudential Mutual Fund,Direct,IDCW
 0P00005UMR.BO,ICICI Prudential Large & Mid Cap Fund - Growth,ICICI Prudential Mutual Fund,Unknown,Growth
 0P00005UMS.BO,ICICI Prudential Large & Mid Cap Fund - IDCW,ICICI Prudential Mutual Fund,Unknown,IDCW
-0P0000XVGS.BO,Invesco India Large & Mid Cap Fund - Direct Plan - Growth,Unknown,Direct,Growth
-0P0000XVGX.BO,Invesco India Large & Mid Cap Fund - Direct Plan - IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
-0P00009J43.BO,Invesco India Large & Mid Cap Fund - Regular Plan - Growth,Unknown,Regular,Growth
-0P00009J3Y.BO,Invesco India Large & Mid Cap Fund - Regular Plan - IDCW (Payout / Reinvestment),Unknown,Regular,IDCW
 0P0001TIEM.BO,ITI Large & Midcap Fund - Direct Plan - Growth,Unknown,Direct,Growth
 0P0001TIKG.BO,ITI Large & Midcap Fund - Direct Plan - IDCW Option,Unknown,Direct,IDCW
 0P0001TIKI.BO,ITI Large & Midcap Fund - Regular Plan - Growth,Unknown,Regular,Growth
@@ -3962,10 +3838,6 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P0000GB48.BO,ICICI Prudential Large Cap Fund (erstwhile Bluechip Fund)  - Growth,ICICI Prudential Mutual Fund,Unknown,Growth
 0P0000GB32.BO,ICICI Prudential Large Cap Fund (erstwhile Bluechip Fund)  - IDCW,ICICI Prudential Mutual Fund,Unknown,IDCW
 0P0000XWAT.BO,ICICI Prudential Large Cap Fund (erstwhile Bluechip Fund) - Direct Plan - Growth,ICICI Prudential Mutual Fund,Direct,Growth
-0P0000XVGP.BO,Invesco India Largecap Fund - Direct Plan - Growth,Unknown,Direct,Growth
-0P0000XVGK.BO,Invesco India Largecap Fund - Direct Plan - IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
-0P0000KUO1.BO,Invesco India Largecap Fund - Regular Plan - Growth,Unknown,Regular,Growth
-0P0000KRPG.BO,Invesco India Largecap Fund - Regular Plan - IDCW (Payout / Reinvestment),Unknown,Regular,IDCW
 0P0001L80P.BO,ITI Large Cap Fund - Direct Plan - Growth Option,Unknown,Direct,Growth
 0P0001L7ZD.BO,ITI Large Cap Fund - Direct Plan - IDCW Option,Unknown,Direct,IDCW
 0P0001L80T.BO,ITI Large Cap Fund - Regular Plan - Growth Option,Unknown,Regular,Growth
@@ -4106,10 +3978,6 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P0000XUYG.BO,ICICI Prudential MidCap Fund - Direct Plan -  IDCW,ICICI Prudential Mutual Fund,Direct,IDCW
 0P00005X04.BO,ICICI Prudential MidCap Fund - Growth,ICICI Prudential Mutual Fund,Unknown,Growth
 0P00005X03.BO,ICICI Prudential MidCap Fund - IDCW,ICICI Prudential Mutual Fund,Unknown,IDCW
-0P0000XVHE.BO,Invesco India Midcap Fund - Direct Plan - Growth Option,Unknown,Direct,Growth
-0P0000XVHH.BO,Invesco India Midcap Fund - Direct Plan - IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
-0P000093TC.BO,Invesco India Midcap Fund - Regular Plan - Growth Option,Unknown,Regular,Growth
-0P000093ST.BO,Invesco India Midcap Fund - Regular Plan - IDCW (Payout / Reinvestment),Unknown,Regular,IDCW
 0P0001LOYO.BO,ITI Mid Cap Fund - Direct Plan - Growth Option,Unknown,Direct,Growth
 0P0001LOYP.BO,ITI Mid Cap Fund - Direct Plan - IDCW Option,Unknown,Direct,IDCW
 0P0001LOYR.BO,ITI Mid Cap Fund - Regular Plan - Growth Option,Unknown,Regular,Growth
@@ -4237,10 +4105,6 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P0000XUZ9.BO,ICICI Prudential Multicap Fund - Direct Plan -  IDCW,ICICI Prudential Mutual Fund,Direct,IDCW
 0P00005UO6.BO,ICICI Prudential Multicap Fund - Growth,ICICI Prudential Mutual Fund,Unknown,Growth
 0P00005UO4.BO,ICICI Prudential Multicap Fund - IDCW,ICICI Prudential Mutual Fund,Unknown,IDCW
-0P0000XVHC.BO,Invesco India Multicap Fund - Direct Plan - Growth Option,Unknown,Direct,Growth
-0P0000XVHF.BO,Invesco India Multicap Fund - Direct Plan - IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
-0P0000ADWJ.BO,Invesco India Multicap Fund - Regular Plan - Growth Option,Unknown,Regular,Growth
-0P0000ADJ9.BO,Invesco India Multicap Fund - Regular Plan - IDCW (Payout / Reinvestment),Unknown,Regular,IDCW
 0P0001HCLR.BO,ITI Multi Cap Fund - Direct Plan - Growth Option,Unknown,Direct,Growth
 0P0001HCLP.BO,ITI Multi Cap Fund - Direct Plan - IDCW Option,Unknown,Direct,IDCW
 0P0001HCLU.BO,ITI Multi Cap Fund - Regular Plan - Growth Option,Unknown,Regular,Growth
@@ -4751,38 +4615,6 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P0000XUZB.BO,ICICI Prudential US Bluechip Equity Fund - Direct Plan -  IDCW,ICICI Prudential Mutual Fund,Direct,IDCW
 0P0000WD5E.BO,ICICI Prudential US Bluechip Equity Fund - Growth,ICICI Prudential Mutual Fund,Unknown,Growth
 0P0000WD5F.BO,ICICI Prudential US Bluechip Equity Fund - IDCW,ICICI Prudential Mutual Fund,Unknown,IDCW
-0P0001ULF7.BO,Invesco India Business Cycle Fund - Direct Plan - Growth,Unknown,Direct,Growth
-0P0001ULF8.BO,Invesco India Business Cycle Fund - Direct Plan - IDCW,Unknown,Direct,IDCW
-0P0001ULFA.BO,Invesco India Business Cycle Fund - Regular Plan - Growth,Unknown,Regular,Growth
-0P0001ULFB.BO,Invesco India Business Cycle Fund - Regular Plan - IDCW,Unknown,Regular,IDCW
-0P0001XTO8.BO,Invesco India Consumption Fund - Direct Plan - Growth,Unknown,Direct,Growth
-0P0001XTO9.BO,Invesco India Consumption Fund - Direct Plan - IDCW,Unknown,Direct,IDCW
-0P0001XTOB.BO,Invesco India Consumption Fund - Regular Plan - Growth Plan,Unknown,Regular,Growth
-0P0001XTOC.BO,Invesco India Consumption Fund - Regular Plan - IDCW Plan,Unknown,Regular,IDCW
-0P0001LSF9.BO,Invesco India ESG Integration Strategy Fund - Direct Plan - Growth,Unknown,Direct,Growth
-0P0001LSFA.BO,Invesco India ESG Integration Strategy Fund - Direct Plan - IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
-0P0001LSFC.BO,Invesco India ESG Integration Strategy Fund - Regular Plan - Growth,Unknown,Regular,Growth
-0P0001LSFD.BO,Invesco India ESG Integration Strategy Fund - Regular Plan - IDCW (Payout / Reinvestment),Unknown,Regular,IDCW
-0P0000XVGN.BO,Invesco India Financial Services Fund - Direct Plan - Growth,Unknown,Direct,Growth
-0P0000XVGI.BO,Invesco India Financial Services Fund - Direct Plan - IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
-0P0000GB26.BO,Invesco India Financial Services Fund - Regular Plan -  IDCW (Payout / Reinvestment),Unknown,Regular,IDCW
-0P0000GB38.BO,Invesco India Financial Services Fund - Regular Plan - Growth,Unknown,Regular,Growth
-0P0000XVH6.BO,Invesco India Infrastructure Fund - Direct Plan - Growth Option,Unknown,Direct,Growth
-0P0000XVH9.BO,Invesco India Infrastructure Fund - Direct Plan - IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
-0P0000ADWR.BO,Invesco India Infrastructure Fund - Regular Plan - Growth Option,Unknown,Regular,Growth
-0P0000ADK4.BO,Invesco India Infrastructure Fund - Regular Plan - IDCW (Payout / Reinvestment),Unknown,Regular,IDCW
-0P0001TBT7.BO,Invesco India Manufacturing Fund - Direct Plan - Growth,Unknown,Direct,Growth
-0P0001TBT8.BO,Invesco India Manufacturing Fund - Direct Plan - IDCW,Unknown,Direct,IDCW
-0P0001TBTA.BO,Invesco India Manufacturing Fund - Regular Plan - Growth,Unknown,Regular,Growth
-0P0001TBTB.BO,Invesco India Manufacturing Fund - Regular Plan - IDCW,Unknown,Regular,IDCW
-0P0000XVHQ.BO,Invesco India PSU Equity Fund - Direct Plan - Growth,Unknown,Direct,Growth
-0P0000XVHT.BO,Invesco India PSU Equity Fund - Direct Plan - IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
-0P0000LZXL.BO,Invesco India PSU Equity Fund - Regular Plan - Growth,Unknown,Regular,Growth
-0P0000LZXV.BO,Invesco India PSU Equity Fund - Regular Plan - IDCW (Payout / Reinvestment),Unknown,Regular,IDCW
-0P0001TKOK.BO,Invesco India Technology Fund - Direct Plan - Growth,Unknown,Direct,Growth
-0P0001TKOJ.BO,Invesco India Technology Fund - Direct Plan - IDCW,Unknown,Direct,IDCW
-0P0001TKOH.BO,Invesco India Technology Fund - Regular Plan - Growth,Unknown,Regular,Growth
-0P0001TKOG.BO,Invesco India Technology Fund - Regular Plan - IDCW,Unknown,Regular,IDCW
 0P0001NQJN.BO,ITI Banking and Financial Services Fund - Direct Plan - Growth Option,Unknown,Direct,Growth
 0P0001NQJO.BO,ITI Banking and Financial Services Fund - Direct Plan - IDCW Option,Unknown,Direct,IDCW
 0P0001NQJR.BO,ITI Banking and Financial Services Fund - Regular Plan - IDCW Option,Unknown,Regular,IDCW
@@ -5362,10 +5194,6 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P00009QCW.BO,ICICI Prudential Smallcap Fund - Growth,ICICI Prudential Mutual Fund,Unknown,Growth
 0P00009PUP.BO,ICICI Prudential Smallcap Fund - IDCW,ICICI Prudential Mutual Fund,Unknown,IDCW
 ,ICICI Prudential Smallcap Fund - Institutional Growth,ICICI Prudential Mutual Fund,Unknown,Growth
-0P0001EQU4.BO,Invesco India Smallcap Fund - Direct Plan - Growth,Unknown,Direct,Growth
-0P0001EQU2.BO,Invesco India Smallcap Fund - Direct Plan - IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
-0P0001EQU7.BO,Invesco India Smallcap Fund - Regular Plan - Growth,Unknown,Regular,Growth
-0P0001EQU5.BO,Invesco India Smallcap Fund - Regular Plan - IDCW (Payout / Reinvestment),Unknown,Regular,IDCW
 0P0001J49Z.BO,ITI Small Cap Fund - Direct Plan - Growth Option,Unknown,Direct,Growth
 0P0001J4A0.BO,ITI Small Cap Fund - Direct Plan - IDCW Option,Unknown,Direct,IDCW
 0P0001J4A2.BO,ITI Small Cap Fund - Regular Plan - Growth Option,Unknown,Regular,Growth
@@ -5528,6 +5356,14 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P0000XVU0.BO,UTI Value Fund - Direct Plan - IDCW,UTI Mutual Fund,Direct,IDCW
 0P00005UZO.BO,UTI Value Fund - Regular Plan - Growth Option,UTI Mutual Fund,Regular,Growth
 0P00005UZP.BO,UTI Value Fund - Regular Plan - IDCW,UTI Mutual Fund,Regular,IDCW
+0P0000XVGR.BO,Invesco India Contra Fund - Direct Plan - Growth,Unknown,Direct,Growth
+0P0000XVGM.BO,Invesco India Contra Fund - Direct Plan - IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
+0P000093TB.BO,Invesco India Contra Fund - Regular Plan - Growth,Unknown,Regular,Growth
+0P000093SU.BO,Invesco India Contra Fund - Regular Plan - IDCW (Payout / Reinvestment),Unknown,Regular,IDCW
+0P0000XVI2.BO,Invesco India ELSS Tax Saver Fund - Direct Plan - Growth,Unknown,Direct,Growth
+0P0000XVHW.BO,Invesco India ELSS Tax Saver Fund - Direct Plan - IDCW Payout,Unknown,Direct,IDCW
+0P000093T8.BO,Invesco India ELSS Tax Saver Fund - Regular Plan - Growth,Unknown,Regular,Growth
+0P000093KY.BO,Invesco India ELSS Tax Saver Fund - Regular Plan - IDCW Payout,Unknown,Regular,IDCW
 0P00018X6V.BO,Mahindra Manulife ELSS Tax Saver Fund - Direct Plan -Growth,Unknown,Direct,Growth
 0P00018X6W.BO,Mahindra Manulife ELSS Tax Saver Fund - Regular Plan - IDCW,Unknown,Regular,IDCW
 0P00018X6U.BO,Mahindra Manulife ELSS Tax Saver Fund- Direct Plan - IDCW,Unknown,Direct,IDCW
@@ -5540,10 +5376,20 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P0001MZPN.BO,Mahindra Manulife Flexi Cap Fund - Direct Plan -IDCW,Unknown,Direct,IDCW
 0P0001MZPP.BO,Mahindra Manulife Flexi Cap Fund - Regular Plan -Growth,Unknown,Regular,Growth
 0P0001MZPQ.BO,Mahindra Manulife Flexi Cap Fund - Regular Plan -IDCW,Unknown,Regular,IDCW
+0P0001KMZ7.BO,Invesco India Focused Fund - Direct Plan - Growth,Unknown,Direct,Growth
+0P0001KMZ8.BO,Invesco India Focused Fund - Direct Plan - IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
+0P0001KMZA.BO,Invesco India Focused Fund - Regular Plan - Growth,Unknown,Regular,Growth
+0P0001KMZB.BO,Invesco India Focused Fund - Regular Plan - IDCW (Payout / Reinvestment),Unknown,Regular,IDCW
 0P0001KZ3M.BO,Mahindra Manulife Focused Fund - Direct Plan - IDCW,Unknown,Direct,IDCW
 0P0001KZ3L.BO,Mahindra Manulife Focused Fund - Direct Plan -Growth,Unknown,Direct,Growth
 0P0001KZ3O.BO,Mahindra Manulife Focused Fund - Regular Plan - Growth,Unknown,Regular,Growth
 0P0001KZ3P.BO,Mahindra Manulife Focused Fund - Regular Plan - IDCW,Unknown,Regular,IDCW
+0P0000XVGS.BO,Invesco India Large & Mid Cap Fund - Direct Plan - Growth,Unknown,Direct,Growth
+0P0000XVGX.BO,Invesco India Large & Mid Cap Fund - Direct Plan - IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
+0P00009J43.BO,Invesco India Large & Mid Cap Fund - Regular Plan - Growth,Unknown,Regular,Growth
+0P00009J3Y.BO,Invesco India Large & Mid Cap Fund - Regular Plan - IDCW (Payout / Reinvestment),Unknown,Regular,IDCW
+,TRUSTMF LARGE & MIDCAP FUND - DIRECT PLAN - GROWTH,Unknown,Direct,Growth
+,TRUSTMF LARGE & MIDCAP FUND - REGULAR PLAN - GROWTH,Unknown,Regular,Growth
 0P0000XV1T.BO,Groww Largecap Fund (formerly known as Indiabulls Blue Chip Fund) - Direct Plan - Growth Option,Unknown,Direct,Growth
 0P0000VDYU.BO,Groww Largecap Fund (formerly known as Indiabulls Blue Chip Fund) - Regular Plan- Growth Option,Unknown,Regular,Growth
 0P0000XV1Q.BO,Groww Largecap Fund (formerly known as Indiabulls Bluechip Fund)- Direct Plan- - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),Unknown,Direct,IDCW
@@ -5554,14 +5400,26 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P00019W5X.BO,Groww Largecap Fund (formerly known as Indiabulls Bluechip Fund)- Regular Plan- Half Yearly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),Unknown,Regular,IDCW
 0P00019WGY.BO,Groww Largecap Fund (formerly known as Indiabulls Bluechip Fund)- Regular Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),Unknown,Regular,IDCW
 0P00019WZ1.BO,Groww Largecap Fund (formerly known as Indiabulls Bluechip Fund)- Regular Plan- Quarterly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),Unknown,Regular,IDCW
+0P0000XVGP.BO,Invesco India Largecap Fund - Direct Plan - Growth,Unknown,Direct,Growth
+0P0000XVGK.BO,Invesco India Largecap Fund - Direct Plan - IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
+0P0000KUO1.BO,Invesco India Largecap Fund - Regular Plan - Growth,Unknown,Regular,Growth
+0P0000KRPG.BO,Invesco India Largecap Fund - Regular Plan - IDCW (Payout / Reinvestment),Unknown,Regular,IDCW
 0P0001GXTS.BO,Mahindra Manulife Large Cap Fund - Direct Plan - IDCW,Unknown,Direct,IDCW
 0P0001GXTR.BO,Mahindra Manulife Large Cap Fund - Direct Plan -Growth,Unknown,Direct,Growth
 0P0001GXTU.BO,Mahindra Manulife Large Cap Fund - Regular Plan - Growth,Unknown,Regular,Growth
 0P0001GXTV.BO,Mahindra Manulife Large Cap Fund - Regular Plan - IDCW,Unknown,Regular,IDCW
+0P0000XVHE.BO,Invesco India Midcap Fund - Direct Plan - Growth Option,Unknown,Direct,Growth
+0P0000XVHH.BO,Invesco India Midcap Fund - Direct Plan - IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
+0P000093TC.BO,Invesco India Midcap Fund - Regular Plan - Growth Option,Unknown,Regular,Growth
+0P000093ST.BO,Invesco India Midcap Fund - Regular Plan - IDCW (Payout / Reinvestment),Unknown,Regular,IDCW
 0P0001U395.BO,Groww Multicap Fund - Direct - Growth,Unknown,Direct,Growth
 0P0001U396.BO,Groww Multicap Fund - Direct - IDCW,Unknown,Direct,IDCW
 0P0001U398.BO,Groww Multicap Fund - Regular - Growth,Unknown,Regular,Growth
 0P0001U399.BO,Groww Multicap Fund - Regular - IDCW,Unknown,Regular,IDCW
+0P0000XVHC.BO,Invesco India Multicap Fund - Direct Plan - Growth Option,Unknown,Direct,Growth
+0P0000XVHF.BO,Invesco India Multicap Fund - Direct Plan - IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
+0P0000ADWJ.BO,Invesco India Multicap Fund - Regular Plan - Growth Option,Unknown,Regular,Growth
+0P0000ADJ9.BO,Invesco India Multicap Fund - Regular Plan - IDCW (Payout / Reinvestment),Unknown,Regular,IDCW
 0P0001A98N.BO,Mahindra Manulife Multi Cap Fund - Direct Plan - IDCW,Unknown,Direct,IDCW
 0P0001A98O.BO,Mahindra Manulife Multi Cap Fund - Direct Plan -Growth,Unknown,Direct,Growth
 0P0001A98Q.BO,Mahindra Manulife Multi Cap Fund - Regular Plan - Growth,Unknown,Regular,Growth
@@ -5570,10 +5428,46 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P0001S3EH.BO,Groww Banking & Financial Services Fund - Regular - Growth,Unknown,Regular,Growth
 0P0001S3EG.BO,Groww Banking & Financial Services Fund - Regular Plan - IDCW,Unknown,Regular,IDCW
 0P0001S3EJ.BO,Groww Banking & Financial Services Fund-IDCW,Unknown,Unknown,Unknown
+0P0000XVGN.BO,Invesco India Financial Services Fund - Direct Plan - Growth,Unknown,Direct,Growth
+0P0000XVGI.BO,Invesco India Financial Services Fund - Direct Plan - IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
+0P0000GB26.BO,Invesco India Financial Services Fund - Regular Plan -  IDCW (Payout / Reinvestment),Unknown,Regular,IDCW
+0P0000GB38.BO,Invesco India Financial Services Fund - Regular Plan - Growth,Unknown,Regular,Growth
+0P0001TKOK.BO,Invesco India Technology Fund - Direct Plan - Growth,Unknown,Direct,Growth
+0P0001TKOJ.BO,Invesco India Technology Fund - Direct Plan - IDCW,Unknown,Direct,IDCW
+0P0001TKOH.BO,Invesco India Technology Fund - Regular Plan - Growth,Unknown,Regular,Growth
+0P0001TKOG.BO,Invesco India Technology Fund - Regular Plan - IDCW,Unknown,Regular,IDCW
 0P0001YEZU.BO,Groww Small Cap Fund - Direct-IDCW,Unknown,Unknown,Unknown
 0P0001YEZT.BO,Groww Small Cap Fund-Direct-Growth,Unknown,Unknown,Unknown
 0P0001YEZW.BO,Groww Small Cap Fund-Regular-Growth,Unknown,Unknown,Unknown
 0P0001YEZX.BO,Groww Small Cap Fund-Regular-IDCW,Unknown,Unknown,Unknown
+0P0001EQU4.BO,Invesco India Smallcap Fund - Direct Plan - Growth,Unknown,Direct,Growth
+0P0001EQU2.BO,Invesco India Smallcap Fund - Direct Plan - IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
+0P0001EQU7.BO,Invesco India Smallcap Fund - Regular Plan - Growth,Unknown,Regular,Growth
+0P0001EQU5.BO,Invesco India Smallcap Fund - Regular Plan - IDCW (Payout / Reinvestment),Unknown,Regular,IDCW
+0P0001ULF7.BO,Invesco India Business Cycle Fund - Direct Plan - Growth,Unknown,Direct,Growth
+0P0001ULF8.BO,Invesco India Business Cycle Fund - Direct Plan - IDCW,Unknown,Direct,IDCW
+0P0001ULFA.BO,Invesco India Business Cycle Fund - Regular Plan - Growth,Unknown,Regular,Growth
+0P0001ULFB.BO,Invesco India Business Cycle Fund - Regular Plan - IDCW,Unknown,Regular,IDCW
+0P0001XTO8.BO,Invesco India Consumption Fund - Direct Plan - Growth,Unknown,Direct,Growth
+0P0001XTO9.BO,Invesco India Consumption Fund - Direct Plan - IDCW,Unknown,Direct,IDCW
+0P0001XTOB.BO,Invesco India Consumption Fund - Regular Plan - Growth Plan,Unknown,Regular,Growth
+0P0001XTOC.BO,Invesco India Consumption Fund - Regular Plan - IDCW Plan,Unknown,Regular,IDCW
+0P0001LSF9.BO,Invesco India ESG Integration Strategy Fund - Direct Plan - Growth,Unknown,Direct,Growth
+0P0001LSFA.BO,Invesco India ESG Integration Strategy Fund - Direct Plan - IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
+0P0001LSFC.BO,Invesco India ESG Integration Strategy Fund - Regular Plan - Growth,Unknown,Regular,Growth
+0P0001LSFD.BO,Invesco India ESG Integration Strategy Fund - Regular Plan - IDCW (Payout / Reinvestment),Unknown,Regular,IDCW
+0P0000XVH6.BO,Invesco India Infrastructure Fund - Direct Plan - Growth Option,Unknown,Direct,Growth
+0P0000XVH9.BO,Invesco India Infrastructure Fund - Direct Plan - IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
+0P0000ADWR.BO,Invesco India Infrastructure Fund - Regular Plan - Growth Option,Unknown,Regular,Growth
+0P0000ADK4.BO,Invesco India Infrastructure Fund - Regular Plan - IDCW (Payout / Reinvestment),Unknown,Regular,IDCW
+0P0001TBT7.BO,Invesco India Manufacturing Fund - Direct Plan - Growth,Unknown,Direct,Growth
+0P0001TBT8.BO,Invesco India Manufacturing Fund - Direct Plan - IDCW,Unknown,Direct,IDCW
+0P0001TBTA.BO,Invesco India Manufacturing Fund - Regular Plan - Growth,Unknown,Regular,Growth
+0P0001TBTB.BO,Invesco India Manufacturing Fund - Regular Plan - IDCW,Unknown,Regular,IDCW
+0P0000XVHQ.BO,Invesco India PSU Equity Fund - Direct Plan - Growth,Unknown,Direct,Growth
+0P0000XVHT.BO,Invesco India PSU Equity Fund - Direct Plan - IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
+0P0000LZXL.BO,Invesco India PSU Equity Fund - Regular Plan - Growth,Unknown,Regular,Growth
+0P0000LZXV.BO,Invesco India PSU Equity Fund - Regular Plan - IDCW (Payout / Reinvestment),Unknown,Regular,IDCW
 0P0001EUWU.BO,Mahindra Manulife Consumption Fund - Direct Plan - IDCW,Unknown,Direct,IDCW
 0P0001EUWW.BO,Mahindra Manulife Consumption Fund - Direct Plan -Growth,Unknown,Direct,Growth
 0P0001EUWX.BO,Mahindra Manulife Consumption Fund - Regular Plan - IDCW,Unknown,Regular,IDCW
@@ -5619,20 +5513,33 @@ TECH.NS,Aditya Birla Sun Life Nifty IT ETF,Aditya Birla Sun Life Mutual Fund,Unk
 ABSLPSE.NS,Aditya Birla Sun Life Nifty PSE ETF,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
 SILVER.NS,Aditya Birla Sun Life Silver ETF,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
 BANK10BETF.NS,Bajaj Finserv BSE Top 10 Banks ETF,Bajaj Finserv Mutual Fund,Unknown,Unknown
-,Edelweiss Nifty Metal ETF,Unknown,Unknown,Unknown
+EMETAL.NS,Edelweiss Nifty Metal ETF,Unknown,Unknown,Unknown
+,HDFC Nifty Metal ETF - Growth Option,HDFC Mutual Fund,Unknown,Growth
+IVZINNIFTY.NS,Invesco India Nifty 50 Exchange Traded Fund,Unknown,Unknown,Unknown
 PVTBANK.NS,Kotak Nifty Private Bank ETF,Kotak Mahindra Mutual Fund,Unknown,Unknown
 PSUBANK.NS,Kotak Nifty PSU Bank ETF,Kotak Mahindra Mutual Fund,Unknown,Unknown
 MOMMIDCAP.NS,Mirae Asset BSE Midcap 150 Momentum 30 ETF,Mirae Asset Mutual Fund,Unknown,Unknown
+,Mirae Asset Nifty200 Momentum 30 Plus 8-13 yr G-Sec 50:50 ETF,Mirae Asset Mutual Fund,Unknown,Unknown
+,Invesco India Gold Exchange Traded Fund,Unknown,Unknown,Unknown
+CEMNTGROWW.NS,Groww Nifty Cements ETF,Unknown,Unknown,Unknown
 0P0001O9H3.BO,Aditya Birla Sun Life Silver ETF FOF-Direct Growth,Aditya Birla Sun Life Mutual Fund,Unknown,Growth
 0P0001O9H1.BO,Aditya Birla Sun Life Silver ETF FOF-Direct IDCW,Aditya Birla Sun Life Mutual Fund,Unknown,IDCW
 0P0001O9H6.BO,Aditya Birla Sun Life Silver ETF FOF-Regular Growth,Aditya Birla Sun Life Mutual Fund,Unknown,Growth
 0P0001O9H4.BO,Aditya Birla Sun Life Silver ETF FOF-Regular IDCW,Aditya Birla Sun Life Mutual Fund,Unknown,IDCW
+0P0000XVH4.BO,Invesco India Gold ETF Fund of Fund - Direct Plan - Growth,Unknown,Direct,Growth
+0P0000XVH7.BO,Invesco India Gold ETF Fund of Fund - Direct Plan - IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
+0P0000UNSF.BO,Invesco India Gold ETF Fund of Fund - Regular Plan - Growth,Unknown,Regular,Growth
+0P0000UNSG.BO,Invesco India Gold ETF Fund of Fund - Regular Plan - IDCW (Payout / Reinvestment),Unknown,Regular,IDCW
+0P0001WCJQ.BO,Invesco India Income Plus Arbitrage Active Fund of Fund - Direct Plan - Growth,Unknown,Direct,Growth
+0P0001WCJR.BO,Invesco India Income Plus Arbitrage Active Fund of Fund - Direct Plan - IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
+0P0001WCJT.BO,Invesco India Income Plus Arbitrage Active Fund of Fund - Regular Plan - Growth Plan,Unknown,Regular,Growth
+0P0001WCJU.BO,Invesco India Income Plus Arbitrage Active Fund of Fund - Regular Plan - IDCW (Payout / Reinvestment),Unknown,Regular,IDCW
 0P0002D13N.BO,Kotak Multi Asset Active FOF - Direct - Growth,Kotak Mahindra Mutual Fund,Direct,Growth
 0P0002D13H.BO,Kotak Multi Asset Active FOF - Direct - IDCW,Kotak Mahindra Mutual Fund,Direct,IDCW
 0P0002D13J.BO,Kotak Multi Asset Active FOF - Regular - Growth,Kotak Mahindra Mutual Fund,Regular,Growth
 0P0002D13K.BO,Kotak Multi Asset Active FOF - Regular- IDCW,Kotak Mahindra Mutual Fund,Regular,IDCW
-,Mirae Asset BSE Midcap 150 Momentum 30 ETF FOF - Direct Plan - Growth,Mirae Asset Mutual Fund,Direct,Growth
-,Mirae Asset BSE Midcap 150 Momentum 30 ETF FOF - Regular Plan - Growth,Mirae Asset Mutual Fund,Regular,Growth
+0P00035ZTS.BO,Mirae Asset BSE Midcap 150 Momentum 30 ETF FOF - Direct Plan - Growth,Mirae Asset Mutual Fund,Direct,Growth
+0P00035ZTU.BO,Mirae Asset BSE Midcap 150 Momentum 30 ETF FOF - Regular Plan - Growth,Mirae Asset Mutual Fund,Regular,Growth
 ,Tata Multi Sector Passive FOF Direct Plan Growth Option,Tata Mutual Fund,Direct,Growth
 ,Tata Multi Sector Passive FOF Direct Plan IDCW Payout Option,Tata Mutual Fund,Direct,IDCW
 ,Tata Multi Sector Passive FOF Direct Plan IDCW Reinvestment Option,Tata Mutual Fund,Direct,IDCW
@@ -5727,10 +5634,6 @@ MOMMIDCAP.NS,Mirae Asset BSE Midcap 150 Momentum 30 ETF,Mirae Asset Mutual Fund,
 0P00005WZI.BO,ICICI Prudential Equity & Debt Fund - Growth,ICICI Prudential Mutual Fund,Unknown,Growth
 0P00014D1K.BO,ICICI Prudential Equity & Debt Fund - Half Yearly IDCW,ICICI Prudential Mutual Fund,Unknown,IDCW
 0P00005WZH.BO,ICICI Prudential Equity & Debt Fund - Monthly IDCW,ICICI Prudential Mutual Fund,Unknown,IDCW
-0P0001DJ5F.BO,Invesco India Aggressive Hybrid Fund - Direct Plan - Growth,Unknown,Direct,Growth
-0P0001DJ5G.BO,Invesco India Aggressive Hybrid Fund - Direct Plan - IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
-0P0001DJ5C.BO,Invesco India Aggressive Hybrid Fund - Regular Plan - Growth,Unknown,Regular,Growth
-0P0001DJ5D.BO,Invesco India Aggressive Hybrid Fund - Regular Plan - IDCW (Payout / Reinvestment),Unknown,Regular,IDCW
 0P00013TXG.BO,JM Aggressive Hybrid Fund (Direct) - Annual Bonus Option,Unknown,Direct,Unknown
 0P00014B47.BO,JM Aggressive Hybrid Fund (Direct) - Annual IDCW,Unknown,Direct,IDCW
 ,JM Aggressive Hybrid Fund (Direct) - Bonus Option - Principal Units,Unknown,Direct,Unknown
@@ -5924,11 +5827,6 @@ MOMMIDCAP.NS,Mirae Asset BSE Midcap 150 Momentum 30 ETF,Mirae Asset Mutual Fund,
 ,ICICI Prudential Equity - Arbitrage Fund-Institutional Growth Option,ICICI Prudential Mutual Fund,Unknown,Growth
 ,ICICI Prudential Equity Arbitrage Fund - Bonus,ICICI Prudential Mutual Fund,Unknown,Unknown
 ,ICICI Prudential Equity Arbitrage Fund - Direct Plan Bonus,ICICI Prudential Mutual Fund,Direct,Unknown
-0P00013TMV.BO,Invesco India Arbitrage Fund - Direct Plan - Annual Bonus,Unknown,Direct,Unknown
-0P0000XVGF.BO,Invesco India Arbitrage Fund - Direct Plan - Growth Option,Unknown,Direct,Growth
-0P0000XVGH.BO,Invesco India Arbitrage Fund - Direct Plan - IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
-0P0000AF05.BO,Invesco India Arbitrage Fund - Regular Plan - Growth Option,Unknown,Regular,Growth
-0P0000AERS.BO,Invesco India Arbitrage Fund - Regular Plan - IDCW (Payout / Reinvestment),Unknown,Regular,IDCW
 0P0001IBG8.BO,ITI Arbitrage Fund - Direct Plan - Growth Option,Unknown,Direct,Growth
 0P0001IBG9.BO,ITI Arbitrage Fund - Direct Plan - IDCW Option,Unknown,Direct,IDCW
 0P0001IBGB.BO,ITI Arbitrage Fund - Regular Plan - Growth Option,Unknown,Regular,Growth
@@ -6241,10 +6139,6 @@ MOMMIDCAP.NS,Mirae Asset BSE Midcap 150 Momentum 30 ETF,Mirae Asset Mutual Fund,
 0P00008TN3.BO,ICICI Prudential Balanced Advantage Fund - IDCW,ICICI Prudential Mutual Fund,Unknown,IDCW
 0P0000YF4U.BO,ICICI Prudential Balanced Advantage Fund - Monthly IDCW,ICICI Prudential Mutual Fund,Unknown,IDCW
 ,ICICI Prudential Balanced Advantage Fund - Quarterly IDCW,ICICI Prudential Mutual Fund,Unknown,IDCW
-0P0000XVGZ.BO,Invesco India Balanced Advantage Fund - Direct Plan - Growth,Unknown,Direct,Growth
-0P0000XVGU.BO,Invesco India Balanced Advantage Fund - Direct Plan - IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
-0P00009QCX.BO,Invesco India Balanced Advantage Fund - Regular Plan - Growth,Unknown,Regular,Growth
-0P00009PUQ.BO,Invesco India Balanced Advantage Fund - Regular Plan - IDCW (Payout / Reinvestment),Unknown,Regular,IDCW
 0P0001IV91.BO,ITI Balanced Advantage Fund - Direct Plan - Growth Option,Unknown,Direct,Growth
 0P0001IV92.BO,ITI Balanced Advantage Fund - Direct Plan - IDCW Option,Unknown,Direct,IDCW
 0P0001IV94.BO,ITI Balanced Advantage Fund - Regular Plan - Growth Option,Unknown,Regular,Growth
@@ -6401,10 +6295,6 @@ MOMMIDCAP.NS,Mirae Asset BSE Midcap 150 Momentum 30 ETF,Mirae Asset Mutual Fund,
 ,ICICI Prudential Equity Savings Fund - Half Yearly IDCW,ICICI Prudential Mutual Fund,Unknown,IDCW
 ,ICICI Prudential Equity Savings Fund - Monthly IDCW,ICICI Prudential Mutual Fund,Unknown,IDCW
 0P000151PH.BO,ICICI Prudential Equity Savings Fund - Quarterly IDCW,ICICI Prudential Mutual Fund,Unknown,IDCW
-0P0001FU1W.BO,Invesco India Equity Savings Fund - Direct Plan - Growth,Unknown,Direct,Growth
-0P0001FU1X.BO,Invesco India Equity Savings Fund - Direct Plan - IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
-0P0001FU1Z.BO,Invesco India Equity Savings Fund - Regular Plan - Growth,Unknown,Regular,Growth
-0P0001FU20.BO,Invesco India Equity Savings Fund - Regular Plan - IDCW (Payout / Reinvestment),Unknown,Regular,IDCW
 0P00014HE5.BO,Kotak Equity Savings Fund - Direct - Growth,Kotak Mahindra Mutual Fund,Direct,Growth
 0P00014HE7.BO,Kotak Equity Savings Fund - Direct - Monthly Payout of Income Distribution cum capital withdrawal option,Kotak Mahindra Mutual Fund,Direct,IDCW
 0P00014HE4.BO,Kotak Equity Savings Fund - Regular - Growth,Kotak Mahindra Mutual Fund,Regular,Growth
@@ -6566,10 +6456,6 @@ MOMMIDCAP.NS,Mirae Asset BSE Midcap 150 Momentum 30 ETF,Mirae Asset Mutual Fund,
 0P00005X00.BO,ICICI Prudential Multi-Asset Fund - IDCW,ICICI Prudential Mutual Fund,Unknown,IDCW
 ,ICICI Prudential Multi-Asset Fund- Institutional Growth Option,ICICI Prudential Mutual Fund,Unknown,Growth
 ,ICICI Prudential Multi-Asset Fund-Institutional Option - I,ICICI Prudential Mutual Fund,Unknown,Unknown
-0P0001U54O.BO,Invesco India Multi Asset Allocation Fund - Direct Plan - Growth,Unknown,Direct,Growth
-0P0001U54P.BO,Invesco India Multi Asset Allocation Fund - Direct Plan - IDCW,Unknown,Direct,IDCW
-0P0001U54R.BO,Invesco India Multi Asset Allocation Fund - Regular Plan - Growth,Unknown,Regular,Growth
-0P0001U54S.BO,Invesco India Multi Asset Allocation Fund - Regular Plan - IDCW,Unknown,Regular,IDCW
 0P00035UCN.BO,JM Multi Asset Allocation Fund (Direct) - Growth Option,Unknown,Direct,Growth
 0P00035UCO.BO,JM Multi Asset Allocation Fund (Direct) - IDCW,Unknown,Direct,IDCW
 0P00035UCQ.BO,JM Multi Asset Allocation Fund (Regular) - Growth Option,Unknown,Regular,Growth
@@ -6642,22 +6528,45 @@ MOMMIDCAP.NS,Mirae Asset BSE Midcap 150 Momentum 30 ETF,Mirae Asset Mutual Fund,
 0P0000IQ4U.BO,UTI Multi Asset Allocation Fund - Regular Plan - IDCW,UTI Mutual Fund,Regular,IDCW
 0P0001QXIS.BO,WhiteOak Capital Multi Asset Allocation Fund Direct Plan Growth,WhiteOak Capital Mutual Fund,Direct,Growth
 0P0001QXIT.BO,WhiteOak Capital Multi Asset Allocation Fund Regular Plan Growth,WhiteOak Capital Mutual Fund,Regular,Growth
-,Zerodha Life Cycle Fund 2036 - Direct - Growth,Unknown,Direct,Growth
-,Zerodha Life Cycle Fund 2041 - Direct - Growth,Unknown,Direct,Growth
+0P0001DJ5F.BO,Invesco India Aggressive Hybrid Fund - Direct Plan - Growth,Unknown,Direct,Growth
+0P0001DJ5G.BO,Invesco India Aggressive Hybrid Fund - Direct Plan - IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
+0P0001DJ5C.BO,Invesco India Aggressive Hybrid Fund - Regular Plan - Growth,Unknown,Regular,Growth
+0P0001DJ5D.BO,Invesco India Aggressive Hybrid Fund - Regular Plan - IDCW (Payout / Reinvestment),Unknown,Regular,IDCW
 0P0001HXMC.BO,Mahindra Manulife Aggressive Hybrid Fund - Direct Plan - Monthly IDCW,Unknown,Direct,IDCW
 0P0001HXMB.BO,Mahindra Manulife Aggressive Hybrid Fund - Direct Plan -Growth,Unknown,Direct,Growth
 0P0001HXME.BO,Mahindra Manulife Aggressive Hybrid Fund - Regular Plan - Growth,Unknown,Regular,Growth
 0P0001HXMF.BO,Mahindra Manulife Aggressive Hybrid Fund - Regular Plan - Monthly IDCW,Unknown,Regular,IDCW
 0P00035HDK.BO,WhiteOak Capital Aggressive Hybrid Fund Direct Plan Growth,WhiteOak Capital Mutual Fund,Direct,Growth
 0P00035HDL.BO,WhiteOak Capital Aggressive Hybrid Fund Regular Plan Growth,WhiteOak Capital Mutual Fund,Regular,Growth
+0P00013TMV.BO,Invesco India Arbitrage Fund - Direct Plan - Annual Bonus,Unknown,Direct,Unknown
+0P0000XVGF.BO,Invesco India Arbitrage Fund - Direct Plan - Growth Option,Unknown,Direct,Growth
+0P0000XVGH.BO,Invesco India Arbitrage Fund - Direct Plan - IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
+0P0000AF05.BO,Invesco India Arbitrage Fund - Regular Plan - Growth Option,Unknown,Regular,Growth
+0P0000AERS.BO,Invesco India Arbitrage Fund - Regular Plan - IDCW (Payout / Reinvestment),Unknown,Regular,IDCW
 0P0001SIX8.BO,Helios Balanced Advantage Fund- Direct Plan- Growth Option,Unknown,Direct,Growth
 0P0001SIX9.BO,Helios Balanced Advantage Fund- Direct Plan-IDCW Option,Unknown,Direct,Unknown
 0P0001SIXC.BO,Helios Balanced Advantage Fund- Regular Plan- Growth Option,Unknown,Regular,Growth
 0P0001SIXD.BO,Helios Balanced Advantage Fund- Regular Plan-IDCW Option,Unknown,Regular,Unknown
+0P0000XVGZ.BO,Invesco India Balanced Advantage Fund - Direct Plan - Growth,Unknown,Direct,Growth
+0P0000XVGU.BO,Invesco India Balanced Advantage Fund - Direct Plan - IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
+0P00009QCX.BO,Invesco India Balanced Advantage Fund - Regular Plan - Growth,Unknown,Regular,Growth
+0P00009PUQ.BO,Invesco India Balanced Advantage Fund - Regular Plan - IDCW (Payout / Reinvestment),Unknown,Regular,IDCW
 0P0001O04T.BO,Mahindra Manulife Balanced Advantage Fund - Direct Plan - Growth,Unknown,Direct,Growth
 0P0001O04U.BO,Mahindra Manulife Balanced Advantage Fund - Direct Plan - IDCW,Unknown,Direct,IDCW
 0P0001O04W.BO,Mahindra Manulife Balanced Advantage Fund - Regular Plan - Growth,Unknown,Regular,Growth
 0P0001O04X.BO,Mahindra Manulife Balanced Advantage Fund - Regular Plan - IDCW,Unknown,Regular,IDCW
+0P0001FU1W.BO,Invesco India Equity Savings Fund - Direct Plan - Growth,Unknown,Direct,Growth
+0P0001FU1X.BO,Invesco India Equity Savings Fund - Direct Plan - IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
+0P0001FU1Z.BO,Invesco India Equity Savings Fund - Regular Plan - Growth,Unknown,Regular,Growth
+0P0001FU20.BO,Invesco India Equity Savings Fund - Regular Plan - IDCW (Payout / Reinvestment),Unknown,Regular,IDCW
+0P00035VW5.BO,ALPHAGREP MULTI ASSET ALLOCATION FUND-DIRECT-GROWTH,Unknown,Unknown,Unknown
+0P00035VW6.BO,ALPHAGREP MULTI ASSET ALLOCATION FUND-DIRECT-IDCW,Unknown,Unknown,Unknown
+0P00035VW8.BO,ALPHAGREP MULTI ASSET ALLOCATION FUND-REGULAR-GROWTH,Unknown,Unknown,Unknown
+0P00035VW9.BO,ALPHAGREP MULTI ASSET ALLOCATION FUND-REGULAR-IDCW,Unknown,Unknown,Unknown
+0P0001U54O.BO,Invesco India Multi Asset Allocation Fund - Direct Plan - Growth,Unknown,Direct,Growth
+0P0001U54P.BO,Invesco India Multi Asset Allocation Fund - Direct Plan - IDCW,Unknown,Direct,IDCW
+0P0001U54R.BO,Invesco India Multi Asset Allocation Fund - Regular Plan - Growth,Unknown,Regular,Growth
+0P0001U54S.BO,Invesco India Multi Asset Allocation Fund - Regular Plan - IDCW,Unknown,Regular,IDCW
 ,ICICI Prudential Blended Plan B -  Dividend Option - I,ICICI Prudential Mutual Fund,Unknown,IDCW
 ,ICICI Prudential Blended Plan B -  Growth Option - I,ICICI Prudential Mutual Fund,Unknown,Growth
 ,ICICI Prudential Blended Plan B -  Monthly Dividend Option - I,ICICI Prudential Mutual Fund,Unknown,IDCW
@@ -6839,8 +6748,24 @@ MOMMIDCAP.NS,Mirae Asset BSE Midcap 150 Momentum 30 ETF,Mirae Asset Mutual Fund,
 0P0000CNZB.BO,HSBC Banking and PSU Debt Fund - Regular Growth,HSBC Mutual Fund,Regular,Growth
 0P0000CNZM.BO,HSBC Banking and PSU Debt Fund - Regular Monthly IDCW,HSBC Mutual Fund,Regular,IDCW
 ,HSBC Banking and PSU Debt Fund - Regular Weekly IDCW,HSBC Mutual Fund,Regular,IDCW
+0P0000XWAW.BO,Invesco India Banking and PSU Fund - Direct Plan -  Growth Option,Unknown,Direct,Growth
+,Invesco India Banking and PSU Fund - Direct Plan - Daily IDCW (Reinvestment),Unknown,Direct,IDCW
+0P0000XVGL.BO,Invesco India Banking and PSU Fund - Direct Plan - Monthly IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
+,Invesco India Banking and PSU Fund - Regular Plan - Daily IDCW (Reinvestment),Unknown,Regular,IDCW
+0P0000XUCZ.BO,Invesco India Banking and PSU Fund - Regular Plan - Growth Option,Unknown,Regular,Growth
+0P0000XUM6.BO,Invesco India Banking and PSU Fund - Regular Plan - Monthly IDCW (Payout / Reinvestment),Unknown,Regular,IDCW
+0P0000XVGB.BO,Invesco India Corporate Bond Fund - Direct Plan - Annual IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
+0P0000XVG8.BO,Invesco India Corporate Bond Fund - Direct Plan - Discretionary IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
+0P0000XVGC.BO,Invesco India Corporate Bond Fund - Direct Plan - Growth,Unknown,Direct,Growth
+0P0000XVG9.BO,Invesco India Corporate Bond Fund - Direct Plan - Monthly IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
+0P0000XVGE.BO,Invesco India Corporate Bond Fund - Direct Plan - Quarterly IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
+0P00009QDJ.BO,Invesco India Corporate Bond Fund - Regular Plan - Annual IDCW (Payout / Reinvestment),Unknown,Regular,IDCW
+0P0000VL21.BO,Invesco India Corporate Bond Fund - Regular Plan - Discretionary IDCW (Payout / Reinvestment),Unknown,Regular,IDCW
+0P00009QDH.BO,Invesco India Corporate Bond Fund - Regular Plan - Growth,Unknown,Regular,Growth
+0P00009QCZ.BO,Invesco India Corporate Bond Fund - Regular Plan - Monthly IDCW (Payout / Reinvestment),Unknown,Regular,IDCW
+0P00009QDK.BO,Invesco India Corporate Bond Fund - Regular Plan - Quarterly IDCW (Payout / Reinvestment),Unknown,Regular,IDCW
 ,Kotak Coporate Bond Fund- Retail Plan-Growth Option,Kotak Mahindra Mutual Fund,Unknown,Unknown
-,Kotak Corporate Bond Fund - Regular - IDCW Weekly,Kotak Mahindra Mutual Fund,Regular,IDCW
+0P00036QDD.BO,Kotak Corporate Bond Fund - Regular - IDCW Weekly,Kotak Mahindra Mutual Fund,Regular,IDCW
 0P0000XY00.BO,Kotak Corporate Bond Fund- Direct Plan- Growth Option,Kotak Mahindra Mutual Fund,Direct,Growth
 0P0001BJFB.BO,Kotak Corporate Bond Fund- Direct Plan- Monthly Payout of Income Distribution cum capital withdrawal option,Kotak Mahindra Mutual Fund,Direct,IDCW
 ,Kotak Corporate Bond Fund- Institutional Plan-Growth Option,Kotak Mahindra Mutual Fund,Unknown,Unknown
@@ -6852,6 +6777,12 @@ MOMMIDCAP.NS,Mirae Asset BSE Midcap 150 Momentum 30 ETF,Mirae Asset Mutual Fund,
 ,Kotak Corporate Bond Fund- Retail Plan-Daily Dividend Option,Kotak Mahindra Mutual Fund,Unknown,IDCW
 ,Kotak Corporate Bond Fund- Standard Plan-Daily Dividend Option,Kotak Mahindra Mutual Fund,Unknown,IDCW
 ,Kotak Corporate Bond Fund- Standard Plan-Weekly Dividend Option,Kotak Mahindra Mutual Fund,Unknown,IDCW
+0P0001EPA7.BO,Invesco India Credit Risk Fund - Direct Plan - Discretionary IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
+0P000147EK.BO,Invesco India Credit Risk Fund - Direct Plan - Growth,Unknown,Direct,Growth
+0P000147EL.BO,Invesco India Credit Risk Fund - Direct Plan - Monthly IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
+0P000147EM.BO,Invesco India Credit Risk Fund - Regular Plan - Discretionary IDCW (Payout / Reinvestment),Unknown,Regular,IDCW
+0P000147EI.BO,Invesco India Credit Risk Fund - Regular Plan - Growth,Unknown,Regular,Growth
+0P000147EJ.BO,Invesco India Credit Risk Fund - Regular Plan - Monthly IDCW (Payout / Reinvestment),Unknown,Regular,IDCW
 0P0001AFGH.BO,HSBC Dynamic Bond Fund - Direct Annual IDCW,HSBC Mutual Fund,Direct,IDCW
 0P0000XV6Y.BO,HSBC Dynamic Bond Fund - Direct Growth,HSBC Mutual Fund,Direct,Growth
 0P0000XV6Z.BO,HSBC Dynamic Bond Fund - Direct Monthly IDCW,HSBC Mutual Fund,Direct,IDCW
@@ -6868,6 +6799,14 @@ MOMMIDCAP.NS,Mirae Asset BSE Midcap 150 Momentum 30 ETF,Mirae Asset Mutual Fund,
 0P0001MRTF.BO,ITI Dynamic Term Fund - Regular Plan - Half Yearly IDCW Option,Unknown,Regular,IDCW
 0P0001MRTD.BO,ITI Dynamic Term Fund - Regular Plan - Monthly IDCW Option,Unknown,Regular,IDCW
 0P0001MRTE.BO,ITI Dynamic Term Fund - Regular Plan - Quarterly IDCW Option,Unknown,Regular,IDCW
+0P0000XVGW.BO,Invesco India Gilt Fund - Direct  Plan - Growth,Unknown,Direct,Growth
+0P0000XVH3.BO,Invesco India Gilt Fund - Direct Plan - Annual IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
+,Invesco India Gilt Fund - Direct Plan - Monthly IDCW (Reinvestment),Unknown,Direct,IDCW
+0P0000XVGY.BO,Invesco India Gilt Fund - Direct Plan - Quarterly IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
+0P0000CN6X.BO,Invesco India Gilt Fund - Regular Plan - Annual IDCW (Payout / Reinvestment),Unknown,Regular,IDCW
+0P0000CN6Q.BO,Invesco India Gilt Fund - Regular Plan - Growth,Unknown,Regular,Growth
+,Invesco India Gilt Fund - Regular Plan - Monthly IDCW (Reinvestment),Unknown,Regular,IDCW
+0P0000CN6G.BO,Invesco India Gilt Fund - Regular Plan - Quarterly IDCW (Payout / Reinvestment),Unknown,Regular,IDCW
 ,Abakkus Liquid Fund - Direct Plan - Daily IDCW Reinvestment,Unknown,Direct,IDCW
 0P0001YEMJ.BO,Abakkus Liquid Fund - Direct Plan - Growth,Unknown,Direct,Growth
 ,Abakkus Liquid Fund - Direct Plan - Monthly IDCW Reinvestment,Unknown,Direct,IDCW
@@ -6879,6 +6818,20 @@ MOMMIDCAP.NS,Mirae Asset BSE Midcap 150 Momentum 30 ETF,Mirae Asset Mutual Fund,
 ,Abakkus Liquid Fund - Regular Plan - Quarterly IDCW Reinvestment,Unknown,Regular,IDCW
 ,Abakkus Liquid Fund - Regular Plan - Weekly IDCW Reinvestment,Unknown,Regular,IDCW
 ,Abakkus Liquid Fund - Unclaimed Redemption Less than 3 Years,Unknown,Unknown,Unknown
+,Invesco India Liquid Fund - Daily IDCW (Reinvestment),Unknown,Unknown,IDCW
+0P0000XVHA.BO,Invesco India Liquid Fund - Direct Plan - Growth,Unknown,Direct,Growth
+0P0000XVHB.BO,Invesco India Liquid Fund - Direct Plan - Monthly IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
+0P0001YLJA.BO,Invesco India Liquid Fund - Direct Plan - Weekly IDCW (Reinvestment),Unknown,Direct,IDCW
+,Invesco India Liquid Fund - Direct Plan- Daily IDCW (Reinvestment),Unknown,Direct,IDCW
+0P0000N8UZ.BO,Invesco India Liquid Fund - Growth,Unknown,Unknown,Growth
+0P0000N8V1.BO,Invesco India Liquid Fund - Monthly IDCW (Payout / Reinvestment),Unknown,Unknown,IDCW
+0P00009JEE.BO,Invesco India Liquid Fund - Regular - Growth,Unknown,Regular,Growth
+,Invesco India Liquid Fund - Regular - Weekly IDCW (Reinvestment),Unknown,Regular,IDCW
+,Invesco India Liquid Fund - Unclaimed Dividend Plan - Above 3 Years,Unknown,Unknown,IDCW
+,Invesco India Liquid Fund - Unclaimed Dividend Plan - Below 3 Years,Unknown,Unknown,IDCW
+,Invesco India Liquid Fund - Unclaimed Redemption Plan - Above 3 Years,Unknown,Unknown,Unknown
+,Invesco India Liquid Fund - Unclaimed Redemption Plan - Below 3 years,Unknown,Unknown,Unknown
+0P0001YLJ9.BO,Invesco India Liquid Fund - Weekly IDCW (Reinvestment),Unknown,Unknown,IDCW
 0P00015OOF.BO,UTI Liquid Fund - Direct Plan - Annual IDCW,UTI Mutual Fund,Direct,IDCW
 ,UTI Liquid Fund - Direct Plan - Daily IDCW (Reinvestment),UTI Mutual Fund,Direct,IDCW
 0P0001BI1G.BO,UTI Liquid Fund - Direct Plan - Flexi IDCW,UTI Mutual Fund,Direct,IDCW
@@ -6900,6 +6853,25 @@ MOMMIDCAP.NS,Mirae Asset BSE Midcap 150 Momentum 30 ETF,Mirae Asset Mutual Fund,
 0P00005WL0.BO,UTI Liquid Fund - Regular Plan - Monthly IDCW,UTI Mutual Fund,Regular,IDCW
 0P00016ZNO.BO,UTI Liquid Fund - Regular Plan - Quarterly IDCW,UTI Mutual Fund,Regular,IDCW
 ,UTI Liquid Fund - Regular Plan - Weekly IDCW,UTI Mutual Fund,Regular,IDCW
+0P0001MS8X.BO,Invesco India Medium Duration Fund - Direct Plan - Discretionary IDCW (Payout/Reinvestment),Unknown,Direct,IDCW
+0P0001MS8Y.BO,Invesco India Medium Duration Fund - Direct Plan - Growth,Unknown,Direct,Growth
+0P0001MS8W.BO,Invesco India Medium Duration Fund - Direct Plan - Quarterly IDCW (Payout / Reinvestment)),Unknown,Direct,IDCW
+0P0001MS92.BO,Invesco India Medium Duration Fund - Regular Plan - Discretionary IDCW(Payout / Reinvestment)),Unknown,Regular,IDCW
+0P0001MS93.BO,Invesco India Medium Duration Fund - Regular Plan - Growth,Unknown,Regular,Growth
+0P0001MS91.BO,Invesco India Medium Duration Fund - Regular Plan - Quarterly IDCW (Payout / Reinvestment),Unknown,Regular,IDCW
+,Invesco India Money Market Fund - Daily IDCW (Reinvestment),Unknown,Unknown,IDCW
+,Invesco India Money Market Fund - Direct Plan - Daily IDCW (Reinvestment),Unknown,Direct,IDCW
+0P0000XVGO.BO,Invesco India Money Market Fund - Direct Plan - Discretionary IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
+0P0000XVGV.BO,Invesco India Money Market Fund - Direct Plan - Growth,Unknown,Direct,Growth
+0P0000XVGT.BO,Invesco India Money Market Fund - Direct Plan - Monthly IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
+,Invesco India Money Market Fund - Direct Plan - Weekly IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
+0P0000VABA.BO,Invesco India Money Market Fund - Discretionary IDCW (Payout / Reinvestment),Unknown,Unknown,IDCW
+0P0000L164.BO,Invesco India Money Market Fund - Growth,Unknown,Unknown,Growth
+0P0000L163.BO,Invesco India Money Market Fund - Monthly IDCW (Payout / Reinvestment),Unknown,Unknown,IDCW
+0P0000KYO8.BO,Invesco India Money Market Fund - Regular - Growth,Unknown,Regular,Growth
+0P0000L162.BO,Invesco India Money Market Fund - Regular - Monthly IDCW (Payout / Reinvestment),Unknown,Regular,IDCW
+,Invesco India Money Market Fund - Regular Plan - Daily IDCW (Reinvestment),Unknown,Regular,IDCW
+0P0001TP3K.BO,Invesco India Money Market Fund - Weekly IDCW (Payout / Reinvestment),Unknown,Unknown,IDCW
 0P00005WT7.BO,Kotak Money Market Fund - (Growth),Kotak Mahindra Mutual Fund,Unknown,Growth
 0P0000XV62.BO,Kotak Money Market Fund - (Growth) - Direct,Kotak Mahindra Mutual Fund,Direct,Growth
 0P00005WT6.BO,Kotak Money market Fund - (Monthly Payout of Income Distribution cum capital withdrawal option),Kotak Mahindra Mutual Fund,Unknown,IDCW
@@ -6913,12 +6885,46 @@ MOMMIDCAP.NS,Mirae Asset BSE Midcap 150 Momentum 30 ETF,Mirae Asset Mutual Fund,
 0P0001RQS2.BO,Helios Overnight Fund - Direct Plan - Growth Option,Unknown,Direct,Growth
 0P0001RQS5.BO,Helios Overnight Fund - Regular Plan - Daily IDCW Option,Unknown,Regular,IDCW
 0P0001RQS4.BO,Helios Overnight Fund - Regular Plan - Growth Option,Unknown,Regular,Growth
+,Invesco India Overnight Fund - Direct Plan - Daily IDCW (Reinvestment),Unknown,Direct,IDCW
+0P0001J1BM.BO,Invesco India Overnight Fund - Direct Plan - Growth,Unknown,Direct,Growth
+0P0001J1BN.BO,Invesco India Overnight Fund - Direct Plan - Monthly IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
+,Invesco India Overnight Fund - Direct Plan - Weekly IDCW (Reinvestment),Unknown,Direct,IDCW
+,Invesco India Overnight Fund - Regular Plan - Daily IDCW (Reinvestment),Unknown,Regular,IDCW
+0P0001J1BR.BO,Invesco India Overnight Fund - Regular Plan - Growth,Unknown,Regular,Growth
+0P0001J1BS.BO,Invesco India Overnight Fund - Regular Plan - Monthly IDCW (Payout / Reinvestment),Unknown,Regular,IDCW
+,Invesco India Overnight Fund - Regular Plan - Weekly IDCW (Reinvestment),Unknown,Regular,IDCW
+,Invesco India Short Duration Fund - Direct Plan - Daily IDCW (Reinvestment),Unknown,Direct,IDCW
+0P0000XVHV.BO,Invesco India Short Duration Fund - Direct Plan - Growth,Unknown,Direct,Growth
+0P0000XVHS.BO,Invesco India Short Duration Fund - Direct Plan - Monthly IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
+0P0000XVHU.BO,Invesco India Short Duration Fund - Direct Plan -Discretionary IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
+,Invesco India Short Duration Fund - Direct Plan -Weekly IDCW (Reinvestment),Unknown,Direct,IDCW
+0P00009N0A.BO,Invesco India Short Duration Fund - Plan B - Growth,Unknown,Unknown,Growth
+0P00009N0G.BO,Invesco India Short Duration Fund - Plan B - Monthly IDCW (Payout / Reinvestment),Unknown,Unknown,IDCW
+,Invesco India Short Duration Fund - Plan B - Weekly IDCW (Reinvestment),Unknown,Unknown,IDCW
+,Invesco India Short Duration Fund - Regular Plan - Daily IDCW (Reinvestment),Unknown,Regular,IDCW
+0P00009N0F.BO,Invesco India Short Duration Fund - Regular Plan - Growth,Unknown,Regular,Growth
+0P00009N0H.BO,Invesco India Short Duration Fund - Regular Plan - Monthly IDCW (Payout / Reinvestment),Unknown,Regular,IDCW
+,Invesco India Short Duration Fund - Regular Plan - Weekly IDCW (Reinvestment),Unknown,Regular,IDCW
+0P0000X7XL.BO,Invesco India Short Duration Fund- Regular Plan - Discretionary IDCW (Payout / Reinvestment),Unknown,Regular,IDCW
 ,Kotak Bond Short Term Fund - Direct - IDCW Weekly,Kotak Mahindra Mutual Fund,Direct,IDCW
+,Kotak Bond Short Term Fund - Regular - IDCW Weekly,Kotak Mahindra Mutual Fund,Regular,IDCW
 0P0001D6KM.BO,Kotak Bond Short Term Plan - Direct - Standard Income Distribution cum capital withdrawal option,Kotak Mahindra Mutual Fund,Direct,Unknown
 0P0001NDGS.BO,Kotak Bond Short Term Plan - Regular Plan - Normal Dividend,Kotak Mahindra Mutual Fund,Regular,IDCW
 0P00005WSN.BO,Kotak Bond Short Term Plan-(Growth),Kotak Mahindra Mutual Fund,Unknown,Unknown
 0P0000XV5M.BO,Kotak Bond Short Term Plan-(Growth) - Direct,Kotak Mahindra Mutual Fund,Direct,Unknown
 ,Kotak Bond Short Term Plan-(Payout of Income Distribution cum capital withdrawal option),Kotak Mahindra Mutual Fund,Unknown,Unknown
+0P0000XVHM.BO,Invesco India Ultra Short Duration Fund - Direct Plan - Annual IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
+,Invesco India Ultra Short Duration Fund - Direct Plan - Daily IDCW (Reinvestment),Unknown,Direct,IDCW
+0P0000XVHN.BO,Invesco India Ultra Short Duration Fund - Direct Plan - Growth,Unknown,Direct,Growth
+0P0000XVHK.BO,Invesco India Ultra Short Duration Fund - Direct Plan - Monthly IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
+0P0000XVHP.BO,Invesco India Ultra Short Duration Fund - Direct Plan - Quarterly IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
+,Invesco India Ultra Short Duration Fund - Direct Plan - Weekly IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
+0P0000RZA3.BO,Invesco India Ultra Short Duration Fund - Regular Plan - Annual IDCW (Payout / Reinvestment),Unknown,Regular,IDCW
+,Invesco India Ultra Short Duration Fund - Regular Plan - Daily IDCW (Reinvestment),Unknown,Regular,IDCW
+0P0000RZA0.BO,Invesco India Ultra Short Duration Fund - Regular Plan - Growth,Unknown,Regular,Growth
+0P0000RZA1.BO,Invesco India Ultra Short Duration Fund - Regular Plan - Monthly IDCW (Payout / Reinvestment),Unknown,Regular,IDCW
+0P0000RZA2.BO,Invesco India Ultra Short Duration Fund - Regular Plan - Quarterly IDCW (Payout / Reinvestment),Unknown,Regular,IDCW
+0P00035ZZD.BO,Invesco India Ultra Short Duration Fund - Regular Plan - Weekly IDCW (Payout / Reinvestment),Unknown,Regular,IDCW
 ,ITI Ultra Short Duration Fund - Direct Plan - Daily IDCW,Unknown,Direct,IDCW
 0P0001M4E5.BO,ITI Ultra Short Term Fund - Direct Plan - Annually IDCW Option,Unknown,Direct,IDCW
 0P0001M4E3.BO,ITI Ultra Short Term Fund - Direct Plan - Fortnightly IDCW Option,Unknown,Direct,IDCW
@@ -6936,6 +6942,28 @@ MOMMIDCAP.NS,Mirae Asset BSE Midcap 150 Momentum 30 ETF,Mirae Asset Mutual Fund,
 0P0001BAU7.BO,Kotak Savings Fund -Monthly Payout of Income Distribution cum capital withdrawal option,Kotak Mahindra Mutual Fund,Unknown,IDCW
 0P0000XV5Z.BO,Kotak Savings Fund-Growth - Direct,Kotak Mahindra Mutual Fund,Direct,Unknown
 0P0000XV5Y.BO,Kotak Savings Fund-Monthly Payout of Income Distribution cum capital withdrawal option - Direct,Kotak Mahindra Mutual Fund,Direct,IDCW
+,Invesco India Low Duration Fund - Daily IDCW (Reinvestment),Unknown,Unknown,IDCW
+0P0000XVI8.BO,Invesco India Low Duration Fund - Direct Plan - Discretionary IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
+0P0000XVI0.BO,Invesco India Low Duration Fund - Direct Plan - Growth,Unknown,Direct,Growth
+0P0000XVI5.BO,Invesco India Low Duration Fund - Direct Plan - Monthly IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
+0P0000XVI1.BO,Invesco India Low Duration Fund - Direct Plan - Weekly IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
+,Invesco India Low Duration Fund - Direct Plan -Daily IDCW (Reinvestment),Unknown,Direct,IDCW
+0P00015BI4.BO,Invesco India Low Duration Fund - Discretionary IDCW (Payout / Reinvestment),Unknown,Unknown,IDCW
+0P00009JEF.BO,Invesco India Low Duration Fund - Growth,Unknown,Unknown,Growth
+0P00009JEG.BO,Invesco India Low Duration Fund - Monthly IDCW (Payout / Reinvestment),Unknown,Unknown,IDCW
+0P00009JEN.BO,Invesco India Low Duration Fund - Regular - Growth,Unknown,Regular,Growth
+,Invesco India Low Duration Fund - Regular - Monthly IDCW (Reinvestment),Unknown,Regular,IDCW
+,Invesco India Low Duration Fund - Regular - Weekly IDCW (Reinvestment),Unknown,Regular,IDCW
+,Invesco India Low Duration Fund - Regular Daily IDCW (Reinvestment),Unknown,Regular,IDCW
+0P00009JEI.BO,Invesco India Low Duration Fund - Weekly IDCW (Payout / Reinvestment),Unknown,Unknown,IDCW
+0P0001QLRS.BO,Invesco India Nifty G-sec Jul 2027 Index Fund - Direct Plan - Growth,Unknown,Direct,Growth
+0P0001QLRT.BO,Invesco India Nifty G-sec Jul 2027 Index Fund - Direct Plan - IDCW Payout,Unknown,Direct,IDCW
+0P0001QLRU.BO,Invesco India Nifty G-sec Jul 2027 Index Fund - Regular Plan - Growth,Unknown,Regular,Growth
+0P0001QLRV.BO,Invesco India Nifty G-sec Jul 2027 Index Fund - Regular Plan - IDCW Payout,Unknown,Regular,IDCW
+0P0001QMK2.BO,Invesco India Nifty G-sec Sep 2032 Index Fund - Direct Plan - Growth,Unknown,Direct,Growth
+0P0001QMK3.BO,Invesco India Nifty G-sec Sep 2032 Index Fund - Direct Plan - IDCW Payout,Unknown,Direct,IDCW
+0P0001QMK4.BO,Invesco India Nifty G-sec Sep 2032 Index Fund - Regular Plan - Growth,Unknown,Regular,Growth
+0P0001QMK5.BO,Invesco India Nifty G-sec Sep 2032 Index Fund - Regular Plan - IDCW Payout,Unknown,Regular,IDCW
 0P00035ZOU.BO,SBI Crisil - IBX SDL Index - June 2034 Index Fund - Direct Plan - Growth,SBI Mutual Fund,Direct,Growth
 0P00035ZOV.BO,SBI Crisil - IBX SDL Index - June 2034 Index Fund - Direct Plan - IDCW,SBI Mutual Fund,Direct,IDCW
 0P00035ZOY.BO,SBI Crisil - IBX SDL Index - June 2034 Index Fund - Regular Plan - Growth,SBI Mutual Fund,Regular,Growth
@@ -6972,6 +7000,16 @@ MOMMIDCAP.NS,Mirae Asset BSE Midcap 150 Momentum 30 ETF,Mirae Asset Mutual Fund,
 0P0001LX8Z.BO,Aditya Birla Sun Life Nifty Smallcap 50 Index Fund-Direct Growth,Aditya Birla Sun Life Mutual Fund,Unknown,Growth
 0P0001LX93.BO,Aditya Birla Sun Life Nifty Smallcap 50 Index Fund-Regular - Payout of IDCW,Aditya Birla Sun Life Mutual Fund,Unknown,IDCW
 0P0001LX92.BO,Aditya Birla Sun Life Nifty Smallcap 50 Index Fund-Regular Growth,Aditya Birla Sun Life Mutual Fund,Unknown,Growth
+0P0002F1IF.BO,Invesco India BSE Sensex Index Fund - Direct Plan - Growth,Unknown,Direct,Growth
+0P0002F1IG.BO,Invesco India BSE Sensex Index Fund - Regular Plan - Growth,Unknown,Regular,Growth
+0P0002F1IH.BO,Invesco India Nifty Bank Index Fund - Direct Plan - Growth,Unknown,Direct,Growth
+0P0002F1IE.BO,Invesco India Nifty Bank Index Fund - Regular Plan - Growth,Unknown,Regular,Growth
+,Mirae Asset Nifty200 Momentum 30 Plus 8-13yr G-Sec 75:25 Index Fund - Direct Plan - Growth,Mirae Asset Mutual Fund,Direct,Growth
+,Mirae Asset Nifty200 Momentum 30 Plus 8-13yr G-Sec 75:25 Index Fund - Direct Plan - IDCW,Mirae Asset Mutual Fund,Direct,IDCW
+,Mirae Asset Nifty200 Momentum 30 Plus 8-13yr G-Sec 75:25 Index Fund - Regular Plan - Growth,Mirae Asset Mutual Fund,Regular,Growth
+,Mirae Asset Nifty200 Momentum 30 Plus 8-13yr G-Sec 75:25 Index Fund - Regular Plan - IDCW,Mirae Asset Mutual Fund,Regular,IDCW
+,Zerodha Life Cycle Fund 2036 - Direct - Growth,Unknown,Direct,Growth
+,Zerodha Life Cycle Fund 2041 - Direct - Growth,Unknown,Direct,Growth
 ,Taurus Investor Education Pool - Unclaimed Dividend - Growth,Unknown,Unknown,IDCW
 ,Taurus Investor Education Pool - Unclaimed Redemption - Growth,Unknown,Unknown,Growth
 ,Taurus Unclaimed Redemption - Growth,Unknown,Unknown,Growth
@@ -7266,8 +7304,8 @@ MOMMIDCAP.NS,Mirae Asset BSE Midcap 150 Momentum 30 ETF,Mirae Asset Mutual Fund,
 0P0000XW9Z.BO,ICICI Prudential Multi Sector Passive FOF - Direct Plan - Growth,ICICI Prudential Mutual Fund,Direct,Growth
 0P00005WZG.BO,ICICI Prudential Multi Sector Passive FOF - Growth,ICICI Prudential Mutual Fund,Unknown,Growth
 0P00005WZF.BO,ICICI Prudential Multi Sector Passive FOF - IDCW,ICICI Prudential Mutual Fund,Unknown,IDCW
-,ICICI Prudential Multi-Asset Active FOF - Direct Plan - Growth,ICICI Prudential Mutual Fund,Direct,Growth
-,ICICI Prudential Multi-Asset Active FOF - Growth,ICICI Prudential Mutual Fund,Unknown,Growth
+0P00035XNA.BO,ICICI Prudential Multi-Asset Active FOF - Direct Plan - Growth,ICICI Prudential Mutual Fund,Direct,Growth
+0P00035XNB.BO,ICICI Prudential Multi-Asset Active FOF - Growth,ICICI Prudential Mutual Fund,Unknown,Growth
 0P0001LYHO.BO,ICICI Prudential Nifty 100 Low Volatility 30 ETF FOF - Direct Plan - Growth,ICICI Prudential Mutual Fund,Direct,Growth
 0P0001LYGC.BO,ICICI Prudential Nifty 100 Low Volatility 30 ETF FOF - Direct Plan - IDCW,ICICI Prudential Mutual Fund,Direct,IDCW
 0P0001LYGE.BO,ICICI Prudential Nifty 100 Low Volatility 30 ETF FOF - Growth,ICICI Prudential Mutual Fund,Unknown,Growth
@@ -7288,14 +7326,6 @@ MOMMIDCAP.NS,Mirae Asset BSE Midcap 150 Momentum 30 ETF,Mirae Asset Mutual Fund,
 0P0001O9H8.BO,ICICI Prudential Silver ETF FOF - Direct Plan - IDCW,ICICI Prudential Mutual Fund,Direct,IDCW
 0P0001O9HA.BO,ICICI Prudential Silver ETF FOF - Growth,ICICI Prudential Mutual Fund,Unknown,Growth
 0P0001O9HB.BO,ICICI Prudential Silver ETF FOF - IDCW,ICICI Prudential Mutual Fund,Unknown,IDCW
-0P0000XVH4.BO,Invesco India Gold ETF Fund of Fund - Direct Plan - Growth,Unknown,Direct,Growth
-0P0000XVH7.BO,Invesco India Gold ETF Fund of Fund - Direct Plan - IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
-0P0000UNSF.BO,Invesco India Gold ETF Fund of Fund - Regular Plan - Growth,Unknown,Regular,Growth
-0P0000UNSG.BO,Invesco India Gold ETF Fund of Fund - Regular Plan - IDCW (Payout / Reinvestment),Unknown,Regular,IDCW
-0P0001WCJQ.BO,Invesco India Income Plus Arbitrage Active Fund of Fund - Direct Plan - Growth,Unknown,Direct,Growth
-0P0001WCJR.BO,Invesco India Income Plus Arbitrage Active Fund of Fund - Direct Plan - IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
-0P0001WCJT.BO,Invesco India Income Plus Arbitrage Active Fund of Fund - Regular Plan - Growth Plan,Unknown,Regular,Growth
-0P0001WCJU.BO,Invesco India Income Plus Arbitrage Active Fund of Fund - Regular Plan - IDCW (Payout / Reinvestment),Unknown,Regular,IDCW
 0P0000TFYH.BO,Kotak Gold Fund Growth,Kotak Mahindra Mutual Fund,Unknown,Growth
 0P0000XV6C.BO,Kotak Gold Fund Growth - Direct,Kotak Mahindra Mutual Fund,Direct,Growth
 0P0000TFYI.BO,Kotak Gold Fund Payout of Income Distribution cum capital withdrawal option,Kotak Mahindra Mutual Fund,Unknown,IDCW
@@ -7617,20 +7647,6 @@ MOMMIDCAP.NS,Mirae Asset BSE Midcap 150 Momentum 30 ETF,Mirae Asset Mutual Fund,
 0P0001O945.BO,ICICI Prudential Strategic Metal and Energy Equity Fund of Fund - Direct Plan IDCW,ICICI Prudential Mutual Fund,Direct,IDCW
 0P0001O948.BO,ICICI Prudential Strategic Metal and Energy Equity Fund of Fund - Growth,ICICI Prudential Mutual Fund,Unknown,Growth
 0P0001O949.BO,ICICI Prudential Strategic Metal and Energy Equity Fund of Fund - IDCW,ICICI Prudential Mutual Fund,Unknown,IDCW
-0P0001ORE7.BO,Invesco India - Invesco EQQQ Nasdaq-100 ETF Fund of Fund - Direct Plan - Growth,Unknown,Direct,Growth
-0P0001ORE8.BO,Invesco India - Invesco EQQQ Nasdaq-100 ETF Fund of Fund - Regular Plan - Growth,Unknown,Regular,Growth
-0P0001L7CY.BO,Invesco India - Invesco Global Consumer Trends Fund of Fund - Direct Plan - Growth,Unknown,Direct,Growth
-0P0001L7CZ.BO,Invesco India - Invesco Global Consumer Trends Fund of Fund - Direct Plan - IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
-0P0001L7D1.BO,Invesco India - Invesco Global Consumer Trends Fund of Fund - Regular Plan - Growth,Unknown,Regular,Growth
-0P0001L7D2.BO,Invesco India - Invesco Global Consumer Trends Fund of Fund - Regular Plan - IDCW (Payout / Reinvestment),Unknown,Regular,IDCW
-0P000131TO.BO,Invesco India - Invesco Global Equity Income Fund of Fund - Direct Plan - Growth,Unknown,Direct,Growth
-0P000131TP.BO,Invesco India - Invesco Global Equity Income Fund of Fund - Direct Plan - IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
-0P000131TM.BO,Invesco India - Invesco Global Equity Income Fund of Fund - Regular Plan - Growth,Unknown,Regular,Growth
-0P000131TN.BO,Invesco India - Invesco Global Equity Income Fund of Fund - Regular Plan - IDCW (Payout / Reinvestment),Unknown,Regular,IDCW
-0P00011W4E.BO,Invesco India - Invesco Pan European Equity Fund of Fund - Direct Plan - Growth Option,Unknown,Direct,Growth
-0P00011W4F.BO,Invesco India - Invesco Pan European Equity Fund of Fund - Direct Plan - IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
-0P00011W4H.BO,Invesco India - Invesco Pan European Equity Fund of Fund - Regular Plan - Growth Option,Unknown,Regular,Growth
-0P00011W4G.BO,Invesco India - Invesco Pan European Equity Fund of Fund - Regular Plan - IDCW (Payout / Reinvestment),Unknown,Regular,IDCW
 0P0000XV6A.BO,Kotak Global Emerging Market overseas Equity Omni FOF - Growth - Direct,Kotak Mahindra Mutual Fund,Direct,Growth
 0P00009PUX.BO,Kotak Global Emerging Market Overseas Equity Omni FOF - Payout of Income Distribution cum capital withdrawal option,Kotak Mahindra Mutual Fund,Unknown,IDCW
 0P0000XYED.BO,Kotak Global Emerging Market Overseas Equity Omni FOF - Payout of Income Distribution cum capital withdrawal option - Direct,Kotak Mahindra Mutual Fund,Direct,IDCW
@@ -7704,7 +7720,6 @@ GROWWGOLD.NS,Groww Gold ETF,Unknown,Unknown,Unknown
 ,HDFC Gold ETF - Growth Option,HDFC Mutual Fund,Unknown,Growth
 HSBCGOLD.NS,HSBC Gold ETF,HSBC Mutual Fund,Unknown,Unknown
 ,ICICI Prudential Gold ETF,ICICI Prudential Mutual Fund,Unknown,Unknown
-,Invesco India Gold Exchange Traded Fund,Unknown,Unknown,Unknown
 ,KOTAK GOLD ETF,Kotak Mahindra Mutual Fund,Unknown,Unknown
 ,LIC MF Gold Exchange Traded Fund,LIC Mutual Fund,Unknown,Unknown
 ,Mirae Asset Gold ETF,Mirae Asset Mutual Fund,Unknown,Unknown
@@ -7866,6 +7881,8 @@ GOLDCASE.NS,Zerodha Gold ETF,Unknown,Unknown,Unknown
 0P0001OI4H.BO,Axis Nifty Smallcap 50 Index Fund - Direct Plan - IDCW,Axis Mutual Fund,Direct,IDCW
 0P0001OI4F.BO,Axis Nifty Smallcap 50 Index Fund - Regular Plan - Growth Option,Axis Mutual Fund,Regular,Growth
 0P0001OI4E.BO,Axis Nifty Smallcap 50 Index Fund - Regular Plan - IDCW,Axis Mutual Fund,Regular,IDCW
+0P00035Z05.BO,Axis Nifty50 Equal Weight Index Fund-Direct Plan- Growth Option,Axis Mutual Fund,Unknown,Growth
+0P00035Z06.BO,Axis Nifty50 Equal Weight Index Fund-Regular Plan- Growth Option,Axis Mutual Fund,Unknown,Growth
 0P0001UKDL.BO,Axis Nifty500 Momentum 50 Index Fund - Direct Plan - Growth Option,Axis Mutual Fund,Direct,Growth
 0P0001UKDM.BO,Axis Nifty500 Momentum 50 Index Fund - Regular Plan - Growth Option,Axis Mutual Fund,Regular,Growth
 0P0001XBHJ.BO,Axis Nifty500 Quality 50 Index Fund - Direct Plan - Growth Option,Axis Mutual Fund,Direct,Growth
@@ -8358,18 +8375,6 @@ GOLDCASE.NS,Zerodha Gold ETF,Unknown,Unknown,Unknown
 0P0001S9G9.BO,ICICI Prudential Nifty50 Value 20 Index Fund - Direct Plan - IDCW,ICICI Prudential Mutual Fund,Direct,IDCW
 0P0001S9G7.BO,ICICI Prudential Nifty50 Value 20 Index Fund - Growth,ICICI Prudential Mutual Fund,Unknown,Growth
 0P0001S9G6.BO,ICICI Prudential Nifty50 Value 20 Index Fund - IDCW,ICICI Prudential Mutual Fund,Unknown,IDCW
-0P0002F1IF.BO,Invesco India BSE Sensex Index Fund - Direct Plan - Growth,Unknown,Direct,Growth
-0P0002F1IG.BO,Invesco India BSE Sensex Index Fund - Regular Plan - Growth,Unknown,Regular,Growth
-0P0002F1IH.BO,Invesco India Nifty Bank Index Fund - Direct Plan - Growth,Unknown,Direct,Growth
-0P0002F1IE.BO,Invesco India Nifty Bank Index Fund - Regular Plan - Growth,Unknown,Regular,Growth
-0P0001QLRS.BO,Invesco India Nifty G-sec Jul 2027 Index Fund - Direct Plan - Growth,Unknown,Direct,Growth
-0P0001QLRT.BO,Invesco India Nifty G-sec Jul 2027 Index Fund - Direct Plan - IDCW Payout,Unknown,Direct,IDCW
-0P0001QLRU.BO,Invesco India Nifty G-sec Jul 2027 Index Fund - Regular Plan - Growth,Unknown,Regular,Growth
-0P0001QLRV.BO,Invesco India Nifty G-sec Jul 2027 Index Fund - Regular Plan - IDCW Payout,Unknown,Regular,IDCW
-0P0001QMK2.BO,Invesco India Nifty G-sec Sep 2032 Index Fund - Direct Plan - Growth,Unknown,Direct,Growth
-0P0001QMK3.BO,Invesco India Nifty G-sec Sep 2032 Index Fund - Direct Plan - IDCW Payout,Unknown,Direct,IDCW
-0P0001QMK4.BO,Invesco India Nifty G-sec Sep 2032 Index Fund - Regular Plan - Growth,Unknown,Regular,Growth
-0P0001QMK5.BO,Invesco India Nifty G-sec Sep 2032 Index Fund - Regular Plan - IDCW Payout,Unknown,Regular,IDCW
 0P0001X71E.BO,JioBlackRock Nifty 50 Index Fund - Direct Plan - Growth Option,Unknown,Direct,Growth
 0P0001X71A.BO,JioBlackRock Nifty 8-13 yr G-Sec Index Fund - Direct Plan - Growth Option,Unknown,Direct,Growth
 0P0001X71D.BO,JioBlackRock Nifty Midcap 150 Index Fund - Direct Plan - Growth Option,Unknown,Direct,Growth
@@ -8561,6 +8566,8 @@ GOLDCASE.NS,Zerodha Gold ETF,Unknown,Unknown,Unknown
 0P0001PEGA.BO,Motilal Oswal BSE Financials ex Bank 30 Index Fund Regular Growth,Motilal Oswal Mutual Fund,Regular,Growth
 0P0001OKF7.BO,Motilal Oswal BSE Low Volatility Index Fund-Direct plan,Motilal Oswal Mutual Fund,Unknown,Unknown
 0P0001OKF8.BO,Motilal Oswal BSE Low Volatility Index Fund-Regular plan,Motilal Oswal Mutual Fund,Unknown,Unknown
+,Motilal Oswal BSE Midcap 150 Momentum 30 Index Fund-Direct,Motilal Oswal Mutual Fund,Unknown,Unknown
+,Motilal Oswal BSE Midcap 150 Momentum 30 Index Fund-Regular,Motilal Oswal Mutual Fund,Unknown,Unknown
 0P0001PHVP.BO,Motilal Oswal BSE Quality Index Fund-Direct plan,Motilal Oswal Mutual Fund,Unknown,Unknown
 0P0001PHVO.BO,Motilal Oswal BSE Quality Index Fund-Regular plan,Motilal Oswal Mutual Fund,Unknown,Unknown
 0P0001OACA.BO,Motilal Oswal Nifty 200 Momentum 30 Index Fund-Direct Plan,Motilal Oswal Mutual Fund,Unknown,Unknown
@@ -9138,7 +9145,6 @@ TOP15IETF.NS,ICICI Prudential Nifty Top 15 Equal Weight ETF,ICICI Prudential Mut
 VAL30IETF.NS,ICICI Prudential Nifty200 Value 30 ETF,ICICI Prudential Mutual Fund,Unknown,Unknown
 ,ICICI Prudential Nifty50 Value 20 ETF,ICICI Prudential Mutual Fund,Unknown,Unknown
 SILVERIETF.NS,ICICI PRUDENTIAL SILVER ETF,ICICI Prudential Mutual Fund,Unknown,Unknown
-IVZINNIFTY.NS,Invesco India Nifty 50 Exchange Traded Fund,Unknown,Unknown,Unknown
 SENSEX1.BO,Kotak BSE Sensex ETF,Kotak Mahindra Mutual Fund,Unknown,Unknown
 MSCIINDIA.NS,Kotak MSCI India ETF,Kotak Mahindra Mutual Fund,Unknown,Unknown
 NIFTY100EW.NS,Kotak Nifty 100 Equal Weight ETF,Kotak Mahindra Mutual Fund,Unknown,Unknown
@@ -9304,6 +9310,20 @@ SILVERCASE.NS,Zerodha Silver ETF,Unknown,Unknown,Unknown
 0P0001NJK1.BO,Aditya Birla Sun Life US Equity Passive FOF-Direct-Growth,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
 0P0001NJK4.BO,Aditya Birla Sun Life US Equity Passive FOF-Regular Growth,Aditya Birla Sun Life Mutual Fund,Unknown,Growth
 0P0001NJK5.BO,Aditya Birla Sun Life US Equity Passive FOF-Regular IDCW,Aditya Birla Sun Life Mutual Fund,Unknown,IDCW
+0P0001ORE7.BO,Invesco India - Invesco EQQQ Nasdaq-100 ETF Fund of Fund - Direct Plan - Growth,Unknown,Direct,Growth
+0P0001ORE8.BO,Invesco India - Invesco EQQQ Nasdaq-100 ETF Fund of Fund - Regular Plan - Growth,Unknown,Regular,Growth
+0P0001L7CY.BO,Invesco India - Invesco Global Consumer Trends Fund of Fund - Direct Plan - Growth,Unknown,Direct,Growth
+0P0001L7CZ.BO,Invesco India - Invesco Global Consumer Trends Fund of Fund - Direct Plan - IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
+0P0001L7D1.BO,Invesco India - Invesco Global Consumer Trends Fund of Fund - Regular Plan - Growth,Unknown,Regular,Growth
+0P0001L7D2.BO,Invesco India - Invesco Global Consumer Trends Fund of Fund - Regular Plan - IDCW (Payout / Reinvestment),Unknown,Regular,IDCW
+0P000131TO.BO,Invesco India - Invesco Global Equity Income Fund of Fund - Direct Plan - Growth,Unknown,Direct,Growth
+0P000131TP.BO,Invesco India - Invesco Global Equity Income Fund of Fund - Direct Plan - IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
+0P000131TM.BO,Invesco India - Invesco Global Equity Income Fund of Fund - Regular Plan - Growth,Unknown,Regular,Growth
+0P000131TN.BO,Invesco India - Invesco Global Equity Income Fund of Fund - Regular Plan - IDCW (Payout / Reinvestment),Unknown,Regular,IDCW
+0P00011W4E.BO,Invesco India - Invesco Pan European Equity Fund of Fund - Direct Plan - Growth Option,Unknown,Direct,Growth
+0P00011W4F.BO,Invesco India - Invesco Pan European Equity Fund of Fund - Direct Plan - IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
+0P00011W4H.BO,Invesco India - Invesco Pan European Equity Fund of Fund - Regular Plan - Growth Option,Unknown,Regular,Growth
+0P00011W4G.BO,Invesco India - Invesco Pan European Equity Fund of Fund - Regular Plan - IDCW (Payout / Reinvestment),Unknown,Regular,IDCW
 0P0001FIIV.BO,ADITYA BIRLA SUN LIFE BAL BHAVISHYA YOJNA DIRECT GROWTH,Aditya Birla Sun Life Mutual Fund,Direct,Growth
 0P0001FIJ4.BO,ADITYA BIRLA SUN LIFE BAL BHAVISHYA YOJNA REGULAR GROWTH,Aditya Birla Sun Life Mutual Fund,Regular,Growth
 0P0001FIIW.BO,ADITYA BIRLA SUN LIFE BAL BHAVISHYA YOJNA- Direct - IDCW,Aditya Birla Sun Life Mutual Fund,Direct,IDCW
