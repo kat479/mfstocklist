@@ -623,16 +623,6 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 ,Franklin India Dynamic Accrual Fund-Growth,Franklin Templeton Mutual Fund,Unknown,Unknown
 ,Franklin India Dynamic Accrual Fund-Segregated Portfolio 2 - 10.90% Vodafone Idea Ltd (02-Sep-2023) - Direct IDCW,Franklin Templeton Mutual Fund,Direct,IDCW
 ,Franklin India Dynamic Accrual Fund-Segregated Portfolio 3 (9.50% Yes Bank Ltd CO 23Dec21) - Direct IDCW,Franklin Templeton Mutual Fund,Direct,IDCW
-0P0001F40T.BO,Groww Dynamic Term Fund (formerly known as Indiabulls Dynamic Bond Fund) - Direct Plan - Growth option,Unknown,Direct,Growth
-0P0001F414.BO,Groww Dynamic Term Fund (formerly known as Indiabulls Dynamic Bond Fund) - Regular Plan - Growth option,Unknown,Regular,Growth
-,Groww Dynamic Term Fund (formerly known as Indiabulls Dynamic Bond Fund)- Direct Plan- - Income Distribution cum capital withdrawal Option ( Reinvestment),Unknown,Direct,IDCW
-0P0001F40Z.BO,Groww Dynamic Term Fund (formerly known as Indiabulls Dynamic Bond Fund)- Direct Plan- Fortnightly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),Unknown,Direct,IDCW
-0P0001F410.BO,Groww Dynamic Term Fund (formerly known as Indiabulls Dynamic Bond Fund)- Direct Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),Unknown,Direct,IDCW
-0P0001F40Y.BO,Groww Dynamic Term Fund (formerly known as Indiabulls Dynamic Bond Fund)- Direct Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),Unknown,Direct,IDCW
-,Groww Dynamic Term Fund (formerly known as Indiabulls Dynamic Bond Fund)- Regular Plan- - Income Distribution cum capital withdrawal Option ( Reinvestment),Unknown,Regular,IDCW
-0P0001F41A.BO,Groww Dynamic Term Fund (formerly known as Indiabulls Dynamic Bond Fund)- Regular Plan- Fortnightly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),Unknown,Regular,IDCW
-0P0001F41B.BO,Groww Dynamic Term Fund (formerly known as Indiabulls Dynamic Bond Fund)- Regular Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),Unknown,Regular,IDCW
-0P0001F419.BO,Groww Dynamic Term Fund (formerly known as Indiabulls Dynamic Bond Fund)- Regular Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),Unknown,Regular,IDCW
 0P00005WMQ.BO,HDFC Dynamic Debt Fund - Growth Option,HDFC Mutual Fund,Unknown,Growth
 0P0000XW7L.BO,HDFC Dynamic Debt Fund - Growth Option - Direct Plan,HDFC Mutual Fund,Direct,Growth
 0P0000XW7M.BO,HDFC Dynamic Debt Fund - Half Yearly IDCW - Direct Plan,HDFC Mutual Fund,Direct,IDCW
@@ -915,10 +905,6 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P0000XVQV.BO,Franklin India Government Securities Fund - Direct - IDCW ,Franklin Templeton Mutual Fund,Direct,IDCW
 0P00005WJ2.BO,Franklin India Government Securities Fund - Growth,Franklin Templeton Mutual Fund,Unknown,Growth
 0P00005WJ1.BO,Franklin India Government Securities Fund - IDCW ,Franklin Templeton Mutual Fund,Unknown,IDCW
-0P0001V3SY.BO,Groww Gilt Fund - Direct - Growth,Unknown,Direct,Growth
-0P0001V3SZ.BO,Groww Gilt Fund - Direct - IDCW,Unknown,Direct,IDCW
-0P0001V3T1.BO,Groww Gilt Fund - Regular - Growth,Unknown,Regular,Growth
-0P0001V3T2.BO,Groww Gilt Fund - Regular - IDCW,Unknown,Regular,IDCW
 0P0000XW7F.BO,HDFC Gilt Fund - Growth Option - Direct Plan,HDFC Mutual Fund,Direct,Growth
 0P00005WMK.BO,HDFC Gilt Fund - Growth Plan,HDFC Mutual Fund,Unknown,Growth
 0P0000XW7E.BO,HDFC Gilt Fund - IDCW Option - Direct Plan,HDFC Mutual Fund,Direct,IDCW
@@ -1183,16 +1169,6 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 ,Franklin India Liquid Fund - Institution-Growth,Franklin Templeton Mutual Fund,Unknown,Unknown
 ,Franklin India Liquid Fund - Institutional Plan - Daily - IDCW,Franklin Templeton Mutual Fund,Unknown,IDCW
 0P00005UXL.BO,Franklin India Liquid Fund - Institutional Plan - Weekly - IDCW,Franklin Templeton Mutual Fund,Unknown,IDCW
-0P0000XV1V.BO,Groww Liquid Fund ( formerly known as Indiabulls Liquid )Fund - Direct Plan - Growth Option,Unknown,Direct,Growth
-,Groww Liquid Fund (formerly known as Indiabulls Liquid Fund) - Direct Plan- - Income Distribution cum capital withdrawal Option ( Reinvestment),Unknown,Direct,IDCW
-0P0000UJI5.BO,Groww Liquid Fund (formerly known as Indiabulls Liquid Fund) - Regular Plan - Growth Option,Unknown,Regular,Growth
-0P00019PNE.BO,Groww Liquid Fund (formerly known as Indiabulls Liquid Fund)- Direct Plan- Fortnightly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),Unknown,Direct,IDCW
-0P0000Z3EH.BO,Groww Liquid Fund (formerly known as Indiabulls Liquid Fund)- Direct Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),Unknown,Direct,IDCW
-0P00012KCD.BO,Groww Liquid Fund (formerly known as Indiabulls Liquid Fund)- Direct Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),Unknown,Direct,IDCW
-,Groww Liquid Fund (formerly known as Indiabulls Liquid Fund)- Regular Plan- - Income Distribution cum capital withdrawal Option (Reinvestment),Unknown,Regular,IDCW
-0P0000UJI9.BO,Groww Liquid Fund (formerly known as Indiabulls Liquid Fund)- Regular Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),Unknown,Regular,IDCW
-0P0000UJI7.BO,Groww Liquid Fund (formerly known as Indiabulls Liquid Fund)- Regular Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),Unknown,Regular,IDCW
-0P0000UJI8.BO,Groww Liquid Fund (formerly known as Indiabulls Liquid) Fund- Regular Plan- Fortnightly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),Unknown,Regular,IDCW
 0P0000XW89.BO,HDFC Liquid Fund - Growth Option - Direct Plan,HDFC Mutual Fund,Direct,Growth
 0P00005V09.BO,HDFC Liquid Fund - Growth Plan,HDFC Mutual Fund,Unknown,Growth
 ,HDFC Liquid Fund - IDCW Daily,HDFC Mutual Fund,Unknown,IDCW
@@ -1278,12 +1254,6 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 ,JM Liquid Fund Unclaimed Redemption IEF (Direct) Growth Plan,Unknown,Direct,Growth
 0P00005V24.BO,JM Liquid Fund (Regular) - Bonus Option - Principal Units,Unknown,Regular,Unknown
 ,JM Liquid Fund (Regular) - Daily IDCW,Unknown,Regular,IDCW
-,Kotak Liquid Fund - Direct Plan - Daily Reinvestment of Income Distribution cum capital withdrawal option,Kotak Mahindra Mutual Fund,Direct,IDCW
-0P0000XV6E.BO,Kotak Liquid Fund - Direct Plan - Growth,Kotak Mahindra Mutual Fund,Direct,Growth
-,Kotak Liquid Fund - Direct Plan - Weekly - Reinvestment & Payout of Income Distribution cum capital withdrawal option,Kotak Mahindra Mutual Fund,Direct,IDCW
-,Kotak Liquid Fund - Regular  - Daily Reinvestment of Income Distribution cum capital withdrawal option,Kotak Mahindra Mutual Fund,Regular,IDCW
-0P00005WU8.BO,Kotak Liquid Fund - Regular Plan - Growth,Kotak Mahindra Mutual Fund,Regular,Growth
-,Kotak Liquid Fund - Regular Plan - Weekly - Reinvestment & Payout of Income Distribution cum capital withdrawal option,Kotak Mahindra Mutual Fund,Regular,IDCW
 0P0000XV9D.BO,LIC MF Liquid Fund-Direct Plan-Daily IDCW,LIC Mutual Fund,Unknown,IDCW
 0P0000XV9G.BO,LIC MF Liquid Fund-Direct Plan-Growth,LIC Mutual Fund,Unknown,Unknown
 ,LIC MF Liquid Fund-Direct Plan-Monthly IDCW,LIC Mutual Fund,Unknown,IDCW
@@ -2122,12 +2092,6 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P0001I397.BO,Axis Money Market Fund - Regular Plan - Growth Option,Axis Mutual Fund,Regular,Growth
 0P0001I398.BO,Axis Money Market Fund - Regular Plan - Monthly IDCW,Axis Mutual Fund,Regular,IDCW
 0P0001I399.BO,Axis Money Market Fund - Regular Plan - Quarterly IDCW,Axis Mutual Fund,Regular,IDCW
-0P0001RBZ7.BO,Bajaj Finserv Money Market Fund-Direct Plan-Growth,Bajaj Finserv Mutual Fund,Unknown,Unknown
-0P0001RBZD.BO,Bajaj Finserv Money Market Fund-Direct Plan-IDCW,Bajaj Finserv Mutual Fund,Unknown,Unknown
-0P0001RBZ8.BO,Bajaj Finserv Money Market Fund-Direct Plan-Monthly-IDCW,Bajaj Finserv Mutual Fund,Unknown,Unknown
-0P0001RBZA.BO,Bajaj Finserv Money Market Fund-Regular Plan-Growth,Bajaj Finserv Mutual Fund,Unknown,Unknown
-0P0001RBZF.BO,Bajaj Finserv Money Market Fund-Regular Plan-IDCW,Bajaj Finserv Mutual Fund,Unknown,Unknown
-0P0001RBZB.BO,Bajaj Finserv Money Market Fund-Regular Plan-Monthly-IDCW,Bajaj Finserv Mutual Fund,Unknown,Unknown
 0P000162IH.BO,Bandhan Money Market Fund - Regular Plan - Periodic IDCW,Bandhan Mutual Fund,Regular,IDCW
 0P00005VF9.BO,Bandhan Money Market Fund - Regular Plan - Weekly IDCW,Bandhan Mutual Fund,Regular,IDCW
 ,Bandhan Money Market Fund -Direct Plan-Daily IDCW,Bandhan Mutual Fund,Direct,IDCW
@@ -2141,6 +2105,7 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 ,Bank of India Money Market Fund - Direct - Daily IDCW,Bank of India Mutual Fund,Direct,IDCW
 0P0001ULRQ.BO,Bank of India Money Market Fund - Direct - Growth,Bank of India Mutual Fund,Direct,Growth
 0P0001ULRT.BO,Bank of India Money Market Fund - Direct - Monthly IDCW,Bank of India Mutual Fund,Direct,IDCW
+,Bank of India Money Market Fund - Direct - Weekly IDCW,Bank of India Mutual Fund,Direct,IDCW
 ,Bank of India Money Market Fund - Regular - Daily IDCW,Bank of India Mutual Fund,Regular,IDCW
 0P0001ULRX.BO,Bank of India Money Market Fund - Regular - Growth,Bank of India Mutual Fund,Regular,Growth
 0P0001ULS0.BO,Bank of India Money Market Fund - Regular - Monthly IDCW,Bank of India Mutual Fund,Regular,IDCW
@@ -2181,10 +2146,6 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P00012UA1.BO,Franklin India Money Market Fund Retail Option - Monthly - IDCW,Franklin Templeton Mutual Fund,Unknown,IDCW
 0P00005WIF.BO,Franklin India Money Market Fund Retail Option - Quarterly - IDCW,Franklin Templeton Mutual Fund,Unknown,IDCW
 0P0001TP19.BO,Franklin India Money Market Fund Wkly IDCW R,Franklin Templeton Mutual Fund,Unknown,IDCW
-0P0001Y6XU.BO,Groww Money Market Fund Direct Growth,Unknown,Direct,Growth
-0P0001Y6XW.BO,Groww Money Market Fund Direct IDCW,Unknown,Direct,IDCW
-0P0001Y6XV.BO,Groww Money Market Fund Regular Growth,Unknown,Regular,Growth
-0P0001Y6XY.BO,Groww Money Market Fund Regular IDCW,Unknown,Regular,IDCW
 ,HDFC Money Market Fund - Daily IDCW Option,HDFC Mutual Fund,Unknown,IDCW
 ,HDFC Money Market Fund - Daily IDCW Option - Direct Plan,HDFC Mutual Fund,Direct,IDCW
 0P00005WLQ.BO,HDFC Money Market Fund - Growth Option,HDFC Mutual Fund,Unknown,Growth
@@ -2430,20 +2391,6 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 ,Franklin India Overnight Fund- Unclaimed IDCW Plan,Franklin Templeton Mutual Fund,Unknown,IDCW
 ,Franklin India Overnight Fund- Unclaimed Redemption Investor EducationPlan,Franklin Templeton Mutual Fund,Unknown,Unknown
 ,Franklin India Overnight Fund- Unclaimed Redemption Plan,Franklin Templeton Mutual Fund,Unknown,Unknown
-,Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Direct Plan- - Income Distribution cum capital withdrawal Option ( Reinvestment),Unknown,Direct,IDCW
-0P0001HUZT.BO,Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Direct Plan- Fortnightly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),Unknown,Direct,IDCW
-0P0001HUZW.BO,Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Direct Plan- Growth Option,Unknown,Direct,Growth
-0P0001HV0D.BO,Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Direct Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),Unknown,Direct,IDCW
-0P0001HUZZ.BO,Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Direct Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),Unknown,Direct,IDCW
-,Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Regular Plan- - Income Distribution cum capital withdrawal Option ( Reinvestment),Unknown,Regular,IDCW
-0P0001HV03.BO,Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Regular Plan- Fortnightly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),Unknown,Regular,IDCW
-0P0001HV06.BO,Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Regular Plan- Growth Option,Unknown,Regular,Growth
-0P0001HV07.BO,Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Regular Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),Unknown,Regular,IDCW
-0P0001HV09.BO,Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Regular Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),Unknown,Regular,IDCW
-,Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Unclaimed Dividend < 3 years,Unknown,Unknown,IDCW
-,Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Unclaimed Dividend > 3 Years,Unknown,Unknown,IDCW
-,Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Unclaimed Redemption < 3 Years,Unknown,Unknown,Unknown
-,Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Unclaimed Redemption > 3 Years,Unknown,Unknown,Unknown
 ,HDFC Overnight Fund - Daily IDCW Option - Direct Plan,HDFC Mutual Fund,Direct,IDCW
 0P00005WLO.BO,HDFC Overnight Fund - Growth Option,HDFC Mutual Fund,Unknown,Growth
 0P0000XW6T.BO,HDFC Overnight Fund - Growth Option - Direct Plan,HDFC Mutual Fund,Direct,Growth
@@ -2540,9 +2487,6 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P0001FB9O.BO,NIPPON INDIA OVERNIGHT FUND - QUARTERLY IDCW Option,Nippon India Mutual Fund,Unknown,IDCW
 0P0001FB9M.BO,Nippon India Overnight Fund - Regular Plan - Growth Option,Nippon India Mutual Fund,Regular,Growth
 ,NIPPON INDIA OVERNIGHT FUND - WEEKLY IDCW Option,Nippon India Mutual Fund,Unknown,IDCW
-0P0001ORIY.BO,NJ Overnight Fund - Direct Plan - Growth Option,Unknown,Direct,Growth
-0P0001ORIZ.BO,NJ Overnight Fund - Regular Plan - Growth Option,Unknown,Regular,Growth
-,NJ Overnight Fund - Unclaimed Redemption Plan - Upto 3 Years,Unknown,Unknown,Unknown
 ,PGIM India Overnight Fund - Direct Plan - Daily Dividend Option,PGIM India Mutual Fund,Direct,IDCW
 0P0001I7G7.BO,PGIM India Overnight Fund - Direct Plan - Growth Option,PGIM India Mutual Fund,Direct,Growth
 0P0001I7G8.BO,PGIM India Overnight Fund - Direct Plan - Weekly Dividend Option,PGIM India Mutual Fund,Direct,IDCW
@@ -2599,6 +2543,7 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 ,Union Overnight Fund - Regular Plan - Daily IDCW Option,Unknown,Regular,IDCW
 0P0001H5BK.BO,Union Overnight Fund - Regular Plan - Growth Option,Unknown,Regular,Growth
 0P0001H5BL.BO,Union Overnight Fund - Regular Plan - Monthly IDCW Option,Unknown,Regular,IDCW
+,Union Overnight Fund - Regular Plan - Weekly IDCW Option,Unknown,Regular,IDCW
 ,Union Overnight Fund - Unclaimed Amounts Plan - IDCW Beyond 3 years,Unknown,Unknown,IDCW
 ,Union Overnight Fund - Unclaimed Amounts Plan - IDCW Upto 3 years,Unknown,Unknown,IDCW
 ,Union Overnight Fund - Unclaimed Amounts Plan - Redemption Beyond 3 years,Unknown,Unknown,Unknown
@@ -2709,14 +2654,6 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 ,Franklin India Short-term Income Plan-Retail Plan- Segregated Portfolio 1- 8.25% Vodafone Idea Ltd-10JUL20-Direct-Weekly Dividend Option,Franklin Templeton Mutual Fund,Unknown,IDCW
 ,Franklin India Short-term Income Plan-Retail Plan-Segregated Portfolio 3 (9.50% Yes Bank Ltd CO 23Dec21) - Direct Weekly - IDCW,Franklin Templeton Mutual Fund,Direct,IDCW
 ,Franklin India Short-Term Income Plan-Weekly Bonus,Franklin Templeton Mutual Fund,Unknown,Unknown
-0P0000ZK6S.BO,Groww Short Term Fund (formerly known as Indiabulls Short Term Fund )- Regular Plan - Growth Option,Unknown,Regular,Growth
-0P0000ZK6V.BO,Groww Short Term Fund (formerly known as Indiabulls Short Term Fund) - Direct Plan - Growth Option,Unknown,Direct,Growth
-0P00017I1L.BO,Groww Short Term Fund (formerly known as Indiabulls Short Term Fund)- Direct Plan- Fortnightly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),Unknown,Direct,IDCW
-0P0000ZK6X.BO,Groww Short Term Fund (formerly known as Indiabulls Short Term Fund)- Direct Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),Unknown,Direct,IDCW
-0P0000ZK6W.BO,Groww Short Term Fund (formerly known as Indiabulls Short Term Fund)- Direct Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),Unknown,Direct,IDCW
-0P000184G1.BO,Groww Short Term Fund (formerly known as Indiabulls Short Term Fund)- Regular Plan- Fortnightly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),Unknown,Regular,IDCW
-0P0000ZK6U.BO,Groww Short Term Fund (formerly known as Indiabulls Short Term Fund)- Regular Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),Unknown,Regular,IDCW
-0P0000ZK6T.BO,Groww Short Term Fund (formerly known as Indiabulls Short Term Fund)- Regular Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),Unknown,Regular,IDCW
 ,HDFC Short Term  Debt Fund - Fortnightly IDCW - Direct Plan,HDFC Mutual Fund,Direct,IDCW
 0P0000OQWU.BO,HDFC Short Term  Debt Fund - Fortnightly IDCW Option,HDFC Mutual Fund,Unknown,IDCW
 0P0000OQWT.BO,HDFC Short Term  Debt Fund - Growth Option,HDFC Mutual Fund,Unknown,Growth
@@ -3211,10 +3148,6 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P0000XW5O.BO,Franklin India ELSS Tax Saver Fund - Direct - IDCW,Franklin Templeton Mutual Fund,Direct,IDCW
 0P00005VDH.BO,Franklin India ELSS Tax Saver Fund - IDCW,Franklin Templeton Mutual Fund,Unknown,IDCW
 0P00005VDI.BO,Franklin India ELSS Tax Saver Fund-Growth,Franklin Templeton Mutual Fund,Unknown,Unknown
-0P0001BN7E.BO,Groww ELSS Tax Saver Fund (formerly known as Indiabulls Tax Savings Fund)- Direct Plan- Dividend Option,Unknown,Direct,IDCW
-0P0001BN7D.BO,Groww ELSS Tax Saver Fund (formerly known as Indiabulls Tax Savings Fund)- Direct Plan- Growth Option,Unknown,Direct,Growth
-0P0001BN7A.BO,Groww ELSS Tax Saver Fund (formerly known as Indiabulls Tax Savings Fund)- Regular Plan- - Income Distribution cum capital withdrawal Option (Payout),Unknown,Regular,IDCW
-0P0001BN79.BO,Groww ELSS Tax Saver Fund (formerly known as Indiabulls Tax Savings Fund)-Regular Plan-Growth Option,Unknown,Unknown,Unknown
 0P0000XW8Z.BO,HDFC ELSS Tax saver - Growth Option - Direct Plan,HDFC Mutual Fund,Direct,Growth
 0P00005WNB.BO,HDFC ELSS Tax saver - Growth Plan,HDFC Mutual Fund,Unknown,Growth
 0P0000XW8Y.BO,HDFC ELSS Tax saver - IDCW Option - Direct Plan,HDFC Mutual Fund,Direct,IDCW
@@ -3305,10 +3238,6 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P0000XVG0.BO,Nippon India ELSS Tax Saver Fund - Direct Plan Growth Plan - Growth Option,Nippon India Mutual Fund,Direct,Growth
 0P00005UQK.BO,NIPPON INDIA ELSS TAX SAVER FUND - IDCW Option,Nippon India Mutual Fund,Unknown,IDCW
 0P00005UQM.BO,Nippon India ELSS Tax Saver Fund-Growth Plan-Growth Option,Nippon India Mutual Fund,Unknown,Unknown
-0P0001QM1Y.BO,NJ ELSS Tax Saver Scheme Direct Growth,Unknown,Direct,Growth
-0P0001QM1Z.BO,NJ ELSS Tax Saver Scheme Direct IDCW,Unknown,Direct,IDCW
-0P0001QM20.BO,NJ ELSS Tax Saver Scheme Regular Growth,Unknown,Regular,Growth
-0P0001QM21.BO,NJ ELSS Tax Saver Scheme Regular IDCW,Unknown,Regular,IDCW
 0P000175WD.BO,PGIM India ELSS Tax Saver Fund - Direct Plan - Dividend Option,PGIM India Mutual Fund,Direct,IDCW
 0P000175WC.BO,PGIM India ELSS Tax Saver Fund - Direct Plan - Growth Option,PGIM India Mutual Fund,Direct,Growth
 0P000175WB.BO,PGIM India ELSS Tax Saver Fund - Regular Plan - Dividend Option,PGIM India Mutual Fund,Regular,IDCW
@@ -3464,10 +3393,6 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P0001MZPG.BO,Nippon India Flexi Cap Fund - Direct Plan - IDCW Option,Nippon India Mutual Fund,Direct,IDCW
 0P0001MZPI.BO,Nippon India Flexi Cap Fund - Regular Plan - Growth Plan - Growth Option,Nippon India Mutual Fund,Regular,Growth
 0P0001MZPJ.BO,Nippon India Flexi Cap Fund - Regular Plan - IDCW Option,Nippon India Mutual Fund,Regular,IDCW
-0P0001REJU.BO,NJ Flexi Cap Fund - Direct Plan - Growth Option,Unknown,Direct,Growth
-0P0001REJV.BO,NJ Flexi Cap Fund - Direct Plan - IDCW Option,Unknown,Direct,IDCW
-0P0001REJW.BO,NJ Flexi Cap Fund - Regular Plan - Growth Option,Unknown,Regular,Growth
-0P0001REJX.BO,NJ Flexi Cap Fund - Regular Plan - IDCW Option,Unknown,Regular,IDCW
 0P00020D51.BO,Old Bridge Flexi Cap Fund Direct Growth,Unknown,Direct,Growth
 0P00020D52.BO,Old Bridge Flexi Cap Fund Direct IDCW,Unknown,Direct,IDCW
 0P00020D54.BO,Old Bridge Flexi Cap Fund Regular Growth,Unknown,Regular,Growth
@@ -3638,6 +3563,8 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P0001MZZ6.BO,UTI Focused Fund - Direct Plan - IDCW Payout Option,UTI Mutual Fund,Direct,IDCW
 0P0001MZZ9.BO,UTI Focused Fund - Regular Plan - Growth Option,UTI Mutual Fund,Regular,Growth
 0P0001MZZA.BO,UTI Focused Fund - Regular Plan - IDCW Payout Option,UTI Mutual Fund,Regular,IDCW
+,Abakkus Large & Mid Cap Fund - Direct  Plan - Growth,Unknown,Direct,Growth
+,Abakkus Large & Mid Cap Fund - Regular Plan - Growth,Unknown,Regular,Growth
 0P0000XVVL.BO,Aditya Birla Sun Life Large & Mid Cap Fund - Growth - Direct Plan,Aditya Birla Sun Life Mutual Fund,Direct,Growth
 0P00005X1R.BO,Aditya Birla Sun Life Large & Mid Cap Fund - Regular Growth,Aditya Birla Sun Life Mutual Fund,Regular,Growth
 0P0000XVVK.BO,Aditya Birla Sun Life Large & Mid Cap Fund -Direct - IDCW,Aditya Birla Sun Life Mutual Fund,Direct,IDCW
@@ -5360,6 +5287,10 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P0000XVGM.BO,Invesco India Contra Fund - Direct Plan - IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
 0P000093TB.BO,Invesco India Contra Fund - Regular Plan - Growth,Unknown,Regular,Growth
 0P000093SU.BO,Invesco India Contra Fund - Regular Plan - IDCW (Payout / Reinvestment),Unknown,Regular,IDCW
+0P0001BN7E.BO,Groww ELSS Tax Saver Fund (formerly known as Indiabulls Tax Savings Fund)- Direct Plan- Dividend Option,Unknown,Direct,IDCW
+0P0001BN7D.BO,Groww ELSS Tax Saver Fund (formerly known as Indiabulls Tax Savings Fund)- Direct Plan- Growth Option,Unknown,Direct,Growth
+0P0001BN7A.BO,Groww ELSS Tax Saver Fund (formerly known as Indiabulls Tax Savings Fund)- Regular Plan- - Income Distribution cum capital withdrawal Option (Payout),Unknown,Regular,IDCW
+0P0001BN79.BO,Groww ELSS Tax Saver Fund (formerly known as Indiabulls Tax Savings Fund)-Regular Plan-Growth Option,Unknown,Unknown,Unknown
 0P0000XVI2.BO,Invesco India ELSS Tax Saver Fund - Direct Plan - Growth,Unknown,Direct,Growth
 0P0000XVHW.BO,Invesco India ELSS Tax Saver Fund - Direct Plan - IDCW Payout,Unknown,Direct,IDCW
 0P000093T8.BO,Invesco India ELSS Tax Saver Fund - Regular Plan - Growth,Unknown,Regular,Growth
@@ -5368,6 +5299,10 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P00018X6W.BO,Mahindra Manulife ELSS Tax Saver Fund - Regular Plan - IDCW,Unknown,Regular,IDCW
 0P00018X6U.BO,Mahindra Manulife ELSS Tax Saver Fund- Direct Plan - IDCW,Unknown,Direct,IDCW
 0P00018X6X.BO,Mahindra Manulife ELSS Tax Saver Fund- Regular Plan - Growth,Unknown,Regular,Growth
+0P0001QM1Y.BO,NJ ELSS Tax Saver Scheme Direct Growth,Unknown,Direct,Growth
+0P0001QM1Z.BO,NJ ELSS Tax Saver Scheme Direct IDCW,Unknown,Direct,IDCW
+0P0001QM20.BO,NJ ELSS Tax Saver Scheme Regular Growth,Unknown,Regular,Growth
+0P0001QM21.BO,NJ ELSS Tax Saver Scheme Regular IDCW,Unknown,Regular,IDCW
 0P0001OAAV.BO,Invesco India Flexi Cap Fund - Direct Plan - Growth,Unknown,Direct,Growth
 0P0001OAAW.BO,Invesco India Flexi Cap Fund - Direct Plan - IDCW,Unknown,Direct,IDCW
 0P0001OAAY.BO,Invesco India Flexi Cap Fund - Regular Plan - Growth,Unknown,Regular,Growth
@@ -5376,6 +5311,10 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P0001MZPN.BO,Mahindra Manulife Flexi Cap Fund - Direct Plan -IDCW,Unknown,Direct,IDCW
 0P0001MZPP.BO,Mahindra Manulife Flexi Cap Fund - Regular Plan -Growth,Unknown,Regular,Growth
 0P0001MZPQ.BO,Mahindra Manulife Flexi Cap Fund - Regular Plan -IDCW,Unknown,Regular,IDCW
+0P0001REJU.BO,NJ Flexi Cap Fund - Direct Plan - Growth Option,Unknown,Direct,Growth
+0P0001REJV.BO,NJ Flexi Cap Fund - Direct Plan - IDCW Option,Unknown,Direct,IDCW
+0P0001REJW.BO,NJ Flexi Cap Fund - Regular Plan - Growth Option,Unknown,Regular,Growth
+0P0001REJX.BO,NJ Flexi Cap Fund - Regular Plan - IDCW Option,Unknown,Regular,IDCW
 0P0001KMZ7.BO,Invesco India Focused Fund - Direct Plan - Growth,Unknown,Direct,Growth
 0P0001KMZ8.BO,Invesco India Focused Fund - Direct Plan - IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
 0P0001KMZA.BO,Invesco India Focused Fund - Regular Plan - Growth,Unknown,Regular,Growth
@@ -5388,8 +5327,8 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P0000XVGX.BO,Invesco India Large & Mid Cap Fund - Direct Plan - IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
 0P00009J43.BO,Invesco India Large & Mid Cap Fund - Regular Plan - Growth,Unknown,Regular,Growth
 0P00009J3Y.BO,Invesco India Large & Mid Cap Fund - Regular Plan - IDCW (Payout / Reinvestment),Unknown,Regular,IDCW
-,TRUSTMF LARGE & MIDCAP FUND - DIRECT PLAN - GROWTH,Unknown,Direct,Growth
-,TRUSTMF LARGE & MIDCAP FUND - REGULAR PLAN - GROWTH,Unknown,Regular,Growth
+0P00035W6B.BO,TRUSTMF LARGE & MIDCAP FUND - DIRECT PLAN - GROWTH,Unknown,Direct,Growth
+0P00035W6C.BO,TRUSTMF LARGE & MIDCAP FUND - REGULAR PLAN - GROWTH,Unknown,Regular,Growth
 0P0000XV1T.BO,Groww Largecap Fund (formerly known as Indiabulls Blue Chip Fund) - Direct Plan - Growth Option,Unknown,Direct,Growth
 0P0000VDYU.BO,Groww Largecap Fund (formerly known as Indiabulls Blue Chip Fund) - Regular Plan- Growth Option,Unknown,Regular,Growth
 0P0000XV1Q.BO,Groww Largecap Fund (formerly known as Indiabulls Bluechip Fund)- Direct Plan- - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),Unknown,Direct,IDCW
@@ -5412,6 +5351,10 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P0000XVHH.BO,Invesco India Midcap Fund - Direct Plan - IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
 0P000093TC.BO,Invesco India Midcap Fund - Regular Plan - Growth Option,Unknown,Regular,Growth
 0P000093ST.BO,Invesco India Midcap Fund - Regular Plan - IDCW (Payout / Reinvestment),Unknown,Regular,IDCW
+,The Wealth Company Mid Cap Fund- Direct- IDCW,Unknown,Direct,IDCW
+,The Wealth Company Mid Cap Fund- Direct-Growth,Unknown,Unknown,Unknown
+,The Wealth Company Mid Cap Fund- Regular-Growth,Unknown,Unknown,Unknown
+,The Wealth Company Mid Cap Fund-Regular-IDCW,Unknown,Unknown,Unknown
 0P0001U395.BO,Groww Multicap Fund - Direct - Growth,Unknown,Direct,Growth
 0P0001U396.BO,Groww Multicap Fund - Direct - IDCW,Unknown,Direct,IDCW
 0P0001U398.BO,Groww Multicap Fund - Regular - Growth,Unknown,Regular,Growth
@@ -5444,6 +5387,10 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P0001EQU2.BO,Invesco India Smallcap Fund - Direct Plan - IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
 0P0001EQU7.BO,Invesco India Smallcap Fund - Regular Plan - Growth,Unknown,Regular,Growth
 0P0001EQU5.BO,Invesco India Smallcap Fund - Regular Plan - IDCW (Payout / Reinvestment),Unknown,Regular,IDCW
+,Baroda BNP Paribas Services Fund - Direct Growth Option,Unknown,Direct,Growth
+,Baroda BNP Paribas Services Fund - Direct IDCW Payout option,Unknown,Direct,IDCW
+,Baroda BNP Paribas Services Fund - Regular Growth option,Unknown,Regular,Growth
+,Baroda BNP Paribas Services Fund - Regular IDCW Payout,Unknown,Regular,IDCW
 0P0001ULF7.BO,Invesco India Business Cycle Fund - Direct Plan - Growth,Unknown,Direct,Growth
 0P0001ULF8.BO,Invesco India Business Cycle Fund - Direct Plan - IDCW,Unknown,Direct,IDCW
 0P0001ULFA.BO,Invesco India Business Cycle Fund - Regular Plan - Growth,Unknown,Regular,Growth
@@ -5488,6 +5435,10 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P0001Y7SF.BO,Mirae Asset Infrastructure Fund - Direct Plan - IDCW,Mirae Asset Mutual Fund,Direct,IDCW
 0P0001Y7SH.BO,Mirae Asset Infrastructure Fund - Regular Plan - Growth,Mirae Asset Mutual Fund,Regular,Growth
 0P0001Y7SI.BO,Mirae Asset Infrastructure Fund - Regular Plan - IDCW,Mirae Asset Mutual Fund,Regular,IDCW
+0P00035XVC.BO,NJ Momentum Fund - Direct Growth,Unknown,Direct,Growth
+0P00035XVD.BO,NJ Momentum Fund - Direct IDCW,Unknown,Direct,IDCW
+0P00035XVE.BO,NJ Momentum Fund - Regular Growth,Unknown,Regular,Growth
+0P00035XVF.BO,NJ Momentum Fund - Regular IDCW,Unknown,Regular,IDCW
 0P00016NTL.BO,Groww Value Fund (formerly known as Indiabulls Value Fund) - Direct Plan - Growth Option,Unknown,Direct,Growth
 0P00016NTJ.BO,Groww Value Fund (formerly known as Indiabulls Value Fund) - Regular Plan - Growth Option,Unknown,Regular,Growth
 0P00016NTM.BO,Groww Value Fund (formerly known as Indiabulls Value Fund)- Direct Plan- - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),Unknown,Direct,IDCW
@@ -5498,7 +5449,12 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P00019WZA.BO,Groww Value Fund (formerly known as Indiabulls Value Fund)- Regular Plan- Half Yearly -Income Distribution cum capital withdrawal Option (Payout & Reinvestment),Unknown,Regular,IDCW
 0P0001ACDY.BO,Groww Value Fund (formerly known as Indiabulls Value Fund)- Regular Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment.,Unknown,Regular,IDCW
 0P0001CWZS.BO,Groww Value Fund (formerly known as Indiabulls Value Fund)- Regular Plan- Quarterly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),Unknown,Regular,IDCW
+0P00035XVG.BO,NJ Value Fund - Direct Growth,Unknown,Direct,Growth
+0P00035XVH.BO,NJ Value Fund - Direct IDCW,Unknown,Direct,IDCW
+0P00035XVI.BO,NJ Value Fund - Regular Growth,Unknown,Regular,Growth
+0P00035XVJ.BO,NJ Value Fund - Regular IDCW,Unknown,Regular,IDCW
 ABSLLIQUID.NS,Aditya Birla Sun Life CRISIL Liquid Overnight ETF - IDCW Daily Reinvestment with Weekly Payout,Aditya Birla Sun Life Mutual Fund,Unknown,IDCW
+GROWWLIQID.NS,Groww Nifty 1D Rate Liquid ETF,Unknown,Unknown,Unknown
 LIQUIDBETA.NS,UTI Nifty 1D Rate Liquid ETF - Growth,UTI Mutual Fund,Unknown,Growth
 ,Aditya Birla Sun Life BSE Sensex ETF,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
 ABSL10BANK.NS,Aditya Birla Sun Life BSE Top 10 Banks ETF,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
@@ -5513,19 +5469,98 @@ TECH.NS,Aditya Birla Sun Life Nifty IT ETF,Aditya Birla Sun Life Mutual Fund,Unk
 ABSLPSE.NS,Aditya Birla Sun Life Nifty PSE ETF,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
 SILVER.NS,Aditya Birla Sun Life Silver ETF,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
 BANK10BETF.NS,Bajaj Finserv BSE Top 10 Banks ETF,Bajaj Finserv Mutual Fund,Unknown,Unknown
+MIDBANKADD.NS,DSP BSE MidSmall Private Banks ETF,DSP Mutual Fund,Unknown,Unknown
+,Edelweiss BSE LargeMid (60:40) Stable Dividend 50 ETF,Unknown,Unknown,IDCW
+EBANK10.NS,Edelweiss BSE Top 10 Bank ETF,Unknown,Unknown,Unknown
 EMETAL.NS,Edelweiss Nifty Metal ETF,Unknown,Unknown,Unknown
 ,HDFC Nifty Metal ETF - Growth Option,HDFC Mutual Fund,Unknown,Growth
 IVZINNIFTY.NS,Invesco India Nifty 50 Exchange Traded Fund,Unknown,Unknown,Unknown
 PVTBANK.NS,Kotak Nifty Private Bank ETF,Kotak Mahindra Mutual Fund,Unknown,Unknown
 PSUBANK.NS,Kotak Nifty PSU Bank ETF,Kotak Mahindra Mutual Fund,Unknown,Unknown
 MOMMIDCAP.NS,Mirae Asset BSE Midcap 150 Momentum 30 ETF,Mirae Asset Mutual Fund,Unknown,Unknown
-,Mirae Asset Nifty200 Momentum 30 Plus 8-13 yr G-Sec 50:50 ETF,Mirae Asset Mutual Fund,Unknown,Unknown
+HYBRIDETF.NS,Mirae Asset Nifty200 Momentum 30 Plus 8-13 yr G-Sec 50:50 ETF,Mirae Asset Mutual Fund,Unknown,Unknown
+,Motilal Oswal Nifty Metal ETF,Motilal Oswal Mutual Fund,Unknown,Unknown
+,Motilal Oswal Nifty Oil & Gas ETF,Motilal Oswal Mutual Fund,Unknown,Unknown
+GROWWGOLD.NS,Groww Gold ETF,Unknown,Unknown,Unknown
 ,Invesco India Gold Exchange Traded Fund,Unknown,Unknown,Unknown
+GROWWHOSPI.NS,Groww BSE Hospitals ETF,Unknown,Unknown,Unknown
+GROWWPOWER.NS,Groww BSE Power ETF,Unknown,Unknown,Unknown
+GROWWN200.NS,Groww Nifty 200 ETF,Unknown,Unknown,Unknown
+GROWWNIFTY.NS,Groww Nifty 50 ETF,Unknown,Unknown,Unknown
+GROWWLOVOL.NS,Groww Nifty 500 Low Volatility 50 ETF,Unknown,Unknown,Unknown
+GROWWMOM50.NS,Groww Nifty 500 Momentum 50 ETF,Unknown,Unknown,Unknown
+GROWWCAPM.NS,Groww Nifty Capital Markets ETF,Unknown,Unknown,Unknown
 CEMNTGROWW.NS,Groww Nifty Cements ETF,Unknown,Unknown,Unknown
+GROWWCHEM.NS,Groww Nifty Chemicals ETF,Unknown,Unknown,Unknown
+GROWWEV.NS,GROWW NIFTY EV & NEW AGE AUTOMOTIVE ETF,Unknown,Unknown,Unknown
+GROWWDEFNC.NS,Groww Nifty India Defence ETF,Unknown,Unknown,Unknown
+GROWWNET.NS,Groww Nifty India Internet ETF,Unknown,Unknown,Unknown
+GROWWRAIL.NS,Groww Nifty India Railways PSU ETF,Unknown,Unknown,Unknown
+GROWWMETAL.NS,Groww Nifty Metal ETF,Unknown,Unknown,Unknown
+GROWWMC150.NS,Groww Nifty Midcap 150 ETF,Unknown,Unknown,Unknown
+GROWWNXT50.NS,Groww Nifty Next 50 ETF,Unknown,Unknown,Unknown
+PVTBKGROWW.NS,Groww Nifty Private Bank ETF,Unknown,Unknown,Unknown
+GROWWPSE.NS,Groww Nifty PSE ETF,Unknown,Unknown,Unknown
+GROWWPSUBK.NS,Groww Nifty PSU Bank ETF,Unknown,Unknown,Unknown
+GROWWRLTY.NS,Groww Nifty Realty ETF,Unknown,Unknown,Unknown
+GROWWSC250.NS,Groww Nifty Smallcap250 ETF,Unknown,Unknown,Unknown
+SMALLGROWW.NS,Groww Nifty Smallcap 250 Momentum Quality 100 ETF,Unknown,Unknown,Unknown
+,ICICI Prudential BSE Insurance ETF,ICICI Prudential Mutual Fund,Unknown,Unknown
+GROWWSLVR.NS,Groww Silver ETF,Unknown,Unknown,Unknown
 0P0001O9H3.BO,Aditya Birla Sun Life Silver ETF FOF-Direct Growth,Aditya Birla Sun Life Mutual Fund,Unknown,Growth
 0P0001O9H1.BO,Aditya Birla Sun Life Silver ETF FOF-Direct IDCW,Aditya Birla Sun Life Mutual Fund,Unknown,IDCW
 0P0001O9H6.BO,Aditya Birla Sun Life Silver ETF FOF-Regular Growth,Aditya Birla Sun Life Mutual Fund,Unknown,Growth
 0P0001O9H4.BO,Aditya Birla Sun Life Silver ETF FOF-Regular IDCW,Aditya Birla Sun Life Mutual Fund,Unknown,IDCW
+0P00020AOT.BO,Groww BSE Hospitals ETF FOF Direct Growth,Unknown,Direct,Growth
+0P00020AOU.BO,Groww BSE Hospitals ETF FOF Direct IDCW,Unknown,Direct,IDCW
+0P00020AOX.BO,Groww BSE Hospitals ETF FOF Regular Growth,Unknown,Regular,Growth
+0P00020AOY.BO,Groww BSE Hospitals ETF FOF Regular IDCW,Unknown,Regular,IDCW
+0P0001WWBH.BO,Groww BSE Power ETF FOF Direct Growth,Unknown,Direct,Growth
+0P0001WWBI.BO,Groww BSE Power ETF FOF Direct IDCW,Unknown,Direct,IDCW
+0P0001WWBK.BO,Groww BSE Power ETF FOF Regular Growth,Unknown,Regular,Growth
+0P0001WWBL.BO,Groww BSE Power ETF FOF Regular IDCW,Unknown,Regular,IDCW
+0P0001TWHU.BO,Groww Gold ETF FOF - DIRECT - GROWTH,Unknown,Direct,Growth
+0P0001TWHV.BO,Groww Gold ETF FOF - DIRECT - IDCW,Unknown,Direct,IDCW
+0P0001TWHX.BO,Groww Gold ETF FOF - REGULAR - GROWTH,Unknown,Regular,Growth
+0P0001TWHY.BO,Groww Gold ETF FOF - REGULAR - IDCW,Unknown,Regular,IDCW
+0P0001YDRN.BO,Groww Multi Asset Omni FOF Direct Growth,Unknown,Direct,Growth
+0P0001YDRQ.BO,Groww Multi Asset Omni FOF Direct IDCW,Unknown,Direct,IDCW
+0P0001YDRX.BO,Groww Multi Asset Omni FOF Regular Growth,Unknown,Regular,Growth
+0P0001YDS0.BO,Groww Multi Asset Omni FOF Regular IDCW,Unknown,Regular,IDCW
+0P0001UN4T.BO,Groww Nifty 200 ETF FOF - Direct - Growth,Unknown,Direct,Growth
+0P0001UN4U.BO,Groww Nifty 200 ETF FOF - Direct - IDCW,Unknown,Direct,IDCW
+0P0001UN4W.BO,Groww Nifty 200 ETF FOF - Regular - Growth,Unknown,Regular,Growth
+0P0001UN4X.BO,Groww Nifty 200 ETF FOF - Regular - IDCW,Unknown,Regular,IDCW
+0P0001UZTB.BO,Groww Nifty 500 Momentum 50 ETF FOF - Direct Plan - Growth,Unknown,Direct,Growth
+0P0001UZTD.BO,Groww Nifty 500 Momentum 50 ETF FOF - Direct Plan - IDCW,Unknown,Direct,IDCW
+0P0001UZTG.BO,Groww Nifty 500 Momentum 50 ETF FOF - Regular Plan - IDCW,Unknown,Regular,IDCW
+0P0001UZTE.BO,Groww Nifty 500 Momentum 50 ETF FOF - Regular Plan- Growth,Unknown,Regular,Growth
+0P0001XQHU.BO,Groww Nifty Capital Markets ETF FOF Direct Growth,Unknown,Direct,Growth
+0P0001XQHW.BO,Groww Nifty Capital Markets ETF FOF Direct IDCW,Unknown,Direct,IDCW
+0P0001XQHX.BO,Groww Nifty Capital Markets ETF FOF Regular Growth,Unknown,Regular,Growth
+0P0001XQHZ.BO,Groww Nifty Capital Markets ETF FOF Regular IDCW,Unknown,Regular,IDCW
+0P0001TE4H.BO,Groww Nifty EV & New Age Automotive ETF FOF - Direct Plan - IDCW,Unknown,Direct,IDCW
+0P0001TE4J.BO,Groww Nifty EV & New Age Automotive ETF FOF - Regular Plan - Growth,Unknown,Regular,Growth
+0P0001TE4K.BO,Groww Nifty EV & New Age Automotive ETF FOF - Regular Plan - IDCW,Unknown,Regular,IDCW
+0P0001TE4G.BO,Groww Nifty EV & New Age Automotive ETF FOF- Direct Plan - Growth,Unknown,Direct,Growth
+0P0001TQNV.BO,Groww Nifty India Defence ETF FOF - Direct - IDCW,Unknown,Direct,IDCW
+0P0001TQNU.BO,Groww Nifty India Defence ETF FOF - Direct Growth,Unknown,Direct,Growth
+0P0001TQNX.BO,Groww Nifty India Defence ETF FOF - Regular - Growth,Unknown,Regular,Growth
+0P0001TQNY.BO,Groww Nifty India Defence ETF FOF - Regular - IDCW,Unknown,Regular,IDCW
+0P0001VNYW.BO,Groww Nifty India Internet ETF FOF - Direct - Growth,Unknown,Direct,Growth
+0P0001VNYX.BO,Groww Nifty India Internet ETF FOF - Direct - IDCW,Unknown,Direct,IDCW
+0P0001VNYZ.BO,Groww Nifty India Internet ETF FOF - Regular - Growth,Unknown,Regular,Growth
+0P0001VNZ0.BO,Groww Nifty India Internet ETF FOF - Regular - IDCW,Unknown,Regular,IDCW
+0P0001YPXD.BO,Groww Nifty PSE ETF FOF Direct Growth,Unknown,Direct,Growth
+0P0001YPXE.BO,Groww Nifty PSE ETF FOF Direct IDCW,Unknown,Direct,IDCW
+0P0001YPXG.BO,Groww Nifty PSE ETF FOF Regular Growth,Unknown,Regular,Growth
+0P0001YPXH.BO,Groww Nifty PSE ETF FOF Regular IDCW,Unknown,Regular,IDCW
+0P0001V7D7.BO,Groww Silver ETF FOF - Direct - Growth,Unknown,Direct,Growth
+0P0001V7D8.BO,Groww Silver ETF FOF - Direct - IDCW,Unknown,Direct,IDCW
+0P0001V7DA.BO,Groww Silver ETF FOF - Regular - Growth,Unknown,Regular,Growth
+0P0001V7DB.BO,Groww Silver ETF FOF - Regular - IDCW,Unknown,Regular,IDCW
+,HDFC Nifty Metal ETF FOF - Direct Plan - Growth Option,HDFC Mutual Fund,Direct,Growth
+,HDFC Nifty Metal ETF FOF - Growth Option,HDFC Mutual Fund,Unknown,Growth
 0P0000XVH4.BO,Invesco India Gold ETF Fund of Fund - Direct Plan - Growth,Unknown,Direct,Growth
 0P0000XVH7.BO,Invesco India Gold ETF Fund of Fund - Direct Plan - IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
 0P0000UNSF.BO,Invesco India Gold ETF Fund of Fund - Regular Plan - Growth,Unknown,Regular,Growth
@@ -5540,11 +5575,11 @@ CEMNTGROWW.NS,Groww Nifty Cements ETF,Unknown,Unknown,Unknown
 0P0002D13K.BO,Kotak Multi Asset Active FOF - Regular- IDCW,Kotak Mahindra Mutual Fund,Regular,IDCW
 0P00035ZTS.BO,Mirae Asset BSE Midcap 150 Momentum 30 ETF FOF - Direct Plan - Growth,Mirae Asset Mutual Fund,Direct,Growth
 0P00035ZTU.BO,Mirae Asset BSE Midcap 150 Momentum 30 ETF FOF - Regular Plan - Growth,Mirae Asset Mutual Fund,Regular,Growth
-,Tata Multi Sector Passive FOF Direct Plan Growth Option,Tata Mutual Fund,Direct,Growth
-,Tata Multi Sector Passive FOF Direct Plan IDCW Payout Option,Tata Mutual Fund,Direct,IDCW
+0P00035VVZ.BO,Tata Multi Sector Passive FOF Direct Plan Growth Option,Tata Mutual Fund,Direct,Growth
+0P00035VW0.BO,Tata Multi Sector Passive FOF Direct Plan IDCW Payout Option,Tata Mutual Fund,Direct,IDCW
 ,Tata Multi Sector Passive FOF Direct Plan IDCW Reinvestment Option,Tata Mutual Fund,Direct,IDCW
-,Tata Multi Sector Passive FOF Regular Plan Growth Option,Tata Mutual Fund,Regular,Growth
-,Tata Multi Sector Passive FOF Regular Plan IDCW Payout Option,Tata Mutual Fund,Regular,IDCW
+0P00035VW2.BO,Tata Multi Sector Passive FOF Regular Plan Growth Option,Tata Mutual Fund,Regular,Growth
+0P00035VW3.BO,Tata Multi Sector Passive FOF Regular Plan IDCW Payout Option,Tata Mutual Fund,Regular,IDCW
 ,Tata Multi Sector Passive FOF Regular Plan IDCW Reinvestment Option,Tata Mutual Fund,Regular,IDCW
 ,ICICI Prudential Gilt Fund Investment Plan PF Option - Direct Plan - Half Yearly Dividend,ICICI Prudential Mutual Fund,Direct,IDCW
 ,ICICI Prudential Gilt Fund Investment Plan PF Option - Direct Plan -Growth Option,ICICI Prudential Mutual Fund,Direct,Growth
@@ -5606,16 +5641,6 @@ CEMNTGROWW.NS,Groww Nifty Cements ETF,Unknown,Unknown,Unknown
 0P0000XW5S.BO,Franklin India Aggressive Hybrid Fund - Direct - IDCW,Franklin Templeton Mutual Fund,Direct,IDCW
 0P00005VE1.BO,Franklin India Aggressive Hybrid Fund - Growth Plan,Franklin Templeton Mutual Fund,Unknown,Growth
 0P00005VE0.BO,Franklin India Aggressive Hybrid Fund - IDCW,Franklin Templeton Mutual Fund,Unknown,IDCW
-0P0001F4G7.BO,Groww Aggressive Hybrid Fund (formerly known as Indiabulls Equity Hybrid Fund) - Direct Plan - Growth option,Unknown,Direct,Growth
-0P0001F4GG.BO,Groww Aggressive Hybrid Fund (formerly known as Indiabulls Equity Hybrid Fund) - Regular Plan - Growth option,Unknown,Regular,Growth
-0P0001F4GC.BO,Groww Aggressive Hybrid Fund (formerly known as Indiabulls Equity Hybrid Fund)- Direct Plan- - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),Unknown,Direct,IDCW
-0P0001F4GF.BO,Groww Aggressive Hybrid Fund (formerly known as Indiabulls Equity Hybrid Fund)- Direct Plan- Half Yearly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),Unknown,Direct,IDCW
-0P0001F4GD.BO,Groww Aggressive Hybrid Fund (formerly known as Indiabulls Equity Hybrid Fund)- Direct Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),Unknown,Direct,IDCW
-0P0001F4GE.BO,Groww Aggressive Hybrid Fund (formerly known as Indiabulls Equity Hybrid Fund)- Direct Plan- Quarterly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),Unknown,Direct,IDCW
-0P0001F4GL.BO,Groww Aggressive Hybrid Fund (formerly known as Indiabulls Equity Hybrid Fund)- Regular Plan- - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),Unknown,Regular,IDCW
-0P0001F4GO.BO,Groww Aggressive Hybrid Fund (formerly known as Indiabulls Equity Hybrid Fund)- Regular Plan- Half Yearly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),Unknown,Regular,IDCW
-0P0001F4GM.BO,Groww Aggressive Hybrid Fund (formerly known as Indiabulls Equity Hybrid Fund)- Regular Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment.,Unknown,Regular,IDCW
-0P0001F4GN.BO,Groww Aggressive Hybrid Fund (formerly known as Indiabulls Equity Hybrid Fund)- Regular Plan- Quarterly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),Unknown,Regular,IDCW
 0P0001EI18.BO,HDFC Hybrid Equity Fund - Growth Option - Direct Plan,HDFC Mutual Fund,Direct,Growth
 0P0001EI1B.BO,HDFC Hybrid Equity Fund - Growth Plan,HDFC Mutual Fund,Unknown,Growth
 0P0001EI16.BO,HDFC Hybrid Equity Fund - IDCW Option - Direct Plan,HDFC Mutual Fund,Direct,IDCW
@@ -5802,10 +5827,6 @@ CEMNTGROWW.NS,Groww Nifty Cements ETF,Unknown,Unknown,Unknown
 0P0001U199.BO,Franklin India Arbitrage Fund - Direct - IDCW,Franklin Templeton Mutual Fund,Direct,IDCW
 0P0001U19B.BO,Franklin India Arbitrage Fund - Growth,Franklin Templeton Mutual Fund,Unknown,Growth
 0P0001U19C.BO,Franklin India Arbitrage Fund - IDCW,Franklin Templeton Mutual Fund,Unknown,IDCW
-0P0002DNBG.BO,Groww Arbitrage Fund Direct Growth,Unknown,Direct,Growth
-0P0002DNBH.BO,Groww Arbitrage Fund Direct IDCW,Unknown,Direct,IDCW
-0P0002DNBJ.BO,Groww Arbitrage Fund Regular Growth,Unknown,Regular,Growth
-0P0002DNBK.BO,Groww Arbitrage Fund Regular IDCW,Unknown,Regular,IDCW
 0P00012M9D.BO,HDFC ARBITRAGE FUND - Monthly IDCW - Direct Plan,HDFC Mutual Fund,Direct,IDCW
 0P00012M9A.BO,HDFC ARBITRAGE FUND - Regular Plan - Monthly IDCW Option,HDFC Mutual Fund,Regular,IDCW
 0P0000AF09.BO,HDFC ARBITRAGE FUND - Regular Plan -Growth Option,HDFC Mutual Fund,Regular,Growth
@@ -5880,8 +5901,6 @@ CEMNTGROWW.NS,Groww Nifty Cements ETF,Unknown,Unknown,Unknown
 0P0000PYDD.BO,Nippon India Arbitrage Fund - Growth Plan - Growth Option,Nippon India Mutual Fund,Unknown,Growth
 0P0000PYDE.BO,NIPPON INDIA ARBITRAGE FUND - IDCW Option,Nippon India Mutual Fund,Unknown,IDCW
 0P00012N5W.BO,NIPPON INDIA ARBITRAGE FUND - MONTHLY IDCW Option,Nippon India Mutual Fund,Unknown,IDCW
-0P0001ORPI.BO,NJ Arbitrage Fund - Direct Plan - Growth Option,Unknown,Direct,Growth
-0P0001ORPF.BO,NJ Arbitrage Fund - Regular Plan - Growth Option,Unknown,Regular,Growth
 0P0001Y4W4.BO,Old Bridge Arbitrage Fund - Direct - IDCW,Unknown,Direct,IDCW
 0P0001Y4W1.BO,Old Bridge Arbitrage Fund Direct Growth,Unknown,Direct,Growth
 0P0001Y4W7.BO,Old Bridge Arbitrage Fund Regular Growth,Unknown,Regular,Growth
@@ -6167,10 +6186,6 @@ CEMNTGROWW.NS,Groww Nifty Cements ETF,Unknown,Unknown,Unknown
 0P00005WE2.BO,NIPPON INDIA BALANCED ADVANTAGE FUND - IDCW Option,Nippon India Mutual Fund,Unknown,IDCW
 0P00005WE1.BO,Nippon India Balanced Advantage Fund-Growth Plan-Bonus Option,Nippon India Mutual Fund,Unknown,Unknown
 0P00005WE3.BO,Nippon India Balanced Advantage Fund-Growth Plan-Growth Option,Nippon India Mutual Fund,Unknown,Unknown
-0P0001NF39.BO,NJ Balanced Advantage Fund - Direct Plan - Growth Option,Unknown,Direct,Growth
-0P0001NF3A.BO,NJ Balanced Advantage Fund - Direct Plan - IDCW Payout Option,Unknown,Direct,IDCW
-0P0001NF3B.BO,NJ Balanced Advantage Fund - Regular Plan - Growth Option,Unknown,Regular,Growth
-0P0001NF3C.BO,NJ Balanced Advantage Fund - Regular Plan - IDCW Payout Option,Unknown,Regular,IDCW
 0P0001LHSM.BO,PGIM India Balanced Advantage Fund -  Direct Plan - Growth Option,PGIM India Mutual Fund,Direct,Growth
 0P0001LHSN.BO,PGIM India Balanced Advantage Fund - Direct Plan - Dividend Option,PGIM India Mutual Fund,Direct,IDCW
 0P0001LHSQ.BO,PGIM India Balanced Advantage Fund - Regular Plan - Dividend Option,PGIM India Mutual Fund,Regular,IDCW
@@ -6438,10 +6453,6 @@ CEMNTGROWW.NS,Groww Nifty Cements ETF,Unknown,Unknown,Unknown
 0P0001WR2B.BO,Franklin India Multi Asset Allocation Fund- Direct-Growth,Franklin Templeton Mutual Fund,Unknown,Unknown
 0P0001WR2E.BO,Franklin India Multi Asset Allocation Fund- Growth,Franklin Templeton Mutual Fund,Unknown,Growth
 0P0001WR2F.BO,Franklin India Multi Asset Allocation Fund- IDCW,Franklin Templeton Mutual Fund,Unknown,IDCW
-0P0001XES5.BO,Groww Multi Asset Allocation Fund Direct Growth,Unknown,Direct,Growth
-0P0001XES6.BO,Groww Multi Asset Allocation Fund Direct IDCW,Unknown,Direct,IDCW
-0P0001XES8.BO,Groww Multi Asset Allocation Fund Regular Growth,Unknown,Regular,Growth
-0P0001XES9.BO,Groww Multi Asset Allocation Fund Regular IDCW,Unknown,Regular,IDCW
 0P00005V0Q.BO,HDFC Multi-Asset Fund - Growth Option,HDFC Mutual Fund,Unknown,Growth
 0P0000XW8O.BO,HDFC Multi-Asset Fund - Growth Option - Direct Plan,HDFC Mutual Fund,Direct,Growth
 0P00005V0P.BO,HDFC Multi-Asset Fund - IDCW Option,HDFC Mutual Fund,Unknown,IDCW
@@ -6528,6 +6539,16 @@ CEMNTGROWW.NS,Groww Nifty Cements ETF,Unknown,Unknown,Unknown
 0P0000IQ4U.BO,UTI Multi Asset Allocation Fund - Regular Plan - IDCW,UTI Mutual Fund,Regular,IDCW
 0P0001QXIS.BO,WhiteOak Capital Multi Asset Allocation Fund Direct Plan Growth,WhiteOak Capital Mutual Fund,Direct,Growth
 0P0001QXIT.BO,WhiteOak Capital Multi Asset Allocation Fund Regular Plan Growth,WhiteOak Capital Mutual Fund,Regular,Growth
+0P0001F4G7.BO,Groww Aggressive Hybrid Fund (formerly known as Indiabulls Equity Hybrid Fund) - Direct Plan - Growth option,Unknown,Direct,Growth
+0P0001F4GG.BO,Groww Aggressive Hybrid Fund (formerly known as Indiabulls Equity Hybrid Fund) - Regular Plan - Growth option,Unknown,Regular,Growth
+0P0001F4GC.BO,Groww Aggressive Hybrid Fund (formerly known as Indiabulls Equity Hybrid Fund)- Direct Plan- - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),Unknown,Direct,IDCW
+0P0001F4GF.BO,Groww Aggressive Hybrid Fund (formerly known as Indiabulls Equity Hybrid Fund)- Direct Plan- Half Yearly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),Unknown,Direct,IDCW
+0P0001F4GD.BO,Groww Aggressive Hybrid Fund (formerly known as Indiabulls Equity Hybrid Fund)- Direct Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),Unknown,Direct,IDCW
+0P0001F4GE.BO,Groww Aggressive Hybrid Fund (formerly known as Indiabulls Equity Hybrid Fund)- Direct Plan- Quarterly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),Unknown,Direct,IDCW
+0P0001F4GL.BO,Groww Aggressive Hybrid Fund (formerly known as Indiabulls Equity Hybrid Fund)- Regular Plan- - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),Unknown,Regular,IDCW
+0P0001F4GO.BO,Groww Aggressive Hybrid Fund (formerly known as Indiabulls Equity Hybrid Fund)- Regular Plan- Half Yearly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),Unknown,Regular,IDCW
+0P0001F4GM.BO,Groww Aggressive Hybrid Fund (formerly known as Indiabulls Equity Hybrid Fund)- Regular Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment.,Unknown,Regular,IDCW
+0P0001F4GN.BO,Groww Aggressive Hybrid Fund (formerly known as Indiabulls Equity Hybrid Fund)- Regular Plan- Quarterly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),Unknown,Regular,IDCW
 0P0001DJ5F.BO,Invesco India Aggressive Hybrid Fund - Direct Plan - Growth,Unknown,Direct,Growth
 0P0001DJ5G.BO,Invesco India Aggressive Hybrid Fund - Direct Plan - IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
 0P0001DJ5C.BO,Invesco India Aggressive Hybrid Fund - Regular Plan - Growth,Unknown,Regular,Growth
@@ -6538,11 +6559,17 @@ CEMNTGROWW.NS,Groww Nifty Cements ETF,Unknown,Unknown,Unknown
 0P0001HXMF.BO,Mahindra Manulife Aggressive Hybrid Fund - Regular Plan - Monthly IDCW,Unknown,Regular,IDCW
 0P00035HDK.BO,WhiteOak Capital Aggressive Hybrid Fund Direct Plan Growth,WhiteOak Capital Mutual Fund,Direct,Growth
 0P00035HDL.BO,WhiteOak Capital Aggressive Hybrid Fund Regular Plan Growth,WhiteOak Capital Mutual Fund,Regular,Growth
+0P0002DNBG.BO,Groww Arbitrage Fund Direct Growth,Unknown,Direct,Growth
+0P0002DNBH.BO,Groww Arbitrage Fund Direct IDCW,Unknown,Direct,IDCW
+0P0002DNBJ.BO,Groww Arbitrage Fund Regular Growth,Unknown,Regular,Growth
+0P0002DNBK.BO,Groww Arbitrage Fund Regular IDCW,Unknown,Regular,IDCW
 0P00013TMV.BO,Invesco India Arbitrage Fund - Direct Plan - Annual Bonus,Unknown,Direct,Unknown
 0P0000XVGF.BO,Invesco India Arbitrage Fund - Direct Plan - Growth Option,Unknown,Direct,Growth
 0P0000XVGH.BO,Invesco India Arbitrage Fund - Direct Plan - IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
 0P0000AF05.BO,Invesco India Arbitrage Fund - Regular Plan - Growth Option,Unknown,Regular,Growth
 0P0000AERS.BO,Invesco India Arbitrage Fund - Regular Plan - IDCW (Payout / Reinvestment),Unknown,Regular,IDCW
+0P0001ORPI.BO,NJ Arbitrage Fund - Direct Plan - Growth Option,Unknown,Direct,Growth
+0P0001ORPF.BO,NJ Arbitrage Fund - Regular Plan - Growth Option,Unknown,Regular,Growth
 0P0001SIX8.BO,Helios Balanced Advantage Fund- Direct Plan- Growth Option,Unknown,Direct,Growth
 0P0001SIX9.BO,Helios Balanced Advantage Fund- Direct Plan-IDCW Option,Unknown,Direct,Unknown
 0P0001SIXC.BO,Helios Balanced Advantage Fund- Regular Plan- Growth Option,Unknown,Regular,Growth
@@ -6555,6 +6582,10 @@ CEMNTGROWW.NS,Groww Nifty Cements ETF,Unknown,Unknown,Unknown
 0P0001O04U.BO,Mahindra Manulife Balanced Advantage Fund - Direct Plan - IDCW,Unknown,Direct,IDCW
 0P0001O04W.BO,Mahindra Manulife Balanced Advantage Fund - Regular Plan - Growth,Unknown,Regular,Growth
 0P0001O04X.BO,Mahindra Manulife Balanced Advantage Fund - Regular Plan - IDCW,Unknown,Regular,IDCW
+0P0001NF39.BO,NJ Balanced Advantage Fund - Direct Plan - Growth Option,Unknown,Direct,Growth
+0P0001NF3A.BO,NJ Balanced Advantage Fund - Direct Plan - IDCW Payout Option,Unknown,Direct,IDCW
+0P0001NF3B.BO,NJ Balanced Advantage Fund - Regular Plan - Growth Option,Unknown,Regular,Growth
+0P0001NF3C.BO,NJ Balanced Advantage Fund - Regular Plan - IDCW Payout Option,Unknown,Regular,IDCW
 0P0001FU1W.BO,Invesco India Equity Savings Fund - Direct Plan - Growth,Unknown,Direct,Growth
 0P0001FU1X.BO,Invesco India Equity Savings Fund - Direct Plan - IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
 0P0001FU1Z.BO,Invesco India Equity Savings Fund - Regular Plan - Growth,Unknown,Regular,Growth
@@ -6563,6 +6594,10 @@ CEMNTGROWW.NS,Groww Nifty Cements ETF,Unknown,Unknown,Unknown
 0P00035VW6.BO,ALPHAGREP MULTI ASSET ALLOCATION FUND-DIRECT-IDCW,Unknown,Unknown,Unknown
 0P00035VW8.BO,ALPHAGREP MULTI ASSET ALLOCATION FUND-REGULAR-GROWTH,Unknown,Unknown,Unknown
 0P00035VW9.BO,ALPHAGREP MULTI ASSET ALLOCATION FUND-REGULAR-IDCW,Unknown,Unknown,Unknown
+0P0001XES5.BO,Groww Multi Asset Allocation Fund Direct Growth,Unknown,Direct,Growth
+0P0001XES6.BO,Groww Multi Asset Allocation Fund Direct IDCW,Unknown,Direct,IDCW
+0P0001XES8.BO,Groww Multi Asset Allocation Fund Regular Growth,Unknown,Regular,Growth
+0P0001XES9.BO,Groww Multi Asset Allocation Fund Regular IDCW,Unknown,Regular,IDCW
 0P0001U54O.BO,Invesco India Multi Asset Allocation Fund - Direct Plan - Growth,Unknown,Direct,Growth
 0P0001U54P.BO,Invesco India Multi Asset Allocation Fund - Direct Plan - IDCW,Unknown,Direct,IDCW
 0P0001U54R.BO,Invesco India Multi Asset Allocation Fund - Regular Plan - Growth,Unknown,Regular,Growth
@@ -6783,6 +6818,16 @@ CEMNTGROWW.NS,Groww Nifty Cements ETF,Unknown,Unknown,Unknown
 0P000147EM.BO,Invesco India Credit Risk Fund - Regular Plan - Discretionary IDCW (Payout / Reinvestment),Unknown,Regular,IDCW
 0P000147EI.BO,Invesco India Credit Risk Fund - Regular Plan - Growth,Unknown,Regular,Growth
 0P000147EJ.BO,Invesco India Credit Risk Fund - Regular Plan - Monthly IDCW (Payout / Reinvestment),Unknown,Regular,IDCW
+0P0001F40T.BO,Groww Dynamic Term Fund (formerly known as Indiabulls Dynamic Bond Fund) - Direct Plan - Growth option,Unknown,Direct,Growth
+0P0001F414.BO,Groww Dynamic Term Fund (formerly known as Indiabulls Dynamic Bond Fund) - Regular Plan - Growth option,Unknown,Regular,Growth
+,Groww Dynamic Term Fund (formerly known as Indiabulls Dynamic Bond Fund)- Direct Plan- - Income Distribution cum capital withdrawal Option ( Reinvestment),Unknown,Direct,IDCW
+0P0001F40Z.BO,Groww Dynamic Term Fund (formerly known as Indiabulls Dynamic Bond Fund)- Direct Plan- Fortnightly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),Unknown,Direct,IDCW
+0P0001F410.BO,Groww Dynamic Term Fund (formerly known as Indiabulls Dynamic Bond Fund)- Direct Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),Unknown,Direct,IDCW
+0P0001F40Y.BO,Groww Dynamic Term Fund (formerly known as Indiabulls Dynamic Bond Fund)- Direct Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),Unknown,Direct,IDCW
+,Groww Dynamic Term Fund (formerly known as Indiabulls Dynamic Bond Fund)- Regular Plan- - Income Distribution cum capital withdrawal Option ( Reinvestment),Unknown,Regular,IDCW
+0P0001F41A.BO,Groww Dynamic Term Fund (formerly known as Indiabulls Dynamic Bond Fund)- Regular Plan- Fortnightly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),Unknown,Regular,IDCW
+0P0001F41B.BO,Groww Dynamic Term Fund (formerly known as Indiabulls Dynamic Bond Fund)- Regular Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),Unknown,Regular,IDCW
+0P0001F419.BO,Groww Dynamic Term Fund (formerly known as Indiabulls Dynamic Bond Fund)- Regular Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),Unknown,Regular,IDCW
 0P0001AFGH.BO,HSBC Dynamic Bond Fund - Direct Annual IDCW,HSBC Mutual Fund,Direct,IDCW
 0P0000XV6Y.BO,HSBC Dynamic Bond Fund - Direct Growth,HSBC Mutual Fund,Direct,Growth
 0P0000XV6Z.BO,HSBC Dynamic Bond Fund - Direct Monthly IDCW,HSBC Mutual Fund,Direct,IDCW
@@ -6799,6 +6844,10 @@ CEMNTGROWW.NS,Groww Nifty Cements ETF,Unknown,Unknown,Unknown
 0P0001MRTF.BO,ITI Dynamic Term Fund - Regular Plan - Half Yearly IDCW Option,Unknown,Regular,IDCW
 0P0001MRTD.BO,ITI Dynamic Term Fund - Regular Plan - Monthly IDCW Option,Unknown,Regular,IDCW
 0P0001MRTE.BO,ITI Dynamic Term Fund - Regular Plan - Quarterly IDCW Option,Unknown,Regular,IDCW
+0P0001V3SY.BO,Groww Gilt Fund - Direct - Growth,Unknown,Direct,Growth
+0P0001V3SZ.BO,Groww Gilt Fund - Direct - IDCW,Unknown,Direct,IDCW
+0P0001V3T1.BO,Groww Gilt Fund - Regular - Growth,Unknown,Regular,Growth
+0P0001V3T2.BO,Groww Gilt Fund - Regular - IDCW,Unknown,Regular,IDCW
 0P0000XVGW.BO,Invesco India Gilt Fund - Direct  Plan - Growth,Unknown,Direct,Growth
 0P0000XVH3.BO,Invesco India Gilt Fund - Direct Plan - Annual IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
 ,Invesco India Gilt Fund - Direct Plan - Monthly IDCW (Reinvestment),Unknown,Direct,IDCW
@@ -6818,6 +6867,16 @@ CEMNTGROWW.NS,Groww Nifty Cements ETF,Unknown,Unknown,Unknown
 ,Abakkus Liquid Fund - Regular Plan - Quarterly IDCW Reinvestment,Unknown,Regular,IDCW
 ,Abakkus Liquid Fund - Regular Plan - Weekly IDCW Reinvestment,Unknown,Regular,IDCW
 ,Abakkus Liquid Fund - Unclaimed Redemption Less than 3 Years,Unknown,Unknown,Unknown
+0P0000XV1V.BO,Groww Liquid Fund ( formerly known as Indiabulls Liquid )Fund - Direct Plan - Growth Option,Unknown,Direct,Growth
+,Groww Liquid Fund (formerly known as Indiabulls Liquid Fund) - Direct Plan- - Income Distribution cum capital withdrawal Option ( Reinvestment),Unknown,Direct,IDCW
+0P0000UJI5.BO,Groww Liquid Fund (formerly known as Indiabulls Liquid Fund) - Regular Plan - Growth Option,Unknown,Regular,Growth
+0P00019PNE.BO,Groww Liquid Fund (formerly known as Indiabulls Liquid Fund)- Direct Plan- Fortnightly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),Unknown,Direct,IDCW
+0P0000Z3EH.BO,Groww Liquid Fund (formerly known as Indiabulls Liquid Fund)- Direct Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),Unknown,Direct,IDCW
+0P00012KCD.BO,Groww Liquid Fund (formerly known as Indiabulls Liquid Fund)- Direct Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),Unknown,Direct,IDCW
+,Groww Liquid Fund (formerly known as Indiabulls Liquid Fund)- Regular Plan- - Income Distribution cum capital withdrawal Option (Reinvestment),Unknown,Regular,IDCW
+0P0000UJI9.BO,Groww Liquid Fund (formerly known as Indiabulls Liquid Fund)- Regular Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),Unknown,Regular,IDCW
+0P0000UJI7.BO,Groww Liquid Fund (formerly known as Indiabulls Liquid Fund)- Regular Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),Unknown,Regular,IDCW
+0P0000UJI8.BO,Groww Liquid Fund (formerly known as Indiabulls Liquid) Fund- Regular Plan- Fortnightly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),Unknown,Regular,IDCW
 ,Invesco India Liquid Fund - Daily IDCW (Reinvestment),Unknown,Unknown,IDCW
 0P0000XVHA.BO,Invesco India Liquid Fund - Direct Plan - Growth,Unknown,Direct,Growth
 0P0000XVHB.BO,Invesco India Liquid Fund - Direct Plan - Monthly IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
@@ -6832,6 +6891,12 @@ CEMNTGROWW.NS,Groww Nifty Cements ETF,Unknown,Unknown,Unknown
 ,Invesco India Liquid Fund - Unclaimed Redemption Plan - Above 3 Years,Unknown,Unknown,Unknown
 ,Invesco India Liquid Fund - Unclaimed Redemption Plan - Below 3 years,Unknown,Unknown,Unknown
 0P0001YLJ9.BO,Invesco India Liquid Fund - Weekly IDCW (Reinvestment),Unknown,Unknown,IDCW
+,Kotak Liquid Fund - Direct Plan - Daily Reinvestment of Income Distribution cum capital withdrawal option,Kotak Mahindra Mutual Fund,Direct,IDCW
+0P0000XV6E.BO,Kotak Liquid Fund - Direct Plan - Growth,Kotak Mahindra Mutual Fund,Direct,Growth
+,Kotak Liquid Fund - Direct Plan - Weekly - Reinvestment & Payout of Income Distribution cum capital withdrawal option,Kotak Mahindra Mutual Fund,Direct,IDCW
+,Kotak Liquid Fund - Regular  - Daily Reinvestment of Income Distribution cum capital withdrawal option,Kotak Mahindra Mutual Fund,Regular,IDCW
+0P00005WU8.BO,Kotak Liquid Fund - Regular Plan - Growth,Kotak Mahindra Mutual Fund,Regular,Growth
+,Kotak Liquid Fund - Regular Plan - Weekly - Reinvestment & Payout of Income Distribution cum capital withdrawal option,Kotak Mahindra Mutual Fund,Regular,IDCW
 0P00015OOF.BO,UTI Liquid Fund - Direct Plan - Annual IDCW,UTI Mutual Fund,Direct,IDCW
 ,UTI Liquid Fund - Direct Plan - Daily IDCW (Reinvestment),UTI Mutual Fund,Direct,IDCW
 0P0001BI1G.BO,UTI Liquid Fund - Direct Plan - Flexi IDCW,UTI Mutual Fund,Direct,IDCW
@@ -6859,6 +6924,16 @@ CEMNTGROWW.NS,Groww Nifty Cements ETF,Unknown,Unknown,Unknown
 0P0001MS92.BO,Invesco India Medium Duration Fund - Regular Plan - Discretionary IDCW(Payout / Reinvestment)),Unknown,Regular,IDCW
 0P0001MS93.BO,Invesco India Medium Duration Fund - Regular Plan - Growth,Unknown,Regular,Growth
 0P0001MS91.BO,Invesco India Medium Duration Fund - Regular Plan - Quarterly IDCW (Payout / Reinvestment),Unknown,Regular,IDCW
+0P0001RBZ7.BO,Bajaj Finserv Money Market Fund-Direct Plan-Growth,Bajaj Finserv Mutual Fund,Unknown,Unknown
+0P0001RBZD.BO,Bajaj Finserv Money Market Fund-Direct Plan-IDCW,Bajaj Finserv Mutual Fund,Unknown,Unknown
+0P0001RBZ8.BO,Bajaj Finserv Money Market Fund-Direct Plan-Monthly-IDCW,Bajaj Finserv Mutual Fund,Unknown,Unknown
+0P0001RBZA.BO,Bajaj Finserv Money Market Fund-Regular Plan-Growth,Bajaj Finserv Mutual Fund,Unknown,Unknown
+0P0001RBZF.BO,Bajaj Finserv Money Market Fund-Regular Plan-IDCW,Bajaj Finserv Mutual Fund,Unknown,Unknown
+0P0001RBZB.BO,Bajaj Finserv Money Market Fund-Regular Plan-Monthly-IDCW,Bajaj Finserv Mutual Fund,Unknown,Unknown
+0P0001Y6XU.BO,Groww Money Market Fund Direct Growth,Unknown,Direct,Growth
+0P0001Y6XW.BO,Groww Money Market Fund Direct IDCW,Unknown,Direct,IDCW
+0P0001Y6XV.BO,Groww Money Market Fund Regular Growth,Unknown,Regular,Growth
+0P0001Y6XY.BO,Groww Money Market Fund Regular IDCW,Unknown,Regular,IDCW
 ,Invesco India Money Market Fund - Daily IDCW (Reinvestment),Unknown,Unknown,IDCW
 ,Invesco India Money Market Fund - Direct Plan - Daily IDCW (Reinvestment),Unknown,Direct,IDCW
 0P0000XVGO.BO,Invesco India Money Market Fund - Direct Plan - Discretionary IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
@@ -6877,10 +6952,25 @@ CEMNTGROWW.NS,Groww Nifty Cements ETF,Unknown,Unknown,Unknown
 0P00005WT6.BO,Kotak Money market Fund - (Monthly Payout of Income Distribution cum capital withdrawal option),Kotak Mahindra Mutual Fund,Unknown,IDCW
 0P0000XV65.BO,Kotak Money Market Fund - (Monthly Payout of Income Distribution cum capital withdrawal option) - Direct,Kotak Mahindra Mutual Fund,Direct,IDCW
 ,Kotak Money Market Fund - Direct - IDCW Weekly,Kotak Mahindra Mutual Fund,Direct,IDCW
+,Kotak Money Market Fund - Regular - IDCW Weekly,Kotak Mahindra Mutual Fund,Regular,IDCW
 ,Choice Overnight Fund - Daily IDCW Option - Direct Plan,Unknown,Direct,IDCW
 ,Choice Overnight Fund - Daily IDCW Option - Regular Plan,Unknown,Regular,IDCW
 0P00035T1Q.BO,Choice Overnight Fund - Growth Option - Direct Plan,Unknown,Direct,Growth
 0P00035T1S.BO,Choice Overnight Fund - Growth Option - Regular Plan,Unknown,Regular,Growth
+,Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Direct Plan- - Income Distribution cum capital withdrawal Option ( Reinvestment),Unknown,Direct,IDCW
+0P0001HUZT.BO,Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Direct Plan- Fortnightly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),Unknown,Direct,IDCW
+0P0001HUZW.BO,Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Direct Plan- Growth Option,Unknown,Direct,Growth
+0P0001HV0D.BO,Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Direct Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),Unknown,Direct,IDCW
+0P0001HUZZ.BO,Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Direct Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),Unknown,Direct,IDCW
+,Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Regular Plan- - Income Distribution cum capital withdrawal Option ( Reinvestment),Unknown,Regular,IDCW
+0P0001HV03.BO,Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Regular Plan- Fortnightly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),Unknown,Regular,IDCW
+0P0001HV06.BO,Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Regular Plan- Growth Option,Unknown,Regular,Growth
+0P0001HV07.BO,Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Regular Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),Unknown,Regular,IDCW
+0P0001HV09.BO,Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Regular Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),Unknown,Regular,IDCW
+,Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Unclaimed Dividend < 3 years,Unknown,Unknown,IDCW
+,Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Unclaimed Dividend > 3 Years,Unknown,Unknown,IDCW
+,Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Unclaimed Redemption < 3 Years,Unknown,Unknown,Unknown
+,Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Unclaimed Redemption > 3 Years,Unknown,Unknown,Unknown
 0P0001RQS3.BO,Helios Overnight Fund - Direct Plan - Daily IDCW Option,Unknown,Direct,IDCW
 0P0001RQS2.BO,Helios Overnight Fund - Direct Plan - Growth Option,Unknown,Direct,Growth
 0P0001RQS5.BO,Helios Overnight Fund - Regular Plan - Daily IDCW Option,Unknown,Regular,IDCW
@@ -6893,6 +6983,17 @@ CEMNTGROWW.NS,Groww Nifty Cements ETF,Unknown,Unknown,Unknown
 0P0001J1BR.BO,Invesco India Overnight Fund - Regular Plan - Growth,Unknown,Regular,Growth
 0P0001J1BS.BO,Invesco India Overnight Fund - Regular Plan - Monthly IDCW (Payout / Reinvestment),Unknown,Regular,IDCW
 ,Invesco India Overnight Fund - Regular Plan - Weekly IDCW (Reinvestment),Unknown,Regular,IDCW
+0P0001ORIY.BO,NJ Overnight Fund - Direct Plan - Growth Option,Unknown,Direct,Growth
+0P0001ORIZ.BO,NJ Overnight Fund - Regular Plan - Growth Option,Unknown,Regular,Growth
+,NJ Overnight Fund - Unclaimed Redemption Plan - Upto 3 Years,Unknown,Unknown,Unknown
+0P0000ZK6S.BO,Groww Short Term Fund (formerly known as Indiabulls Short Term Fund )- Regular Plan - Growth Option,Unknown,Regular,Growth
+0P0000ZK6V.BO,Groww Short Term Fund (formerly known as Indiabulls Short Term Fund) - Direct Plan - Growth Option,Unknown,Direct,Growth
+0P00017I1L.BO,Groww Short Term Fund (formerly known as Indiabulls Short Term Fund)- Direct Plan- Fortnightly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),Unknown,Direct,IDCW
+0P0000ZK6X.BO,Groww Short Term Fund (formerly known as Indiabulls Short Term Fund)- Direct Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),Unknown,Direct,IDCW
+0P0000ZK6W.BO,Groww Short Term Fund (formerly known as Indiabulls Short Term Fund)- Direct Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),Unknown,Direct,IDCW
+0P000184G1.BO,Groww Short Term Fund (formerly known as Indiabulls Short Term Fund)- Regular Plan- Fortnightly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),Unknown,Regular,IDCW
+0P0000ZK6U.BO,Groww Short Term Fund (formerly known as Indiabulls Short Term Fund)- Regular Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),Unknown,Regular,IDCW
+0P0000ZK6T.BO,Groww Short Term Fund (formerly known as Indiabulls Short Term Fund)- Regular Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),Unknown,Regular,IDCW
 ,Invesco India Short Duration Fund - Direct Plan - Daily IDCW (Reinvestment),Unknown,Direct,IDCW
 0P0000XVHV.BO,Invesco India Short Duration Fund - Direct Plan - Growth,Unknown,Direct,Growth
 0P0000XVHS.BO,Invesco India Short Duration Fund - Direct Plan - Monthly IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
@@ -6918,7 +7019,7 @@ CEMNTGROWW.NS,Groww Nifty Cements ETF,Unknown,Unknown,Unknown
 0P0000XVHN.BO,Invesco India Ultra Short Duration Fund - Direct Plan - Growth,Unknown,Direct,Growth
 0P0000XVHK.BO,Invesco India Ultra Short Duration Fund - Direct Plan - Monthly IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
 0P0000XVHP.BO,Invesco India Ultra Short Duration Fund - Direct Plan - Quarterly IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
-,Invesco India Ultra Short Duration Fund - Direct Plan - Weekly IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
+0P00036TLR.BO,Invesco India Ultra Short Duration Fund - Direct Plan - Weekly IDCW (Payout / Reinvestment),Unknown,Direct,IDCW
 0P0000RZA3.BO,Invesco India Ultra Short Duration Fund - Regular Plan - Annual IDCW (Payout / Reinvestment),Unknown,Regular,IDCW
 ,Invesco India Ultra Short Duration Fund - Regular Plan - Daily IDCW (Reinvestment),Unknown,Regular,IDCW
 0P0000RZA0.BO,Invesco India Ultra Short Duration Fund - Regular Plan - Growth,Unknown,Regular,Growth
@@ -6938,6 +7039,7 @@ CEMNTGROWW.NS,Groww Nifty Cements ETF,Unknown,Unknown,Unknown
 0P0001M4ED.BO,ITI Ultra Short Term Fund - Regular Plan - Monthly IDCW Option,Unknown,Regular,IDCW
 ,ITI Ultra Short Term Fund - Regular Plan - Weekly IDCW Option,Unknown,Regular,IDCW
 ,Kotak Savings Fund - Direct - IDCW Weekly,Kotak Mahindra Mutual Fund,Direct,IDCW
+,Kotak Savings Fund - Regular - IDCW Weekly,Kotak Mahindra Mutual Fund,Regular,IDCW
 0P00005WT3.BO,Kotak Savings Fund -Growth,Kotak Mahindra Mutual Fund,Unknown,Growth
 0P0001BAU7.BO,Kotak Savings Fund -Monthly Payout of Income Distribution cum capital withdrawal option,Kotak Mahindra Mutual Fund,Unknown,IDCW
 0P0000XV5Z.BO,Kotak Savings Fund-Growth - Direct,Kotak Mahindra Mutual Fund,Direct,Unknown
@@ -7000,14 +7102,56 @@ CEMNTGROWW.NS,Groww Nifty Cements ETF,Unknown,Unknown,Unknown
 0P0001LX8Z.BO,Aditya Birla Sun Life Nifty Smallcap 50 Index Fund-Direct Growth,Aditya Birla Sun Life Mutual Fund,Unknown,Growth
 0P0001LX93.BO,Aditya Birla Sun Life Nifty Smallcap 50 Index Fund-Regular - Payout of IDCW,Aditya Birla Sun Life Mutual Fund,Unknown,IDCW
 0P0001LX92.BO,Aditya Birla Sun Life Nifty Smallcap 50 Index Fund-Regular Growth,Aditya Birla Sun Life Mutual Fund,Unknown,Growth
+0P0001WDP1.BO,Groww Nifty 50 Index Fund Direct Growth,Unknown,Direct,Growth
+0P0001WDP2.BO,Groww Nifty 50 Index Fund Direct IDCW,Unknown,Direct,IDCW
+0P0001WDP4.BO,Groww Nifty 50 Index Fund Regular Growth,Unknown,Regular,Growth
+0P0001WDP5.BO,Groww Nifty 50 Index Fund Regular IDCW,Unknown,Regular,IDCW
+0P0001UHGT.BO,Groww Nifty India Railways PSU Index Fund - Direct Plan - Growth,Unknown,Direct,Growth
+0P0001UHGU.BO,Groww Nifty India Railways PSU Index Fund - Direct Plan - IDCW,Unknown,Direct,IDCW
+0P0001UHGW.BO,Groww Nifty India Railways PSU Index Fund - Regular Plan - Growth,Unknown,Regular,Growth
+0P0001UHGX.BO,Groww Nifty India Railways PSU Index Fund - Regular Plan - IDCW,Unknown,Regular,IDCW
+0P0001Y2VN.BO,Groww Nifty Midcap 150 Index Fund Direct Growth,Unknown,Direct,Growth
+0P0001Y2VO.BO,Groww Nifty Midcap 150 Index fund Direct IDCW,Unknown,Direct,IDCW
+0P0001Y2VQ.BO,Groww Nifty Midcap 150 Index Fund Regular Growth,Unknown,Regular,Growth
+0P0001Y2VR.BO,Groww Nifty Midcap 150 Index Fund Regular IDCW,Unknown,Regular,IDCW
+0P0001X72T.BO,Groww Nifty Next 50 Index Fund Direct Growth,Unknown,Direct,Growth
+0P0001X72U.BO,Groww Nifty Next 50 Index Fund Direct IDCW,Unknown,Direct,IDCW
+0P0001X72W.BO,Groww Nifty Next 50 Index Fund Regular Growth,Unknown,Regular,Growth
+0P0001X72X.BO,Groww Nifty Next 50 Index Fund Regular IDCW,Unknown,Regular,IDCW
+0P0001SUZK.BO,Groww Nifty Non-Cyclical Consumer Index Fund - Direct Plan - IDCW,Unknown,Direct,IDCW
+0P0001SUZJ.BO,Groww Nifty Non-Cyclical Consumer Index Fund - Direct Plan Growth,Unknown,Direct,Growth
+0P0001SUZN.BO,Groww Nifty Non-Cyclical Consumer Index Fund - IDCW,Unknown,Unknown,IDCW
+0P0001SUZM.BO,Groww Nifty Non-Cyclical Consumer Index Fund - Regular Plan - Growth,Unknown,Regular,Growth
+0P0002P6LA.BO,Groww Nifty Private Bank Index Fund Direct Growth,Unknown,Direct,Growth
+0P0002P6LB.BO,Groww Nifty Private Bank Index Fund Direct IDCW,Unknown,Direct,IDCW
+0P0002P6LD.BO,Groww Nifty Private Bank Index Fund Regular Growth,Unknown,Regular,Growth
+0P0002P6LE.BO,Groww Nifty Private Bank Index Fund Regular IDCW,Unknown,Regular,IDCW
+0P00021E6G.BO,Groww Nifty PSU Bank Index Fund Direct Growth,Unknown,Direct,Growth
+0P00021E6H.BO,Groww Nifty PSU Bank Index Fund Direct IDCW,Unknown,Direct,IDCW
+0P00021E6J.BO,Groww Nifty PSU Bank Index Fund Regular Growth,Unknown,Regular,Growth
+0P00021E6K.BO,Groww Nifty PSU Bank Index Fund Regular IDCW,Unknown,Regular,IDCW
+0P0001SDCV.BO,Groww Nifty Smallcap 250 Index Fund - Direct Plan - Growth,Unknown,Direct,Growth
+0P0001SDCW.BO,Groww Nifty Smallcap 250 Index Fund - Direct Plan - IDCW,Unknown,Direct,IDCW
+0P0001SDCY.BO,Groww Nifty Smallcap 250 Index Fund - Regular Plan - Growth,Unknown,Regular,Growth
+0P0001SDCZ.BO,Groww Nifty Smallcap 250 Index Fund - Regular Plan - Regular Plan - IDCW,Unknown,Regular,IDCW
+0P00035GEM.BO,Groww Nifty Smallcap 250 Momentum Quality 100 Index Fund Direct Growth,Unknown,Direct,Growth
+0P00035GEN.BO,Groww Nifty Smallcap 250 Momentum Quality 100 Index Fund Direct IDCW,Unknown,Direct,IDCW
+0P00035GEP.BO,Groww Nifty Smallcap 250 Momentum Quality 100 Index Fund Regular Growth,Unknown,Regular,Growth
+0P00035GEQ.BO,Groww Nifty Smallcap 250 Momentum Quality 100 Index Fund Regular IDCW,Unknown,Regular,IDCW
+0P0001RNUZ.BO,Groww Nifty Total Market Index Fund - Direct Plan - Growth,Unknown,Direct,Growth
+0P0001RNV0.BO,Groww Nifty Total Market Index Fund - Direct Plan - IDCW,Unknown,Direct,IDCW
+0P0001RNV2.BO,Groww Nifty Total Market Index Fund - Regular Plan - Growth,Unknown,Regular,Growth
+0P0001RNV3.BO,Groww Nifty Total Market Index Fund - Regular Plan - IDCW,Unknown,Regular,IDCW
+0P00035VVX.BO,HDFC Nifty Auto Index Fund- Direct Plan- Growth Option,HDFC Mutual Fund,Direct,Growth
+0P00035VVY.BO,HDFC Nifty Auto Index Fund- Growth Option,HDFC Mutual Fund,Unknown,Growth
 0P0002F1IF.BO,Invesco India BSE Sensex Index Fund - Direct Plan - Growth,Unknown,Direct,Growth
 0P0002F1IG.BO,Invesco India BSE Sensex Index Fund - Regular Plan - Growth,Unknown,Regular,Growth
 0P0002F1IH.BO,Invesco India Nifty Bank Index Fund - Direct Plan - Growth,Unknown,Direct,Growth
 0P0002F1IE.BO,Invesco India Nifty Bank Index Fund - Regular Plan - Growth,Unknown,Regular,Growth
-,Mirae Asset Nifty200 Momentum 30 Plus 8-13yr G-Sec 75:25 Index Fund - Direct Plan - Growth,Mirae Asset Mutual Fund,Direct,Growth
-,Mirae Asset Nifty200 Momentum 30 Plus 8-13yr G-Sec 75:25 Index Fund - Direct Plan - IDCW,Mirae Asset Mutual Fund,Direct,IDCW
-,Mirae Asset Nifty200 Momentum 30 Plus 8-13yr G-Sec 75:25 Index Fund - Regular Plan - Growth,Mirae Asset Mutual Fund,Regular,Growth
-,Mirae Asset Nifty200 Momentum 30 Plus 8-13yr G-Sec 75:25 Index Fund - Regular Plan - IDCW,Mirae Asset Mutual Fund,Regular,IDCW
+0P0003613P.BO,Mirae Asset Nifty200 Momentum 30 Plus 8-13yr G-Sec 75:25 Index Fund - Direct Plan - Growth,Mirae Asset Mutual Fund,Direct,Growth
+0P0003613Q.BO,Mirae Asset Nifty200 Momentum 30 Plus 8-13yr G-Sec 75:25 Index Fund - Direct Plan - IDCW,Mirae Asset Mutual Fund,Direct,IDCW
+0P0003613S.BO,Mirae Asset Nifty200 Momentum 30 Plus 8-13yr G-Sec 75:25 Index Fund - Regular Plan - Growth,Mirae Asset Mutual Fund,Regular,Growth
+0P0003613T.BO,Mirae Asset Nifty200 Momentum 30 Plus 8-13yr G-Sec 75:25 Index Fund - Regular Plan - IDCW,Mirae Asset Mutual Fund,Regular,IDCW
 ,Zerodha Life Cycle Fund 2036 - Direct - Growth,Unknown,Direct,Growth
 ,Zerodha Life Cycle Fund 2041 - Direct - Growth,Unknown,Direct,Growth
 ,Taurus Investor Education Pool - Unclaimed Dividend - Growth,Unknown,Unknown,IDCW
@@ -7181,54 +7325,6 @@ CEMNTGROWW.NS,Groww Nifty Cements ETF,Unknown,Unknown,Unknown
 0P0001508L.BO,Franklin India Income Plus Arbitrage Active Fund of Funds- Growth Plan,Franklin Templeton Mutual Fund,Unknown,Growth
 0P0001508N.BO,Franklin India Income Plus Arbitrage Active Fund of Funds- Growth Plan - Direct,Franklin Templeton Mutual Fund,Direct,Growth
 0P0001508M.BO,Franklin India Income Plus Arbitrage Active Fund of Funds- IDCW,Franklin Templeton Mutual Fund,Unknown,IDCW
-0P00020AOT.BO,Groww BSE Hospitals ETF FOF Direct Growth,Unknown,Direct,Growth
-0P00020AOU.BO,Groww BSE Hospitals ETF FOF Direct IDCW,Unknown,Direct,IDCW
-0P00020AOX.BO,Groww BSE Hospitals ETF FOF Regular Growth,Unknown,Regular,Growth
-0P00020AOY.BO,Groww BSE Hospitals ETF FOF Regular IDCW,Unknown,Regular,IDCW
-0P0001WWBH.BO,Groww BSE Power ETF FOF Direct Growth,Unknown,Direct,Growth
-0P0001WWBI.BO,Groww BSE Power ETF FOF Direct IDCW,Unknown,Direct,IDCW
-0P0001WWBK.BO,Groww BSE Power ETF FOF Regular Growth,Unknown,Regular,Growth
-0P0001WWBL.BO,Groww BSE Power ETF FOF Regular IDCW,Unknown,Regular,IDCW
-0P0001TWHU.BO,Groww Gold ETF FOF - DIRECT - GROWTH,Unknown,Direct,Growth
-0P0001TWHV.BO,Groww Gold ETF FOF - DIRECT - IDCW,Unknown,Direct,IDCW
-0P0001TWHX.BO,Groww Gold ETF FOF - REGULAR - GROWTH,Unknown,Regular,Growth
-0P0001TWHY.BO,Groww Gold ETF FOF - REGULAR - IDCW,Unknown,Regular,IDCW
-0P0001YDRN.BO,Groww Multi Asset Omni FOF Direct Growth,Unknown,Direct,Growth
-0P0001YDRQ.BO,Groww Multi Asset Omni FOF Direct IDCW,Unknown,Direct,IDCW
-0P0001YDRX.BO,Groww Multi Asset Omni FOF Regular Growth,Unknown,Regular,Growth
-0P0001YDS0.BO,Groww Multi Asset Omni FOF Regular IDCW,Unknown,Regular,IDCW
-0P0001UN4T.BO,Groww Nifty 200 ETF FOF - Direct - Growth,Unknown,Direct,Growth
-0P0001UN4U.BO,Groww Nifty 200 ETF FOF - Direct - IDCW,Unknown,Direct,IDCW
-0P0001UN4W.BO,Groww Nifty 200 ETF FOF - Regular - Growth,Unknown,Regular,Growth
-0P0001UN4X.BO,Groww Nifty 200 ETF FOF - Regular - IDCW,Unknown,Regular,IDCW
-0P0001UZTB.BO,Groww Nifty 500 Momentum 50 ETF FOF - Direct Plan - Growth,Unknown,Direct,Growth
-0P0001UZTD.BO,Groww Nifty 500 Momentum 50 ETF FOF - Direct Plan - IDCW,Unknown,Direct,IDCW
-0P0001UZTG.BO,Groww Nifty 500 Momentum 50 ETF FOF - Regular Plan - IDCW,Unknown,Regular,IDCW
-0P0001UZTE.BO,Groww Nifty 500 Momentum 50 ETF FOF - Regular Plan- Growth,Unknown,Regular,Growth
-0P0001XQHU.BO,Groww Nifty Capital Markets ETF FOF Direct Growth,Unknown,Direct,Growth
-0P0001XQHW.BO,Groww Nifty Capital Markets ETF FOF Direct IDCW,Unknown,Direct,IDCW
-0P0001XQHX.BO,Groww Nifty Capital Markets ETF FOF Regular Growth,Unknown,Regular,Growth
-0P0001XQHZ.BO,Groww Nifty Capital Markets ETF FOF Regular IDCW,Unknown,Regular,IDCW
-0P0001TE4H.BO,Groww Nifty EV & New Age Automotive ETF FOF - Direct Plan - IDCW,Unknown,Direct,IDCW
-0P0001TE4J.BO,Groww Nifty EV & New Age Automotive ETF FOF - Regular Plan - Growth,Unknown,Regular,Growth
-0P0001TE4K.BO,Groww Nifty EV & New Age Automotive ETF FOF - Regular Plan - IDCW,Unknown,Regular,IDCW
-0P0001TE4G.BO,Groww Nifty EV & New Age Automotive ETF FOF- Direct Plan - Growth,Unknown,Direct,Growth
-0P0001TQNV.BO,Groww Nifty India Defence ETF FOF - Direct - IDCW,Unknown,Direct,IDCW
-0P0001TQNU.BO,Groww Nifty India Defence ETF FOF - Direct Growth,Unknown,Direct,Growth
-0P0001TQNX.BO,Groww Nifty India Defence ETF FOF - Regular - Growth,Unknown,Regular,Growth
-0P0001TQNY.BO,Groww Nifty India Defence ETF FOF - Regular - IDCW,Unknown,Regular,IDCW
-0P0001VNYW.BO,Groww Nifty India Internet ETF FOF - Direct - Growth,Unknown,Direct,Growth
-0P0001VNYX.BO,Groww Nifty India Internet ETF FOF - Direct - IDCW,Unknown,Direct,IDCW
-0P0001VNYZ.BO,Groww Nifty India Internet ETF FOF - Regular - Growth,Unknown,Regular,Growth
-0P0001VNZ0.BO,Groww Nifty India Internet ETF FOF - Regular - IDCW,Unknown,Regular,IDCW
-0P0001YPXD.BO,Groww Nifty PSE ETF FOF Direct Growth,Unknown,Direct,Growth
-0P0001YPXE.BO,Groww Nifty PSE ETF FOF Direct IDCW,Unknown,Direct,IDCW
-0P0001YPXG.BO,Groww Nifty PSE ETF FOF Regular Growth,Unknown,Regular,Growth
-0P0001YPXH.BO,Groww Nifty PSE ETF FOF Regular IDCW,Unknown,Regular,IDCW
-0P0001V7D7.BO,Groww Silver ETF FOF - Direct - Growth,Unknown,Direct,Growth
-0P0001V7D8.BO,Groww Silver ETF FOF - Direct - IDCW,Unknown,Direct,IDCW
-0P0001V7DA.BO,Groww Silver ETF FOF - Regular - Growth,Unknown,Regular,Growth
-0P0001V7DB.BO,Groww Silver ETF FOF - Regular - IDCW,Unknown,Regular,IDCW
 0P0001XGXW.BO,HDFC Diversified Equity All Cap Active FOF - Direct Plan - Growth Plan,HDFC Mutual Fund,Direct,Growth
 0P0001XGXX.BO,HDFC Diversified Equity All Cap Active FOF - IDCW - Direct Plan,HDFC Mutual Fund,Direct,IDCW
 0P0001XGY0.BO,HDFC Diversified Equity All Cap Active FOF - IDCW - Regular Plan,HDFC Mutual Fund,Regular,IDCW
@@ -7716,7 +7812,6 @@ BBNPPGOLD.NS,Baroda BNP Paribas Gold ETF,Unknown,Unknown,Unknown
 CHOICEGOLD.NS,Choice Gold ETF,Unknown,Unknown,Unknown
 ,DSP Gold ETF,DSP Mutual Fund,Unknown,Unknown
 EGOLD.NS,Edelweiss Gold ETF,Unknown,Unknown,Unknown
-GROWWGOLD.NS,Groww Gold ETF,Unknown,Unknown,Unknown
 ,HDFC Gold ETF - Growth Option,HDFC Mutual Fund,Unknown,Growth
 HSBCGOLD.NS,HSBC Gold ETF,HSBC Mutual Fund,Unknown,Unknown
 ,ICICI Prudential Gold ETF,ICICI Prudential Mutual Fund,Unknown,Unknown
@@ -8153,46 +8248,6 @@ GOLDCASE.NS,Zerodha Gold ETF,Unknown,Unknown,Unknown
 0P00005VD6.BO,Franklin India Index Fund- NSE Nifty 50 Index Fund - Growth,Franklin Templeton Mutual Fund,Unknown,Growth
 0P00005VD4.BO,Franklin India INDEX FUND- NSE NIFTY 50 INDEX FUND - IDCW,Franklin Templeton Mutual Fund,Unknown,IDCW
 0P0000XW5F.BO,Franklin India INDEX FUND- NSE NIFTY 50 INDEX FUND- Direct - Growth,Franklin Templeton Mutual Fund,Direct,Growth
-0P0001WDP1.BO,Groww Nifty 50 Index Fund Direct Growth,Unknown,Direct,Growth
-0P0001WDP2.BO,Groww Nifty 50 Index Fund Direct IDCW,Unknown,Direct,IDCW
-0P0001WDP4.BO,Groww Nifty 50 Index Fund Regular Growth,Unknown,Regular,Growth
-0P0001WDP5.BO,Groww Nifty 50 Index Fund Regular IDCW,Unknown,Regular,IDCW
-0P0001UHGT.BO,Groww Nifty India Railways PSU Index Fund - Direct Plan - Growth,Unknown,Direct,Growth
-0P0001UHGU.BO,Groww Nifty India Railways PSU Index Fund - Direct Plan - IDCW,Unknown,Direct,IDCW
-0P0001UHGW.BO,Groww Nifty India Railways PSU Index Fund - Regular Plan - Growth,Unknown,Regular,Growth
-0P0001UHGX.BO,Groww Nifty India Railways PSU Index Fund - Regular Plan - IDCW,Unknown,Regular,IDCW
-0P0001Y2VN.BO,Groww Nifty Midcap 150 Index Fund Direct Growth,Unknown,Direct,Growth
-0P0001Y2VO.BO,Groww Nifty Midcap 150 Index fund Direct IDCW,Unknown,Direct,IDCW
-0P0001Y2VQ.BO,Groww Nifty Midcap 150 Index Fund Regular Growth,Unknown,Regular,Growth
-0P0001Y2VR.BO,Groww Nifty Midcap 150 Index Fund Regular IDCW,Unknown,Regular,IDCW
-0P0001X72T.BO,Groww Nifty Next 50 Index Fund Direct Growth,Unknown,Direct,Growth
-0P0001X72U.BO,Groww Nifty Next 50 Index Fund Direct IDCW,Unknown,Direct,IDCW
-0P0001X72W.BO,Groww Nifty Next 50 Index Fund Regular Growth,Unknown,Regular,Growth
-0P0001X72X.BO,Groww Nifty Next 50 Index Fund Regular IDCW,Unknown,Regular,IDCW
-0P0001SUZK.BO,Groww Nifty Non-Cyclical Consumer Index Fund - Direct Plan - IDCW,Unknown,Direct,IDCW
-0P0001SUZJ.BO,Groww Nifty Non-Cyclical Consumer Index Fund - Direct Plan Growth,Unknown,Direct,Growth
-0P0001SUZN.BO,Groww Nifty Non-Cyclical Consumer Index Fund - IDCW,Unknown,Unknown,IDCW
-0P0001SUZM.BO,Groww Nifty Non-Cyclical Consumer Index Fund - Regular Plan - Growth,Unknown,Regular,Growth
-0P0002P6LA.BO,Groww Nifty Private Bank Index Fund Direct Growth,Unknown,Direct,Growth
-0P0002P6LB.BO,Groww Nifty Private Bank Index Fund Direct IDCW,Unknown,Direct,IDCW
-0P0002P6LD.BO,Groww Nifty Private Bank Index Fund Regular Growth,Unknown,Regular,Growth
-0P0002P6LE.BO,Groww Nifty Private Bank Index Fund Regular IDCW,Unknown,Regular,IDCW
-0P00021E6G.BO,Groww Nifty PSU Bank Index Fund Direct Growth,Unknown,Direct,Growth
-0P00021E6H.BO,Groww Nifty PSU Bank Index Fund Direct IDCW,Unknown,Direct,IDCW
-0P00021E6J.BO,Groww Nifty PSU Bank Index Fund Regular Growth,Unknown,Regular,Growth
-0P00021E6K.BO,Groww Nifty PSU Bank Index Fund Regular IDCW,Unknown,Regular,IDCW
-0P0001SDCV.BO,Groww Nifty Smallcap 250 Index Fund - Direct Plan - Growth,Unknown,Direct,Growth
-0P0001SDCW.BO,Groww Nifty Smallcap 250 Index Fund - Direct Plan - IDCW,Unknown,Direct,IDCW
-0P0001SDCY.BO,Groww Nifty Smallcap 250 Index Fund - Regular Plan - Growth,Unknown,Regular,Growth
-0P0001SDCZ.BO,Groww Nifty Smallcap 250 Index Fund - Regular Plan - Regular Plan - IDCW,Unknown,Regular,IDCW
-0P00035GEM.BO,Groww Nifty Smallcap 250 Momentum Quality 100 Index Fund Direct Growth,Unknown,Direct,Growth
-0P00035GEN.BO,Groww Nifty Smallcap 250 Momentum Quality 100 Index Fund Direct IDCW,Unknown,Direct,IDCW
-0P00035GEP.BO,Groww Nifty Smallcap 250 Momentum Quality 100 Index Fund Regular Growth,Unknown,Regular,Growth
-0P00035GEQ.BO,Groww Nifty Smallcap 250 Momentum Quality 100 Index Fund Regular IDCW,Unknown,Regular,IDCW
-0P0001RNUZ.BO,Groww Nifty Total Market Index Fund - Direct Plan - Growth,Unknown,Direct,Growth
-0P0001RNV0.BO,Groww Nifty Total Market Index Fund - Direct Plan - IDCW,Unknown,Direct,IDCW
-0P0001RNV2.BO,Groww Nifty Total Market Index Fund - Regular Plan - Growth,Unknown,Regular,Growth
-0P0001RNV3.BO,Groww Nifty Total Market Index Fund - Regular Plan - IDCW,Unknown,Regular,IDCW
 0P0001QRNN.BO,HDFC BSE 500 Index Fund - Growth Option - Direct Plan,HDFC Mutual Fund,Direct,Growth
 0P0001QRNO.BO,HDFC BSE 500 Index Fund - Regular Plan - Growth Option,HDFC Mutual Fund,Regular,Growth
 0P0001Y6JN.BO,HDFC BSE India Sector Leaders Index Fund - Regular Plan - Growth Option,HDFC Mutual Fund,Regular,Growth
@@ -8209,8 +8264,6 @@ GOLDCASE.NS,Zerodha Gold ETF,Unknown,Unknown,Unknown
 0P0001OF03.BO,HDFC NIFTY 100 Index Fund - Growth Option,HDFC Mutual Fund,Unknown,Growth
 0P0000XW7T.BO,HDFC Nifty 50 Index Fund - Direct Plan,HDFC Mutual Fund,Direct,Unknown
 0P00005WMV.BO,HDFC Nifty 50 Index Fund - Growth Plan,HDFC Mutual Fund,Unknown,Growth
-0P00035VVX.BO,HDFC Nifty Auto Index Fund- Direct Plan- Growth Option,HDFC Mutual Fund,Direct,Growth
-0P00035VVY.BO,HDFC Nifty Auto Index Fund- Growth Option,HDFC Mutual Fund,Unknown,Growth
 0P0001QJQX.BO,HDFC Nifty G-Sec Apr 2029 Index Fund - Growth Option,HDFC Mutual Fund,Unknown,Growth
 0P0001QJQW.BO,HDFC Nifty G-Sec Apr 2029 Index Fund - Growth Option - Direct Plan,HDFC Mutual Fund,Direct,Growth
 0P0001PYIN.BO,HDFC Nifty G-Sec Dec 2026 Index Fund - Growth Option,HDFC Mutual Fund,Unknown,Growth
@@ -8566,8 +8619,8 @@ GOLDCASE.NS,Zerodha Gold ETF,Unknown,Unknown,Unknown
 0P0001PEGA.BO,Motilal Oswal BSE Financials ex Bank 30 Index Fund Regular Growth,Motilal Oswal Mutual Fund,Regular,Growth
 0P0001OKF7.BO,Motilal Oswal BSE Low Volatility Index Fund-Direct plan,Motilal Oswal Mutual Fund,Unknown,Unknown
 0P0001OKF8.BO,Motilal Oswal BSE Low Volatility Index Fund-Regular plan,Motilal Oswal Mutual Fund,Unknown,Unknown
-,Motilal Oswal BSE Midcap 150 Momentum 30 Index Fund-Direct,Motilal Oswal Mutual Fund,Unknown,Unknown
-,Motilal Oswal BSE Midcap 150 Momentum 30 Index Fund-Regular,Motilal Oswal Mutual Fund,Unknown,Unknown
+0P0002PNUE.BO,Motilal Oswal BSE Midcap 150 Momentum 30 Index Fund-Direct,Motilal Oswal Mutual Fund,Unknown,Unknown
+0P0002PNUG.BO,Motilal Oswal BSE Midcap 150 Momentum 30 Index Fund-Regular,Motilal Oswal Mutual Fund,Unknown,Unknown
 0P0001PHVP.BO,Motilal Oswal BSE Quality Index Fund-Direct plan,Motilal Oswal Mutual Fund,Unknown,Unknown
 0P0001PHVO.BO,Motilal Oswal BSE Quality Index Fund-Regular plan,Motilal Oswal Mutual Fund,Unknown,Unknown
 0P0001OACA.BO,Motilal Oswal Nifty 200 Momentum 30 Index Fund-Direct Plan,Motilal Oswal Mutual Fund,Unknown,Unknown
@@ -9069,29 +9122,6 @@ ELM250.NS,Edelweiss Nifty LargeMidcap 250 ETF - Growth,Unknown,Unknown,Growth
 ENEXT50.NS,Edelweiss Nifty Next 50 ETF,Unknown,Unknown,Unknown
 EMULTIMQ.NS,Edelweiss Nifty500 Multicap Momentum Quality 50 ETF - Growth,Unknown,Unknown,Growth
 ESILVER.NS,Edelweiss Silver ETF,Unknown,Unknown,Unknown
-GROWWHOSPI.NS,Groww BSE Hospitals ETF,Unknown,Unknown,Unknown
-GROWWPOWER.NS,Groww BSE Power ETF,Unknown,Unknown,Unknown
-GROWWLIQID.NS,Groww Nifty 1D Rate Liquid ETF,Unknown,Unknown,Unknown
-GROWWN200.NS,Groww Nifty 200 ETF,Unknown,Unknown,Unknown
-GROWWNIFTY.NS,Groww Nifty 50 ETF,Unknown,Unknown,Unknown
-GROWWLOVOL.NS,Groww Nifty 500 Low Volatility 50 ETF,Unknown,Unknown,Unknown
-GROWWMOM50.NS,Groww Nifty 500 Momentum 50 ETF,Unknown,Unknown,Unknown
-GROWWCAPM.NS,Groww Nifty Capital Markets ETF,Unknown,Unknown,Unknown
-GROWWCHEM.NS,Groww Nifty Chemicals ETF,Unknown,Unknown,Unknown
-GROWWEV.NS,GROWW NIFTY EV & NEW AGE AUTOMOTIVE ETF,Unknown,Unknown,Unknown
-GROWWDEFNC.NS,Groww Nifty India Defence ETF,Unknown,Unknown,Unknown
-GROWWNET.NS,Groww Nifty India Internet ETF,Unknown,Unknown,Unknown
-GROWWRAIL.NS,Groww Nifty India Railways PSU ETF,Unknown,Unknown,Unknown
-GROWWMETAL.NS,Groww Nifty Metal ETF,Unknown,Unknown,Unknown
-GROWWMC150.NS,Groww Nifty Midcap 150 ETF,Unknown,Unknown,Unknown
-GROWWNXT50.NS,Groww Nifty Next 50 ETF,Unknown,Unknown,Unknown
-PVTBKGROWW.NS,Groww Nifty Private Bank ETF,Unknown,Unknown,Unknown
-GROWWPSE.NS,Groww Nifty PSE ETF,Unknown,Unknown,Unknown
-GROWWPSUBK.NS,Groww Nifty PSU Bank ETF,Unknown,Unknown,Unknown
-GROWWRLTY.NS,Groww Nifty Realty ETF,Unknown,Unknown,Unknown
-GROWWSC250.NS,Groww Nifty Smallcap250 ETF,Unknown,Unknown,Unknown
-SMALLGROWW.NS,Groww Nifty Smallcap 250 Momentum Quality 100 ETF,Unknown,Unknown,Unknown
-GROWWSLVR.NS,Groww Silver ETF,Unknown,Unknown,Unknown
 HDFCBSE500.NS,HDFC BSE 500 ETF - Growth Option,HDFC Mutual Fund,Unknown,Growth
 ,HDFC BSE Sensex ETF - Growth Plan,HDFC Mutual Fund,Unknown,Growth
 ,HDFC NIFTY 100 ETF - Growth Option,HDFC Mutual Fund,Unknown,Growth
