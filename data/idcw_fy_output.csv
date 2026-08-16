@@ -78657,13 +78657,13 @@ PVTBANK.NS,Kotak Nifty Private Bank ETF,2026-2027,27.40999984741211,27.409999847
 CEMNTGROWW.NS,Groww Nifty Cements ETF,2026-2027,15.359999656677246,15.229999542236328,0.0,15.294999599456789,0.0
 EMETAL.NS,Edelweiss Nifty Metal ETF,2026-2027,13.100000381469728,12.869999885559082,0.0,12.985000133514404,0.0
 0P0002PNUE.BO,Motilal Oswal BSE Midcap 150 Momentum 30 Index Fund-Direct,2026-2027,10.340700149536133,10.447699546813965,0.0,10.394199848175049,0.0
-0P0002PNUG.BO,Motilal Oswal BSE Midcap 150 Momentum 30 Index Fund-Regular,2026-2027,10.338500022888184,10.444999694824219,0.0,10.391749858856201,0.0
-0P00035VVZ.BO,Tata Multi Sector Passive FOF Direct Plan Growth Option,2026-2027,9.991000175476074,10.029600143432617,0.0,10.010300159454346,0.0
-0P00035VW0.BO,Tata Multi Sector Passive FOF Direct Plan IDCW Payout Option,2026-2027,9.991000175476074,10.029600143432617,0.0,10.010300159454346,0.0
-0P00035VW2.BO,Tata Multi Sector Passive FOF Regular Plan Growth Option,2026-2027,9.987799644470215,10.025899887084961,0.0,10.006849765777588,0.0
-0P00035VW3.BO,Tata Multi Sector Passive FOF Regular Plan IDCW Payout Option,2026-2027,9.987799644470215,10.025899887084961,0.0,10.006849765777588,0.0
+0P0002PNUG.BO,Motilal Oswal BSE Midcap 150 Momentum 30 Index Fund-Regular,2026-2027,10.338500022888184,10.44499969482422,0.0,10.3917498588562,0.0
+0P00035VVZ.BO,Tata Multi Sector Passive FOF Direct Plan Growth Option,2026-2027,9.991000175476074,10.029600143432615,0.0,10.010300159454346,0.0
+0P00035VW0.BO,Tata Multi Sector Passive FOF Direct Plan IDCW Payout Option,2026-2027,9.991000175476074,10.029600143432615,0.0,10.010300159454346,0.0
+0P00035VW2.BO,Tata Multi Sector Passive FOF Regular Plan Growth Option,2026-2027,9.987799644470217,10.02589988708496,0.0,10.006849765777588,0.0
+0P00035VW3.BO,Tata Multi Sector Passive FOF Regular Plan IDCW Payout Option,2026-2027,9.987799644470217,10.02589988708496,0.0,10.006849765777588,0.0
 0P00035W6B.BO,TRUSTMF LARGE & MIDCAP FUND - DIRECT PLAN - GROWTH,2026-2027,10.140000343322754,10.15999984741211,0.0,10.150000095367432,0.0
-0P00035W6C.BO,TRUSTMF LARGE & MIDCAP FUND - REGULAR PLAN - GROWTH,2026-2027,10.130000114440918,10.149999618530273,0.0,10.139999866485596,0.0
+0P00035W6C.BO,TRUSTMF LARGE & MIDCAP FUND - REGULAR PLAN - GROWTH,2026-2027,10.130000114440918,10.149999618530272,0.0,10.139999866485596,0.0
 0P00035XVC.BO,NJ Momentum Fund - Direct Growth,2026-2027,10.119999885559082,10.140000343322754,0.0,10.130000114440918,0.0
 0P00035XVD.BO,NJ Momentum Fund - Direct IDCW,2026-2027,10.119999885559082,10.140000343322754,0.0,10.130000114440918,0.0
 0P00035XVE.BO,NJ Momentum Fund - Regular Growth,2026-2027,10.119999885559082,10.130000114440918,0.0,10.125,0.0
@@ -78672,11 +78672,218 @@ EMETAL.NS,Edelweiss Nifty Metal ETF,2026-2027,13.100000381469728,12.869999885559
 0P00035XVH.BO,NJ Value Fund - Direct IDCW,2026-2027,10.0,10.020000457763672,0.0,10.010000228881836,0.0
 0P00035XVI.BO,NJ Value Fund - Regular Growth,2026-2027,10.0,10.020000457763672,0.0,10.010000228881836,0.0
 0P00035XVJ.BO,NJ Value Fund - Regular IDCW,2026-2027,10.0,10.020000457763672,0.0,10.010000228881836,0.0
-0P0003613P.BO,Mirae Asset Nifty200 Momentum 30 Plus 8-13yr G-Sec 75:25 Index Fund - Direct Plan - Growth,2026-2027,10.0,10.26099967956543,0.0,10.130499839782715,0.0
-0P0003613Q.BO,Mirae Asset Nifty200 Momentum 30 Plus 8-13yr G-Sec 75:25 Index Fund - Direct Plan - IDCW,2026-2027,10.0,10.26099967956543,0.0,10.130499839782715,0.0
-0P0003613S.BO,Mirae Asset Nifty200 Momentum 30 Plus 8-13yr G-Sec 75:25 Index Fund - Regular Plan - Growth,2026-2027,10.0,10.258999824523926,0.0,10.129499912261963,0.0
-0P0003613T.BO,Mirae Asset Nifty200 Momentum 30 Plus 8-13yr G-Sec 75:25 Index Fund - Regular Plan - IDCW,2026-2027,10.0,10.258999824523926,0.0,10.129499912261963,0.0
+0P0003613P.BO,Mirae Asset Nifty200 Momentum 30 Plus 8-13yr G-Sec 75:25 Index Fund - Direct Plan - Growth,2026-2027,10.0,10.26099967956543,0.0,10.130499839782717,0.0
+0P0003613Q.BO,Mirae Asset Nifty200 Momentum 30 Plus 8-13yr G-Sec 75:25 Index Fund - Direct Plan - IDCW,2026-2027,10.0,10.26099967956543,0.0,10.130499839782717,0.0
+0P0003613S.BO,Mirae Asset Nifty200 Momentum 30 Plus 8-13yr G-Sec 75:25 Index Fund - Regular Plan - Growth,2026-2027,10.0,10.258999824523926,0.0,10.129499912261965,0.0
+0P0003613T.BO,Mirae Asset Nifty200 Momentum 30 Plus 8-13yr G-Sec 75:25 Index Fund - Regular Plan - IDCW,2026-2027,10.0,10.258999824523926,0.0,10.129499912261965,0.0
 0P00036TLR.BO,Invesco India Ultra Short Duration Fund - Direct Plan - Weekly IDCW (Payout / Reinvestment),2026-2027,1146.091552734375,1145.81005859375,0.0,1145.9508056640625,0.0
 EBANK10.NS,Edelweiss BSE Top 10 Bank ETF,2026-2027,16.950000762939453,16.950000762939453,0.0,16.950000762939453,0.0
 HYBRIDETF.NS,Mirae Asset Nifty200 Momentum 30 Plus 8-13 yr G-Sec 50:50 ETF,2026-2027,10.0600004196167,10.119999885559082,0.0,10.09000015258789,0.0
 MIDBANKADD.NS,DSP BSE MidSmall Private Banks ETF,2026-2027,17.399999618530273,17.399999618530273,0.0,17.399999618530273,0.0
+0P0001E1XW.BO,UTI Liquid Fund - Regular Plan - Half-Yearly IDCW,2018-2019,1038.130126953125,1046.0703125,0.0,1042.1002197265625,0.0
+0P0001E1XW.BO,UTI Liquid Fund - Regular Plan - Half-Yearly IDCW,2019-2020,1000.1386108398438,1011.1953735351562,0.0,1005.6669921875,0.0
+0P0001E1XW.BO,UTI Liquid Fund - Regular Plan - Half-Yearly IDCW,2020-2021,1001.1085815429688,1029.3671875,0.0,1015.2378845214844,0.0
+0P0001E1XW.BO,UTI Liquid Fund - Regular Plan - Half-Yearly IDCW,2021-2022,1029.4532470703125,1064.23193359375,0.0,1046.8425903320312,0.0
+0P0001E1XW.BO,UTI Liquid Fund - Regular Plan - Half-Yearly IDCW,2022-2023,1064.3387451171875,1124.7320556640625,0.0,1094.535400390625,0.0
+0P0001E1XW.BO,UTI Liquid Fund - Regular Plan - Half-Yearly IDCW,2023-2024,1125.4642333984375,1204.8079833984375,0.0,1165.1361083984375,0.0
+0P0001E1XW.BO,UTI Liquid Fund - Regular Plan - Half-Yearly IDCW,2024-2025,1205.7547607421875,1292.9825439453125,0.0,1249.36865234375,0.0
+0P0001E1XW.BO,UTI Liquid Fund - Regular Plan - Half-Yearly IDCW,2025-2026,1293.9249267578125,1373.062744140625,0.0,1333.4938354492188,0.0
+0P0001E1XW.BO,UTI Liquid Fund - Regular Plan - Half-Yearly IDCW,2026-2027,1373.6053466796875,140.93280029296875,0.0,757.2690734863281,0.0
+0P0003603V.BO,Abakkus Large & Mid Cap Fund - Direct  Plan - Growth,2018-2019,,,0.0,,
+0P0003603V.BO,Abakkus Large & Mid Cap Fund - Direct  Plan - Growth,2019-2020,,,0.0,,
+0P0003603V.BO,Abakkus Large & Mid Cap Fund - Direct  Plan - Growth,2020-2021,,,0.0,,
+0P0003603V.BO,Abakkus Large & Mid Cap Fund - Direct  Plan - Growth,2021-2022,,,0.0,,
+0P0003603V.BO,Abakkus Large & Mid Cap Fund - Direct  Plan - Growth,2022-2023,,,0.0,,
+0P0003603V.BO,Abakkus Large & Mid Cap Fund - Direct  Plan - Growth,2023-2024,,,0.0,,
+0P0003603V.BO,Abakkus Large & Mid Cap Fund - Direct  Plan - Growth,2024-2025,,,0.0,,
+0P0003603V.BO,Abakkus Large & Mid Cap Fund - Direct  Plan - Growth,2025-2026,,,0.0,,
+0P0003603V.BO,Abakkus Large & Mid Cap Fund - Direct  Plan - Growth,2026-2027,10.045999526977539,10.031000137329102,0.0,10.03849983215332,0.0
+0P0003603W.BO,Abakkus Large & Mid Cap Fund - Regular Plan - Growth,2018-2019,,,0.0,,
+0P0003603W.BO,Abakkus Large & Mid Cap Fund - Regular Plan - Growth,2019-2020,,,0.0,,
+0P0003603W.BO,Abakkus Large & Mid Cap Fund - Regular Plan - Growth,2020-2021,,,0.0,,
+0P0003603W.BO,Abakkus Large & Mid Cap Fund - Regular Plan - Growth,2021-2022,,,0.0,,
+0P0003603W.BO,Abakkus Large & Mid Cap Fund - Regular Plan - Growth,2022-2023,,,0.0,,
+0P0003603W.BO,Abakkus Large & Mid Cap Fund - Regular Plan - Growth,2023-2024,,,0.0,,
+0P0003603W.BO,Abakkus Large & Mid Cap Fund - Regular Plan - Growth,2024-2025,,,0.0,,
+0P0003603W.BO,Abakkus Large & Mid Cap Fund - Regular Plan - Growth,2025-2026,,,0.0,,
+0P0003603W.BO,Abakkus Large & Mid Cap Fund - Regular Plan - Growth,2026-2027,10.041999816894531,10.026000022888184,0.0,10.033999919891357,0.0
+0P0003603X.BO,Baroda BNP Paribas Services Fund - Direct Growth Option,2018-2019,,,0.0,,
+0P0003603X.BO,Baroda BNP Paribas Services Fund - Direct Growth Option,2019-2020,,,0.0,,
+0P0003603X.BO,Baroda BNP Paribas Services Fund - Direct Growth Option,2020-2021,,,0.0,,
+0P0003603X.BO,Baroda BNP Paribas Services Fund - Direct Growth Option,2021-2022,,,0.0,,
+0P0003603X.BO,Baroda BNP Paribas Services Fund - Direct Growth Option,2022-2023,,,0.0,,
+0P0003603X.BO,Baroda BNP Paribas Services Fund - Direct Growth Option,2023-2024,,,0.0,,
+0P0003603X.BO,Baroda BNP Paribas Services Fund - Direct Growth Option,2024-2025,,,0.0,,
+0P0003603X.BO,Baroda BNP Paribas Services Fund - Direct Growth Option,2025-2026,,,0.0,,
+0P0003603X.BO,Baroda BNP Paribas Services Fund - Direct Growth Option,2026-2027,10.007200241088867,10.017999649047852,0.0,10.01259994506836,0.0
+0P0003603Y.BO,Baroda BNP Paribas Services Fund - Direct IDCW Payout option,2018-2019,,,0.0,,
+0P0003603Y.BO,Baroda BNP Paribas Services Fund - Direct IDCW Payout option,2019-2020,,,0.0,,
+0P0003603Y.BO,Baroda BNP Paribas Services Fund - Direct IDCW Payout option,2020-2021,,,0.0,,
+0P0003603Y.BO,Baroda BNP Paribas Services Fund - Direct IDCW Payout option,2021-2022,,,0.0,,
+0P0003603Y.BO,Baroda BNP Paribas Services Fund - Direct IDCW Payout option,2022-2023,,,0.0,,
+0P0003603Y.BO,Baroda BNP Paribas Services Fund - Direct IDCW Payout option,2023-2024,,,0.0,,
+0P0003603Y.BO,Baroda BNP Paribas Services Fund - Direct IDCW Payout option,2024-2025,,,0.0,,
+0P0003603Y.BO,Baroda BNP Paribas Services Fund - Direct IDCW Payout option,2025-2026,,,0.0,,
+0P0003603Y.BO,Baroda BNP Paribas Services Fund - Direct IDCW Payout option,2026-2027,10.007200241088867,10.017999649047852,0.0,10.01259994506836,0.0
+0P00036040.BO,Baroda BNP Paribas Services Fund - Regular Growth option,2018-2019,,,0.0,,
+0P00036040.BO,Baroda BNP Paribas Services Fund - Regular Growth option,2019-2020,,,0.0,,
+0P00036040.BO,Baroda BNP Paribas Services Fund - Regular Growth option,2020-2021,,,0.0,,
+0P00036040.BO,Baroda BNP Paribas Services Fund - Regular Growth option,2021-2022,,,0.0,,
+0P00036040.BO,Baroda BNP Paribas Services Fund - Regular Growth option,2022-2023,,,0.0,,
+0P00036040.BO,Baroda BNP Paribas Services Fund - Regular Growth option,2023-2024,,,0.0,,
+0P00036040.BO,Baroda BNP Paribas Services Fund - Regular Growth option,2024-2025,,,0.0,,
+0P00036040.BO,Baroda BNP Paribas Services Fund - Regular Growth option,2025-2026,,,0.0,,
+0P00036040.BO,Baroda BNP Paribas Services Fund - Regular Growth option,2026-2027,10.0024995803833,10.011799812316895,0.0,10.007149696350098,0.0
+0P00036042.BO,Baroda BNP Paribas Services Fund - Regular IDCW Payout,2018-2019,,,0.0,,
+0P00036042.BO,Baroda BNP Paribas Services Fund - Regular IDCW Payout,2019-2020,,,0.0,,
+0P00036042.BO,Baroda BNP Paribas Services Fund - Regular IDCW Payout,2020-2021,,,0.0,,
+0P00036042.BO,Baroda BNP Paribas Services Fund - Regular IDCW Payout,2021-2022,,,0.0,,
+0P00036042.BO,Baroda BNP Paribas Services Fund - Regular IDCW Payout,2022-2023,,,0.0,,
+0P00036042.BO,Baroda BNP Paribas Services Fund - Regular IDCW Payout,2023-2024,,,0.0,,
+0P00036042.BO,Baroda BNP Paribas Services Fund - Regular IDCW Payout,2024-2025,,,0.0,,
+0P00036042.BO,Baroda BNP Paribas Services Fund - Regular IDCW Payout,2025-2026,,,0.0,,
+0P00036042.BO,Baroda BNP Paribas Services Fund - Regular IDCW Payout,2026-2027,10.0024995803833,10.011799812316895,0.0,10.007149696350098,0.0
+0P00036044.BO,The Wealth Company Mid Cap Fund- Direct-Growth,2018-2019,,,0.0,,
+0P00036044.BO,The Wealth Company Mid Cap Fund- Direct-Growth,2019-2020,,,0.0,,
+0P00036044.BO,The Wealth Company Mid Cap Fund- Direct-Growth,2020-2021,,,0.0,,
+0P00036044.BO,The Wealth Company Mid Cap Fund- Direct-Growth,2021-2022,,,0.0,,
+0P00036044.BO,The Wealth Company Mid Cap Fund- Direct-Growth,2022-2023,,,0.0,,
+0P00036044.BO,The Wealth Company Mid Cap Fund- Direct-Growth,2023-2024,,,0.0,,
+0P00036044.BO,The Wealth Company Mid Cap Fund- Direct-Growth,2024-2025,,,0.0,,
+0P00036044.BO,The Wealth Company Mid Cap Fund- Direct-Growth,2025-2026,,,0.0,,
+0P00036044.BO,The Wealth Company Mid Cap Fund- Direct-Growth,2026-2027,9.976200103759766,9.963700294494629,0.0,9.969950199127197,0.0
+0P00036045.BO,The Wealth Company Mid Cap Fund- Direct- IDCW,2018-2019,,,0.0,,
+0P00036045.BO,The Wealth Company Mid Cap Fund- Direct- IDCW,2019-2020,,,0.0,,
+0P00036045.BO,The Wealth Company Mid Cap Fund- Direct- IDCW,2020-2021,,,0.0,,
+0P00036045.BO,The Wealth Company Mid Cap Fund- Direct- IDCW,2021-2022,,,0.0,,
+0P00036045.BO,The Wealth Company Mid Cap Fund- Direct- IDCW,2022-2023,,,0.0,,
+0P00036045.BO,The Wealth Company Mid Cap Fund- Direct- IDCW,2023-2024,,,0.0,,
+0P00036045.BO,The Wealth Company Mid Cap Fund- Direct- IDCW,2024-2025,,,0.0,,
+0P00036045.BO,The Wealth Company Mid Cap Fund- Direct- IDCW,2025-2026,,,0.0,,
+0P00036045.BO,The Wealth Company Mid Cap Fund- Direct- IDCW,2026-2027,9.976099967956543,9.963600158691406,0.0,9.969850063323975,0.0
+0P00036047.BO,The Wealth Company Mid Cap Fund- Regular-Growth,2018-2019,,,0.0,,
+0P00036047.BO,The Wealth Company Mid Cap Fund- Regular-Growth,2019-2020,,,0.0,,
+0P00036047.BO,The Wealth Company Mid Cap Fund- Regular-Growth,2020-2021,,,0.0,,
+0P00036047.BO,The Wealth Company Mid Cap Fund- Regular-Growth,2021-2022,,,0.0,,
+0P00036047.BO,The Wealth Company Mid Cap Fund- Regular-Growth,2022-2023,,,0.0,,
+0P00036047.BO,The Wealth Company Mid Cap Fund- Regular-Growth,2023-2024,,,0.0,,
+0P00036047.BO,The Wealth Company Mid Cap Fund- Regular-Growth,2024-2025,,,0.0,,
+0P00036047.BO,The Wealth Company Mid Cap Fund- Regular-Growth,2025-2026,,,0.0,,
+0P00036047.BO,The Wealth Company Mid Cap Fund- Regular-Growth,2026-2027,9.971799850463867,9.9576997756958,0.0,9.964749813079834,0.0
+0P00036048.BO,The Wealth Company Mid Cap Fund-Regular-IDCW,2018-2019,,,0.0,,
+0P00036048.BO,The Wealth Company Mid Cap Fund-Regular-IDCW,2019-2020,,,0.0,,
+0P00036048.BO,The Wealth Company Mid Cap Fund-Regular-IDCW,2020-2021,,,0.0,,
+0P00036048.BO,The Wealth Company Mid Cap Fund-Regular-IDCW,2021-2022,,,0.0,,
+0P00036048.BO,The Wealth Company Mid Cap Fund-Regular-IDCW,2022-2023,,,0.0,,
+0P00036048.BO,The Wealth Company Mid Cap Fund-Regular-IDCW,2023-2024,,,0.0,,
+0P00036048.BO,The Wealth Company Mid Cap Fund-Regular-IDCW,2024-2025,,,0.0,,
+0P00036048.BO,The Wealth Company Mid Cap Fund-Regular-IDCW,2025-2026,,,0.0,,
+0P00036048.BO,The Wealth Company Mid Cap Fund-Regular-IDCW,2026-2027,9.972200393676758,9.958200454711914,0.0,9.965200424194336,0.0
+0P00036TOJ.BO,AlphaGrep Liquid Omni FoF- Direct Growth,2018-2019,,,0.0,,
+0P00036TOJ.BO,AlphaGrep Liquid Omni FoF- Direct Growth,2019-2020,,,0.0,,
+0P00036TOJ.BO,AlphaGrep Liquid Omni FoF- Direct Growth,2020-2021,,,0.0,,
+0P00036TOJ.BO,AlphaGrep Liquid Omni FoF- Direct Growth,2021-2022,,,0.0,,
+0P00036TOJ.BO,AlphaGrep Liquid Omni FoF- Direct Growth,2022-2023,,,0.0,,
+0P00036TOJ.BO,AlphaGrep Liquid Omni FoF- Direct Growth,2023-2024,,,0.0,,
+0P00036TOJ.BO,AlphaGrep Liquid Omni FoF- Direct Growth,2024-2025,,,0.0,,
+0P00036TOJ.BO,AlphaGrep Liquid Omni FoF- Direct Growth,2025-2026,,,0.0,,
+0P00036TOJ.BO,AlphaGrep Liquid Omni FoF- Direct Growth,2026-2027,1001.32470703125,1001.49462890625,0.0,1001.40966796875,0.0
+0P00036TOK.BO,AlphaGrep Liquid Omni FoF- Direct IDCW,2018-2019,,,0.0,,
+0P00036TOK.BO,AlphaGrep Liquid Omni FoF- Direct IDCW,2019-2020,,,0.0,,
+0P00036TOK.BO,AlphaGrep Liquid Omni FoF- Direct IDCW,2020-2021,,,0.0,,
+0P00036TOK.BO,AlphaGrep Liquid Omni FoF- Direct IDCW,2021-2022,,,0.0,,
+0P00036TOK.BO,AlphaGrep Liquid Omni FoF- Direct IDCW,2022-2023,,,0.0,,
+0P00036TOK.BO,AlphaGrep Liquid Omni FoF- Direct IDCW,2023-2024,,,0.0,,
+0P00036TOK.BO,AlphaGrep Liquid Omni FoF- Direct IDCW,2024-2025,,,0.0,,
+0P00036TOK.BO,AlphaGrep Liquid Omni FoF- Direct IDCW,2025-2026,,,0.0,,
+0P00036TOK.BO,AlphaGrep Liquid Omni FoF- Direct IDCW,2026-2027,1001.32470703125,1001.49462890625,0.0,1001.40966796875,0.0
+0P00036TOM.BO,AlphaGrep Liquid Omni FoF- Regular Growth,2018-2019,,,0.0,,
+0P00036TOM.BO,AlphaGrep Liquid Omni FoF- Regular Growth,2019-2020,,,0.0,,
+0P00036TOM.BO,AlphaGrep Liquid Omni FoF- Regular Growth,2020-2021,,,0.0,,
+0P00036TOM.BO,AlphaGrep Liquid Omni FoF- Regular Growth,2021-2022,,,0.0,,
+0P00036TOM.BO,AlphaGrep Liquid Omni FoF- Regular Growth,2022-2023,,,0.0,,
+0P00036TOM.BO,AlphaGrep Liquid Omni FoF- Regular Growth,2023-2024,,,0.0,,
+0P00036TOM.BO,AlphaGrep Liquid Omni FoF- Regular Growth,2024-2025,,,0.0,,
+0P00036TOM.BO,AlphaGrep Liquid Omni FoF- Regular Growth,2025-2026,,,0.0,,
+0P00036TOM.BO,AlphaGrep Liquid Omni FoF- Regular Growth,2026-2027,1001.291015625,1001.4572143554688,0.0,1001.3741149902344,0.0
+0P00036TON.BO,AlphaGrep Liquid Omni FoF- Regular IDCW,2018-2019,,,0.0,,
+0P00036TON.BO,AlphaGrep Liquid Omni FoF- Regular IDCW,2019-2020,,,0.0,,
+0P00036TON.BO,AlphaGrep Liquid Omni FoF- Regular IDCW,2020-2021,,,0.0,,
+0P00036TON.BO,AlphaGrep Liquid Omni FoF- Regular IDCW,2021-2022,,,0.0,,
+0P00036TON.BO,AlphaGrep Liquid Omni FoF- Regular IDCW,2022-2023,,,0.0,,
+0P00036TON.BO,AlphaGrep Liquid Omni FoF- Regular IDCW,2023-2024,,,0.0,,
+0P00036TON.BO,AlphaGrep Liquid Omni FoF- Regular IDCW,2024-2025,,,0.0,,
+0P00036TON.BO,AlphaGrep Liquid Omni FoF- Regular IDCW,2025-2026,,,0.0,,
+0P00036TON.BO,AlphaGrep Liquid Omni FoF- Regular IDCW,2026-2027,1001.291015625,1001.4572143554688,0.0,1001.3741149902344,0.0
+0P00036UJN.BO,Kotak Money Market Fund - Direct - IDCW Weekly,2018-2019,,,0.0,,
+0P00036UJN.BO,Kotak Money Market Fund - Direct - IDCW Weekly,2019-2020,,,0.0,,
+0P00036UJN.BO,Kotak Money Market Fund - Direct - IDCW Weekly,2020-2021,,,0.0,,
+0P00036UJN.BO,Kotak Money Market Fund - Direct - IDCW Weekly,2021-2022,,,0.0,,
+0P00036UJN.BO,Kotak Money Market Fund - Direct - IDCW Weekly,2022-2023,,,0.0,,
+0P00036UJN.BO,Kotak Money Market Fund - Direct - IDCW Weekly,2023-2024,,,0.0,,
+0P00036UJN.BO,Kotak Money Market Fund - Direct - IDCW Weekly,2024-2025,,,0.0,,
+0P00036UJN.BO,Kotak Money Market Fund - Direct - IDCW Weekly,2025-2026,,,0.0,,
+0P00036UJN.BO,Kotak Money Market Fund - Direct - IDCW Weekly,2026-2027,1001.6680908203125,1001.7955932617188,0.0,1001.7318420410156,0.0
+0P00036UM0.BO,Kotak Liquid Fund - Direct - IDCW,2018-2019,,,0.0,,
+0P00036UM0.BO,Kotak Liquid Fund - Direct - IDCW,2019-2020,,,0.0,,
+0P00036UM0.BO,Kotak Liquid Fund - Direct - IDCW,2020-2021,,,0.0,,
+0P00036UM0.BO,Kotak Liquid Fund - Direct - IDCW,2021-2022,,,0.0,,
+0P00036UM0.BO,Kotak Liquid Fund - Direct - IDCW,2022-2023,,,0.0,,
+0P00036UM0.BO,Kotak Liquid Fund - Direct - IDCW,2023-2024,,,0.0,,
+0P00036UM0.BO,Kotak Liquid Fund - Direct - IDCW,2024-2025,,,0.0,,
+0P00036UM0.BO,Kotak Liquid Fund - Direct - IDCW,2025-2026,,,0.0,,
+0P00036UM0.BO,Kotak Liquid Fund - Direct - IDCW,2026-2027,1000.676025390625,1000.8444213867188,0.0,1000.7602233886719,0.0
+0P00036UOG.BO,Kotak Savings Fund - Direct - IDCW,2018-2019,,,0.0,,
+0P00036UOG.BO,Kotak Savings Fund - Direct - IDCW,2019-2020,,,0.0,,
+0P00036UOG.BO,Kotak Savings Fund - Direct - IDCW,2020-2021,,,0.0,,
+0P00036UOG.BO,Kotak Savings Fund - Direct - IDCW,2021-2022,,,0.0,,
+0P00036UOG.BO,Kotak Savings Fund - Direct - IDCW,2022-2023,,,0.0,,
+0P00036UOG.BO,Kotak Savings Fund - Direct - IDCW,2023-2024,,,0.0,,
+0P00036UOG.BO,Kotak Savings Fund - Direct - IDCW,2024-2025,,,0.0,,
+0P00036UOG.BO,Kotak Savings Fund - Direct - IDCW,2025-2026,,,0.0,,
+0P00036UOG.BO,Kotak Savings Fund - Direct - IDCW,2026-2027,10.009099960327148,10.012800216674805,0.0,10.010950088500977,0.0
+0P00036UOO.BO,Kotak Corporate Bond Fund - Direct -IDCW,2018-2019,,,0.0,,
+0P00036UOO.BO,Kotak Corporate Bond Fund - Direct -IDCW,2019-2020,,,0.0,,
+0P00036UOO.BO,Kotak Corporate Bond Fund - Direct -IDCW,2020-2021,,,0.0,,
+0P00036UOO.BO,Kotak Corporate Bond Fund - Direct -IDCW,2021-2022,,,0.0,,
+0P00036UOO.BO,Kotak Corporate Bond Fund - Direct -IDCW,2022-2023,,,0.0,,
+0P00036UOO.BO,Kotak Corporate Bond Fund - Direct -IDCW,2023-2024,,,0.0,,
+0P00036UOO.BO,Kotak Corporate Bond Fund - Direct -IDCW,2024-2025,,,0.0,,
+0P00036UOO.BO,Kotak Corporate Bond Fund - Direct -IDCW,2025-2026,,,0.0,,
+0P00036UOO.BO,Kotak Corporate Bond Fund - Direct -IDCW,2026-2027,1000.62060546875,1002.014892578125,0.0,1001.3177490234375,0.0
+0P00036UPN.BO,Kotak Money Market Fund - Regular - IDCW Weekly,2018-2019,,,0.0,,
+0P00036UPN.BO,Kotak Money Market Fund - Regular - IDCW Weekly,2019-2020,,,0.0,,
+0P00036UPN.BO,Kotak Money Market Fund - Regular - IDCW Weekly,2020-2021,,,0.0,,
+0P00036UPN.BO,Kotak Money Market Fund - Regular - IDCW Weekly,2021-2022,,,0.0,,
+0P00036UPN.BO,Kotak Money Market Fund - Regular - IDCW Weekly,2022-2023,,,0.0,,
+0P00036UPN.BO,Kotak Money Market Fund - Regular - IDCW Weekly,2023-2024,,,0.0,,
+0P00036UPN.BO,Kotak Money Market Fund - Regular - IDCW Weekly,2024-2025,,,0.0,,
+0P00036UPN.BO,Kotak Money Market Fund - Regular - IDCW Weekly,2025-2026,,,0.0,,
+0P00036UPN.BO,Kotak Money Market Fund - Regular - IDCW Weekly,2026-2027,1000.719970703125,1001.2750244140625,0.0,1000.9974975585938,0.0
+0P00036UQB.BO,Kotak Money Market Fund - Direct - IDCW,2018-2019,,,0.0,,
+0P00036UQB.BO,Kotak Money Market Fund - Direct - IDCW,2019-2020,,,0.0,,
+0P00036UQB.BO,Kotak Money Market Fund - Direct - IDCW,2020-2021,,,0.0,,
+0P00036UQB.BO,Kotak Money Market Fund - Direct - IDCW,2021-2022,,,0.0,,
+0P00036UQB.BO,Kotak Money Market Fund - Direct - IDCW,2022-2023,,,0.0,,
+0P00036UQB.BO,Kotak Money Market Fund - Direct - IDCW,2023-2024,,,0.0,,
+0P00036UQB.BO,Kotak Money Market Fund - Direct - IDCW,2024-2025,,,0.0,,
+0P00036UQB.BO,Kotak Money Market Fund - Direct - IDCW,2025-2026,,,0.0,,
+0P00036UQB.BO,Kotak Money Market Fund - Direct - IDCW,2026-2027,1001.2236938476562,1001.4963989257812,0.0,1001.3600463867188,0.0
+ELMDIV.NS,Edelweiss BSE LargeMid (60:40) Stable Dividend 50 ETF,2018-2019,,,0.0,,
+ELMDIV.NS,Edelweiss BSE LargeMid (60:40) Stable Dividend 50 ETF,2019-2020,,,0.0,,
+ELMDIV.NS,Edelweiss BSE LargeMid (60:40) Stable Dividend 50 ETF,2020-2021,,,0.0,,
+ELMDIV.NS,Edelweiss BSE LargeMid (60:40) Stable Dividend 50 ETF,2021-2022,,,0.0,,
+ELMDIV.NS,Edelweiss BSE LargeMid (60:40) Stable Dividend 50 ETF,2022-2023,,,0.0,,
+ELMDIV.NS,Edelweiss BSE LargeMid (60:40) Stable Dividend 50 ETF,2023-2024,,,0.0,,
+ELMDIV.NS,Edelweiss BSE LargeMid (60:40) Stable Dividend 50 ETF,2024-2025,,,0.0,,
+ELMDIV.NS,Edelweiss BSE LargeMid (60:40) Stable Dividend 50 ETF,2025-2026,,,0.0,,
+ELMDIV.NS,Edelweiss BSE LargeMid (60:40) Stable Dividend 50 ETF,2026-2027,36.67959976196289,36.869998931884766,0.0,36.77479934692383,0.0
+INSUREIETF.NS,ICICI Prudential BSE Insurance ETF,2018-2019,,,0.0,,
+INSUREIETF.NS,ICICI Prudential BSE Insurance ETF,2019-2020,,,0.0,,
+INSUREIETF.NS,ICICI Prudential BSE Insurance ETF,2020-2021,,,0.0,,
+INSUREIETF.NS,ICICI Prudential BSE Insurance ETF,2021-2022,,,0.0,,
+INSUREIETF.NS,ICICI Prudential BSE Insurance ETF,2022-2023,,,0.0,,
+INSUREIETF.NS,ICICI Prudential BSE Insurance ETF,2023-2024,,,0.0,,
+INSUREIETF.NS,ICICI Prudential BSE Insurance ETF,2024-2025,,,0.0,,
+INSUREIETF.NS,ICICI Prudential BSE Insurance ETF,2025-2026,,,0.0,,
+INSUREIETF.NS,ICICI Prudential BSE Insurance ETF,2026-2027,15.839500427246094,15.470000267028809,0.0,15.654750347137451,0.0
